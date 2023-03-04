@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nossa Língua"
+  navbar:
+    right:
+      - sobre.qmd
+      - icon: instagram
+        href: https://github.com/
+  page-footer:
+    left: Nossa Língua
+    background: "#172855"
+    foreground: "#e4e7ef"
+  
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    lang: pt
+    toc: true
+    toc-location: left
+    toc-title: Nesta edição
+    mainfont: 'Roboto Slab'
+    language:
+      title-block-published: " "
+      
+editor: visual
+

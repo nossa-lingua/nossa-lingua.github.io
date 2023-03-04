@@ -1,0 +1,64 @@
+/* css styles */
+
+.title {
+  font-family: 'Prata';
+}
+
+.navbar-title {
+  font-family: 'Prata';
+  font-size: 40px;
+}
+
+.listing-title {
+  font-family: 'Prata';
+}
+
+.menu-text {
+  font-family: 'Prata';
+}
+
+.nav-footer {
+  font-family: 'Prata';
+}
+
+.listing-date {
+  font-family: 'Prata';
+}
+
+.listing-description {
+  font-family: 'Roboto Slab';
+}
+
+.quarto-title-meta-heading  {
+  font-family: 'Prata';
+}
+
+.quarto-title h1 {
+  font-size: 30px;
+}
+
+.quarto-title-meta-contents  {
+  font-family: 'Prata';
+  font-size: 12px;
+}
+
+.quarto-banner-title-block h2 {
+  font-family: 'Prata';
+  font-size: 30px;
+}
+
+.imgpar {
+  width: 50%;
+  float: left;
+  margin-right: 10px;
+}
+
+.content {
+  text-align: justify;
+}
+
+.content p:first-of-type {
+  text-indent: 30px;
+}
+
+/* #e4e7ef */

@@ -1,0 +1,28 @@
+---
+title: "2<sup>a</sup> Edição"
+date: "2023-03-10"
+image: "2ed.jpeg"
+description: |
+---
+
+## Boas vindas caloures
+
+![](2ed.jpeg){.imgpar} A Nossa Língua nasceu a partir da queixa em comum de váries alunes da Letras que sentiam falta de um espaço onde pudessem trocar ideia. O desejo é de construir com o periódico, a partir do suporte e colaboração da nossa comunidade, um espaço seguro no qual possamos palavrear sem ruídos: desde as mais inspiradas reflexões até as dores que só quem faz parte da USP pode dizer. Para isso, acreditamos que é preciso fomentar o debate entre as diferentes opiniões para que possamos nos fortalecer enquanto grupo de discentes e conquistar autonomia, a fim de possibilitar mudanças reais em nossa faculdade. São muitos os desafios em nossa rotina, inúmeras questões perpassam nosso grupo e, trazê-las à tona em um espaço apto para a escuta, se mostra um recurso facilitador nesse período da graduação que pode ser muito cansativo e solitário. E é pensando em uma trajetória fraterna e autônoma para o nosso corpo estudantil -- que é cada vez mais diverso e tem nisso sua maior potência -- que a proposta do nosso periódico se fundamenta nos princípios de equidade, considerando a pluralidade subjetiva entre nós, de comprometimento em ressoar nossas ideias com respeito e consciência, zelando pela convivência equilibrada e agradável entre as várias pessoas da nossa faculdade e, por fim, uma linguagem que ecoe todo e qualquer linguajar uspiano.
+
+Fala. É só uma voz? Falando assim, até parece um sonho que pode soar ingênuo.
+
+Solta a voz. Fica à vontade\...
+
+Escuta, do quê seria o futuro sem se conversar utopias?
+
+## Espaço do Cael
+
+### Perguntas e respostas da primeira semana dos calouros
+
+## A USP como ela é
+
+### Perspectivas dos beletristas
+
+## Fala memo!
+
+### Chamada para pessoas ajudarem + Link do Insta + Considerações
