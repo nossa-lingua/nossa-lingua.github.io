@@ -13,7 +13,7 @@ website:
     left: Nossa Língua
     background: "#172855"
     foreground: "#e4e7ef"
-  
+
 format:
   html:
     theme: 
