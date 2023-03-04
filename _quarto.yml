@@ -13,6 +13,9 @@ website:
     left: Nossa Língua
     background: "#172855"
     foreground: "#e4e7ef"
+  twitter-card: true
+  site-url: https://nossa-lingua.github.io
+  open-graph: true
 
 format:
   html:
