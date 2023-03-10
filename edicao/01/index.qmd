@@ -7,13 +7,15 @@ description: |
 
 ## Boas vindas caloures
 
-![](texto.jpeg){.imgpar} A Nossa Língua nasceu a partir da queixa em comum de váries alunes da Letras que sentiam falta de um espaço onde pudessem trocar ideia. O desejo é de construir com o periódico, a partir do suporte e colaboração da nossa comunidade, um espaço seguro no qual possamos palavrear sem ruídos: desde as mais inspiradas reflexões até as dores que só quem faz parte da USP pode dizer. Para isso, acreditamos que é preciso fomentar o debate entre as diferentes opiniões para que possamos nos fortalecer enquanto grupo de discentes e conquistar autonomia, a fim de possibilitar mudanças reais em nossa faculdade. São muitos os desafios em nossa rotina, inúmeras questões perpassam nosso grupo e, trazê-las à tona em um espaço apto para a escuta, se mostra um recurso facilitador nesse período da graduação que pode ser muito cansativo e solitário. E é pensando em uma trajetória fraterna e autônoma para o nosso corpo estudantil -- que é cada vez mais diverso e tem nisso sua maior potência -- que a proposta do nosso periódico se fundamenta nos princípios de equidade, considerando a pluralidade subjetiva entre nós, de comprometimento em ressoar nossas ideias com respeito e consciência, zelando pela convivência equilibrada e agradável entre as várias pessoas da nossa faculdade e, por fim, uma linguagem que ecoe todo e qualquer linguajar uspiano.
+![](texto.jpeg){.imgpar} Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet in arcu id convallis. Aliquam sagittis ullamcorper nunc et viverra. Sed sit amet mollis urna, mollis ultrices neque. Ut in quam ultricies, eleifend dui at, porttitor velit. Morbi lorem leo, tincidunt at velit eget, pharetra tincidunt ipsum. Nulla ac porta nisl. Nam lectus sem, rutrum quis mollis vel, mattis nec nisl. Pellentesque dignissim arcu sed orci interdum porta.
 
-Fala. É só uma voz? Falando assim, até parece um sonho que pode soar ingênuo.
+Cras vulputate lectus at augue dignissim, vitae ultrices nunc cursus. Donec eros lacus, eleifend id dignissim at, cursus a libero. Pellentesque vitae nulla risus. Ut ut mauris sollicitudin, ornare sem quis, congue ex. Aenean dignissim mi aliquet maximus viverra. Sed posuere laoreet diam, bibendum maximus odio dictum eget. Cras vel tortor nisl.
 
-Solta a voz. Fica à vontade\...
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum iaculis velit a tortor tincidunt, in blandit magna egestas. Duis efficitur eros non odio ullamcorper, ac mollis sapien laoreet. Sed consequat, diam nec feugiat tristique, nisl nunc tincidunt nisl, et vestibulum nisi urna venenatis sapien. Nam dictum fringilla lectus. In eu porttitor lacus, vel lacinia urna. Nulla fringilla venenatis lectus, a consequat dui eleifend ullamcorper. Cras sodales turpis vel luctus varius. Nam eu turpis et erat consectetur fringilla. Nulla facilisi. Nam non nunc viverra, porttitor tellus quis, tempor eros. Curabitur viverra vestibulum nisi ut semper. Suspendisse in auctor lacus. Sed vehicula, nibh id blandit vestibulum, eros lacus posuere leo, tristique porttitor lacus massa a nulla. Aliquam luctus id tellus vitae ullamcorper.
 
-Escuta, do quê seria o futuro sem se conversar utopias?
+Pellentesque nec ante laoreet, vestibulum tortor et, dapibus tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sed turpis quis lorem dapibus tincidunt eget scelerisque nulla. Maecenas enim metus, gravida ut pellentesque in, tristique et tellus. Sed velit ligula, gravida eu enim varius, eleifend dignissim sem. Pellentesque porttitor auctor vulputate. Suspendisse eu tellus in dui iaculis dignissim. Maecenas ac sodales ante, a tristique diam. Suspendisse ornare cursus nibh, ut tempus lectus pulvinar et. Maecenas semper molestie mauris vel tincidunt.
+
+Suspendisse efficitur faucibus sem et rutrum. Praesent purus lorem, egestas id lacinia vel, interdum a mi. Suspendisse potenti. Ut faucibus elementum purus vel interdum. Nulla nec ligula a ante porttitor maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Mauris maximus lacus sem, id tempus libero blandit at. Phasellus vel ex hendrerit felis sollicitudin dictum. Nullam eleifend dolor sit amet lacinia venenatis. Maecenas tincidunt condimentum mauris. Pellentesque elementum at neque ac iaculis. Sed volutpat leo sed neque condimentum vulputate. Ut a tempor nisi. Vivamus maximus quam gravida eros porttitor, eget sollicitudin risus suscipit.
 
 ## A USP como ela é
 
@@ -22,7 +24,6 @@ Escuta, do quê seria o futuro sem se conversar utopias?
 ## Espaço do Cael
 
 ### Perguntas e respostas da primeira semana dos calouros
-
 
 ## <i class="bi bi-mic-fill"></i> Fala memo!
 
