@@ -3,6 +3,7 @@ page-layout: custom
 navbar: false
 page-footer: false
 image: "image.jpg"
+description: "Revista da Letras USP"
 ---
 
 <div class="capa">
