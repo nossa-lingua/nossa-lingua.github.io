@@ -4,7 +4,7 @@ date: "2023-03-04"
 image: "1ed.jpeg"
 description: |
   “Quais são suas intenções comigo?”
-  Calma, aqui nós deixamos tudo claro. 
+  Calma, aqui nós deixamos tudo claro.
 ---
 
 ## Bem-vindes à USP!
@@ -121,4 +121,9 @@ Para os textos serem publicados em nossa revista, seguimos alguns norteadores é
 **Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
 :::
 
+
+## Edição em PDF
+
+<p style="text-indent:0px; font-size: 32px">
 <a href="#"><i class="bi bi-filetype-pdf"></i></a>
+</p>
