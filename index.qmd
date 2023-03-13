@@ -1,15 +1,19 @@
 ---
-listing:
-  contents: [edicao, sobre.qmd]
-  sort: 
-    - "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  image-align: left
-  date-format: "short"
-  max-description-length: 100
-page-layout: article
-title-block-banner: false
+page-layout: custom
+navbar: false
+page-footer: false
 ---
+
+<div class="capa">
+  <div class="topo">
+  <h1 class= "titulo">Nossa Língua</h1>
+  <h3 class="subtitulo">Revista da Letras USP</h3>
+  <hr>
+  </div>
+
+  <span class="botao">
+  <a class="botao" href="/edicoes.html">
+    Conversando utopias
+  </a>
+  </span>
+</div>

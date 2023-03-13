@@ -1,0 +1,14 @@
+---
+listing:
+  contents: [edicao, sobre.qmd]
+  sort: 
+    - "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-align: left
+  date-format: "MMMM YYYY"
+  max-description-length: 100
+page-layout: article
+---
