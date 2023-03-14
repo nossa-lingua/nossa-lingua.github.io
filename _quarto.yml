@@ -12,6 +12,7 @@ website:
   twitter-card: true
   site-url: https://nossa-lingua.github.io
   open-graph: true
+  google-analytics: G-F1B8E57YRL
 
 format:
   html:
