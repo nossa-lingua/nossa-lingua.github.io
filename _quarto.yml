@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nossa Língua"
+  favicon: favicon.ico
   navbar:
     right:
       - sobre.qmd
@@ -13,6 +14,32 @@ website:
   site-url: https://nossa-lingua.github.io
   open-graph: true
   google-analytics: G-F1B8E57YRL
+  page-navigation: true
+  sidebar:
+    contents:
+      - section: "A"
+        contents:
+          - section: Edições
+            contents:
+              - href: edicao/01/index.qmd
+              - href: edicao/02/index.qmd
+              - href: edicao/03/index.qmd
+          - section: Edição 3
+            contents:
+                - edicao/03/textos/revolve.qmd
+                - edicao/03/textos/paroxitona-sete-letras.qmd
+                - edicao/03/textos/conselho-de-vo.qmd
+                - edicao/03/textos/lilas.qmd
+                - edicao/03/textos/naufrago.qmd
+                - edicao/03/textos/baile.qmd
+                - edicao/03/textos/cigarros.qmd
+                - edicao/03/textos/reconhecenca.qmd
+                - edicao/03/textos/do-que-antes.qmd
+                - edicao/03/textos/biblioteca.qmd
+                - edicao/03/textos/dedicatorias.qmd
+                - edicao/03/textos/como-vai.qmd
+                - edicao/03/textos/bichinho-virtual.qmd
+                - edicao/03/textos/grilo.qmd
 
 format:
   html:
@@ -27,6 +54,7 @@ format:
     mainfont: 'Roboto Slab'
     language:
       title-block-published: " "
+      title-block-author-single: "POR"
       
 editor: visual
 

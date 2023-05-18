@@ -8,3 +8,15 @@ freeze: true
 title-block-banner: true
 
 date-format: "MMMM YYYY"
+sidebar: false
+format:
+  html: 
+    include-after-body: 
+      - text: |
+          <script>
+            var div = document.createElement('div'); 
+            div.setAttribute('id', 'comentario'); 
+            document.getElementById('quarto-content').appendChild(div);
+          </script>
+          <script defer src="https://comento-oijbfqiwuq-rj.a.run.app/comentario.js"></script>
+          

@@ -1,0 +1,74 @@
+---
+title: "3<sup>a</sup> Edição"
+date: "2023-05-04"
+image: "3ed.jpeg"
+description: |
+  A tua confissão, eu quero
+listing: 
+  - id: edicao
+    contents: 
+      - textos/revolve.qmd
+      - textos/paroxitona-sete-letras.qmd
+      - textos/conselho-de-vo.qmd
+      - textos/lilas.qmd
+      - textos/naufrago.qmd
+      - textos/baile.qmd
+      - textos/cigarros.qmd
+      - textos/reconhecenca.qmd
+      - textos/do-que-antes.qmd
+      - textos/um-dia.qmd
+      - textos/biblioteca.qmd
+      - textos/dedicatorias.qmd
+      - textos/como-vai.qmd
+      - textos/bichinho-virtual.qmd
+      - textos/grilo.qmd
+    type: default
+    sort: "false"
+    fields: [title, author]
+---
+
+## A tua confissão, eu quero
+
+![](capa.jpeg){.imgpar width="60%"}Em um texto de saudades é impossível mentir. Esses textos não têm um tipo qualquer; são sempre confissões. Textos sobre o *vazio* ou *perda* não exprimem a falta, necessariamente. A *saudade*, pelo contrário, demanda apelo e entrega e por isso é espinhosa. E que sorte a nossa termos essa palavra. Signos são arbitrários, mas nesse jogo duplo o significado foi atado a um significante específico e, só assim, nenhum outro pode ser o mesmo. Nem em outras línguas. Azar do resto, a saudade é nossa. No entanto, ela é melancólica, como um troféu dúbio: tipo ter sentido o prazer de ver o Lula presidente com o Alckmin de vice. Brincadeiras à parte, rir pode ser uma das poucas saídas em face da presença colossal da saudade, pois para senti-la, você precisa experimentar a dor provocada pela falta. Ela implica um desejo de retorno, uma viagem de volta. Não é sobre superar ou simplesmente se lembrar sem se tornar vulnerável ao seu poder, mas sempre estar refém do seu incômodo.
+
+## Maio
+
+
+Nesta edição da Nossa Língua, pedimos para que vocês nos levassem nesse caminho regresso a fim de revivermos histórias juntes. O poema “[*revolve*](textos/revolve.html)” invoca o desejo lancinante provocado pela falta. “[Paroxítona, sete letras, três sílabas](textos/paroxitona-sete-letras.html)” infunde um olhar reflexivo sobre a saudade, e apesar do tom meditativo, aproxima–se de “[Conselho de vó](textos/conselho-de-vo.html)”, já que similarmente enaltecem a potência reconstrutiva da saudade, proveniente da força de nossa ancestralidade. Em “[Lilás](textos/lilas.html)”, vemos impressa a grandeza  da saudade que de tão invasiva, é impossível de ser ignorada. “[Náufrago](textos/naufrago.html)” nos leva à uma viagem em alto mar, na qual as memórias dançam boas lembranças como uma alucinação em um eu-lírico sem rumo. Já em “[Baile](textos/baile.html)”, o eu-lírico dança sozinho suas memórias sem a presença de seu estimado par. 
+A saudade aparece amarga como um trago em “[Cigarros](textos/cigarros.html)”, diferente de “[reconhecença](textos/reconhecenca.html)”, que nos traz um depoimento de resignação dócil sobre as lembranças marcantes que geram saudade inevitavelmente, por seu valor inestimável. “[do que antes era algo belo](textos/do-que-antes.html)” retrata o lamento da perda e os resquícios de uma despedida não dita. “[Um dia](um-dia.html)” nos conta sobre as idas e vindas do percurso típico da saudade, como um caminho circular em direção ao almejado esquecimento que ainda escapa. “[A biblioteca](textos/biblioteca.html)” revela o espectro de uma vida eternizada nos livros e outros objetos da casa, como um oferecimento afetuoso. Oferecimento no qual também experienciamos em “[Dedicatórias](textos/dedicatorias.html)”. Por fim, “[Como vai você?](textos/como-vai.html)” expressa o turbilhão de sentimentos gerados pela ausência e a batalha interna para seguir em frente. 
+
+Contamos também com as colunas: “[Túnel do tempo](textos/bichinho-virtual.html)” e “[Ângulo](textos/grilo.html)”. Na primeira, trazemos um convite à rememoração de produções culturais passadas  como  a literatura, música, moda, objetos, obras, programas de TV e qualquer coisa que você possa imaginar, desde que tenham ocorrido há, pelo menos, uma década. Em seu lançamento, falamos sobre o “bichinho virtual”. Já a coluna “Ângulo” é composta por textos que relatam desde impressões pessoais até análises críticas das referências culturais de vocês sobre as mais variadas produções como livros, filmes, eventos e manifestações  artísticas em geral. Neste mês, trazemos o relato sobre um show da banda O Grilo em “sábado, 11 de dezembro de 2022”.
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p></p>
+
+| Attílio Braghetto 
+| Cibele Brotto 
+| Guilherme Faber
+| Livia Bernardes
+| 
+| Revisão
+| Bruna Silva
+

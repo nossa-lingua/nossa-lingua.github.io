@@ -1,7 +1,28 @@
 [
   {
+    "listing": "/edicao/03/index.html",
+    "items": [
+      "/edicao/03/textos/revolve.html",
+      "/edicao/03/textos/paroxitona-sete-letras.html",
+      "/edicao/03/textos/conselho-de-vo.html",
+      "/edicao/03/textos/lilas.html",
+      "/edicao/03/textos/naufrago.html",
+      "/edicao/03/textos/baile.html",
+      "/edicao/03/textos/cigarros.html",
+      "/edicao/03/textos/reconhecenca.html",
+      "/edicao/03/textos/do-que-antes.html",
+      "/edicao/03/textos/um-dia.html",
+      "/edicao/03/textos/biblioteca.html",
+      "/edicao/03/textos/dedicatorias.html",
+      "/edicao/03/textos/como-vai.html",
+      "/edicao/03/textos/bichinho-virtual.html",
+      "/edicao/03/textos/grilo.html"
+    ]
+  },
+  {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/03/index.html",
       "/edicao/02/index.html",
       "/edicao/01/index.html",
       "/sobre.html"

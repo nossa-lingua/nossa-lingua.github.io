@@ -57,7 +57,7 @@
   text-align: justify;
 }
 
-.content p:first-of-type {
+.content > *:not(.quarto-listing) p:first-of-type {
   text-indent: 30px;
 }
 
@@ -127,6 +127,10 @@
 
 .topo hr {
   width: 18em;
+}
+
+#listing-edicao h3 {
+  font-size: 20px;
 }
 
 /* #e4e7ef */
