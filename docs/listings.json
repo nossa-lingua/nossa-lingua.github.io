@@ -20,8 +20,34 @@
     ]
   },
   {
+    "listing": "/edicao/04/index.html",
+    "items": [
+      "/edicao/04/textos/brasa.html",
+      "/edicao/04/textos/29-04-2022.html",
+      "/edicao/04/textos/ngiyakuthanda.html",
+      "/edicao/04/textos/os-astros-o-sol.html",
+      "/edicao/04/textos/nu-inacabado.html",
+      "/edicao/04/textos/desramo.html",
+      "/edicao/04/textos/sua-cidade.html",
+      "/edicao/04/textos/adagas.html",
+      "/edicao/04/textos/chama-fria.html",
+      "/edicao/04/textos/as-faces-do-amor.html",
+      "/edicao/04/textos/interludio.html",
+      "/edicao/04/textos/o-amor.html",
+      "/edicao/04/textos/retenha-me.html",
+      "/edicao/04/textos/sininho-de-belem.html",
+      "/edicao/04/textos/amor.html",
+      "/edicao/04/textos/ainda-sobre-voce.html",
+      "/edicao/04/textos/notas-sobre-o-amor.html",
+      "/edicao/04/textos/a-historia-de-quem-me-traiu.html",
+      "/edicao/04/textos/amar-verbo-proibido.html",
+      "/edicao/04/textos/o-sul-da-italia.html"
+    ]
+  },
+  {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/04/index.html",
       "/edicao/03/index.html",
       "/edicao/02/index.html",
       "/edicao/01/index.html",

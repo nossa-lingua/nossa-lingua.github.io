@@ -1,0 +1,7 @@
+---
+title: "Chama Fria"
+author: 
+  - name: Anônimo
+---
+
+![](chama-fria.jpeg)

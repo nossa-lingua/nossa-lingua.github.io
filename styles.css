@@ -133,4 +133,8 @@
   font-size: 20px;
 }
 
+#text-center p {
+  text-align: center!important;
+}
+
 /* #e4e7ef */
