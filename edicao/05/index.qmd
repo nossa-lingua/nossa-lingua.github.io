@@ -15,7 +15,7 @@ listing:
       - textos/canto-da-sereia.qmd
       - textos/rapto-da-razao.qmd
       - textos/meu-antinoo.qmd
-      - textos/seu-rsto-uma-pintura.qmd
+      - textos/seu-rosto-uma-pintura.qmd
     sort: "false"
     fields: [title, author]
 ---
