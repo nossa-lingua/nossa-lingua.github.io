@@ -11,6 +11,11 @@ listing:
       - textos/devasso.qmd
       - textos/(;).qmd
       - textos/nos.qmd
+      - textos/crisma.qmd
+      - textos/canto-da-sereia.qmd
+      - textos/rapto-da-razao.qmd
+      - textos/meu-antinoo.qmd
+      - textos/seu-rsto-uma-pintura.qmd
     sort: "false"
     fields: [title, author]
 ---
