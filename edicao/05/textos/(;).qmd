@@ -1,7 +1,7 @@
 ---
 title: "(;)"
 author: 
-  - name: Cibele Brotto
+  - name: Cibele M Brotto
 ---
 
 | As linhas de uma rota sinuosa
@@ -17,6 +17,5 @@ author:
 | Um salto quântico na imensidão
 | Sentir o ar daquela sensação
 | Palpitar do seio coronário
-| Você nunca superou esse corolário 
+| Você nunca superou esse corolário
 | e não vai.
-

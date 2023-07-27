@@ -1,7 +1,7 @@
 ---
 title: "Devasso"
 author: 
-  - name: Luis Otavio de Sousa
+  - name: Otavio de Sousa
 ---
 
 | Tenho imaginado
