@@ -45,8 +45,24 @@
     ]
   },
   {
+    "listing": "/edicao/05/index.html",
+    "items": [
+      "/edicao/05/textos/devasso.html",
+      "/edicao/05/textos/(;).html",
+      "/edicao/05/textos/nos.html",
+      "/edicao/05/textos/crisma.html",
+      "/edicao/05/textos/seu-rosto-uma-pintura.html",
+      "/edicao/05/textos/febre.html",
+      "/edicao/05/textos/canto-da-sereia.html",
+      "/edicao/05/textos/rapto-da-razao.html",
+      "/edicao/05/textos/meu-antinoo.html",
+      "/edicao/05/textos/barbie.html"
+    ]
+  },
+  {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/05/index.html",
       "/edicao/04/index.html",
       "/edicao/03/index.html",
       "/edicao/02/index.html",

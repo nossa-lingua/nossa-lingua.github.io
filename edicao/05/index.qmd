@@ -1,0 +1,71 @@
+---
+title: "5<sup>a</sup> Edição"
+date: "2023-07-27"
+image: "5ed.jpeg"
+description: |
+  Onomatopeia do prazer
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/devasso.qmd
+      - textos/(;).qmd
+      - textos/nos.qmd
+      - textos/crisma.qmd
+      - textos/seu-rosto-uma-pintura.qmd
+      - textos/febre.qmd
+      - textos/canto-da-sereia.qmd
+      - textos/rapto-da-razao.qmd
+      - textos/meu-antinoo.qmd
+      - textos/barbie.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Onomatopeia do prazer
+
+![](capa.jpeg){.imgpar width="60%"}Ta aí um dos momentos menos racionais: a chegada do tesão. Para uns, um pecado, para outros, um escape. Outros tantos encaram como indissociável do amor, mas a Rita vai discordar… Um é um, o outro é outro. Eu? Discordo da rainha do rock brasileiro - sem anular a opinião dela, pois é muito válida. Mas, cá entre nós, amor tem tudo a ver com tesão.
+
+O santo tem que bater. Simples assim. No entanto, verdade seja dita: existem dois tipos de tesão. Um deles é estimulado através da linguagem, aquele papo gostoso, fácil, que quando a gente vê já passou horas conversando sobre tudo & nada. Uma delícia. Não tô falando de sapiosexualidade - chata pra caramba, soberba -, até porque beleza e inteligência são relativas, pode acreditar. Tô falando daquela conversa em dois registros, cheia de cantadas, que logo já tamo falando piadinha que não machuca. Esse é o flerte, meu favorito. O outro tipo é o da química, aquela coisa que funciona com ou sem palavras. Esse gênero é instintivo, irracional e independente. Chama que acende com um olhar sem que ninguém precise dizer nada. A gente se percebe pelo cheiro, um movimento discreto pode irromper lava. Esse é dos brabos porque carece de argumentos, a gente fica tipo cavalo selvagem sem sela. O primeiro trabalha os sentimentos de maneira profunda, fluímos por entre os interstícios da mente um do outro. O segundo joga com o instinto, um impulso impetuoso que ferra com a nossa honra e provoca o nosso senso com força. O primeiro vai tateando, o segundo vem sedento.
+
+Em todo o caso, os dois desembocam no corpo, *locus* do prazer terreno, onde a sensorialidade energética flui e reanima os sentidos. Aprecie.
+
+## Julho
+
+Em nossa quinta edição, pedimos a vocês os gemidos, os grunhidos, os emojis babando, o tesão. Em ["Devasso"](textos/devasso.qmd) o eu lírico explicita o desejo do encontro, para que se possa desafogar a potência ainda no campo do imaginário. No poema ["(;)"](textos/(;).qmd) um símbolo basta. Em ["nós"](textos/nos.qmd), o elo que envolve o laço é a entrega ao prazer do nos. No poema ["crisma"](textos/crisma.qmd), a servidão do corpo é religiosa, devota. ["Seu rosto é uma pintura"](textos/seu-rosto-uma-pintura.qmd) explora em detalhes o efeito quente e impiedoso do querer provocado pelo tesão. ["Febre"](textos/febre.qmd) escancara o êxito do tesão em sua mais pura intensidade. No texto ["O canto da sereia"](textos/canto-da-sereia.qmd), a promessa do encontro seria o exemplo perfeito entre objeto desejado e o querer desejante, fórmula certeira no paradigma da excitação. ["O rapto da razão"](textos/rapto-da-razao.qmd) discorre sobre o fluir do desejo que pode nos trair. No poema ["Meu Antínoo"](textos/meu-antinoo.qmd) é deflagrada uma espécie de ode a esse deus que teve uma morte prematura, agora com um final partilhado. Por fim, na coluna "Ângulo", uma [resenha do filme "Barbie"](textos/barbie.qmd).
+
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Attílio Braghetto
+| Cibele M Brotto
+| Guilherme Faber
+| Livia Bernardes
+| 
+| Revisão
+| Bruna Silva
