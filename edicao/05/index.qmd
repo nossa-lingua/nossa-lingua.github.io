@@ -1,6 +1,6 @@
 ---
 title: "5<sup>a</sup> Edição"
-date: "2023-06-22"
+date: "2023-07-27"
 image: "4ed.jpeg"
 description: |
   Onomatopeia do prazer
