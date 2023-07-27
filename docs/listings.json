@@ -46,7 +46,11 @@
   },
   {
     "listing": "/edicao/05/index.html",
-    "items": []
+    "items": [
+      "/edicao/05/textos/devasso.html",
+      "/edicao/05/textos/(;).html",
+      "/edicao/05/textos/nos.html"
+    ]
   },
   {
     "listing": "/edicoes.html",

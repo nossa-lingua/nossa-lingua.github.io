@@ -7,6 +7,10 @@ description: |
 listing: 
   - id: edicao
     type: default
+    contents:
+      - textos/devasso.qmd
+      - textos/(;).qmd
+      - textos/nos.qmd
     sort: "false"
     fields: [title, author]
 ---
