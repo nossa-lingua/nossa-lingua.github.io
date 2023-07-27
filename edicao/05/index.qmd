@@ -12,10 +12,12 @@ listing:
       - textos/(;).qmd
       - textos/nos.qmd
       - textos/crisma.qmd
+      - textos/seu-rosto-uma-pintura.qmd
+      - textos/febre.qmd
       - textos/canto-da-sereia.qmd
       - textos/rapto-da-razao.qmd
       - textos/meu-antinoo.qmd
-      - textos/seu-rosto-uma-pintura.qmd
+      - textos/barbie.qmd
     sort: "false"
     fields: [title, author]
 ---
