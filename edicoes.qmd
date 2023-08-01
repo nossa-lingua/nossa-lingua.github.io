@@ -1,16 +1,42 @@
 ---
 listing:
-  contents: [edicao/*/index.qmd, sobre.qmd]
-  sort: 
-    - "date desc"
-  type: grid
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  image-align: left
-  date-format: "MMMM YYYY"
-  max-description-length: 100
-  image-height: 50vh
+  - id: edicoes
+    contents: [edicao/*/index.qmd]
+    sort: 
+      - "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    image-align: left
+    date-format: "MMMM YYYY"
+    max-description-length: 100
+    image-height: 50vh
+    page-size: 3
+  - id: outros
+    contents: [projeto/*/index.qmd]
+    sort: 
+      - "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    image-align: left
+    date-format: "MMMM YYYY"
+    max-description-length: 100
+    image-height: 50vh
+    page-size: 3
 sidebar: false
 page-layout: full
+toc: false
 ---
+
+<h2>Edições</h1>
+
+:::{#edicoes}
+:::
+
+<h2>Projetos</h2>
+
+:::{#outros}
+:::
