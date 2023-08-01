@@ -14,7 +14,7 @@ listing:
     image-height: 50vh
     page-size: 3
   - id: outros
-    contents: [sobre.qmd]
+    contents: [projeto/*/index.qmd]
     sort: 
       - "date desc"
     type: grid
