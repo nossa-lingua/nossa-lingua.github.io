@@ -33,11 +33,9 @@ listing:
 
 ## Maio
 
+Nesta edição da Nossa Língua, pedimos para que vocês nos levassem nesse caminho regresso a fim de revivermos histórias juntes. O poema "[*revolve*](textos/revolve.html)" invoca o desejo lancinante provocado pela falta. "[Paroxítona, sete letras, três sílabas](textos/paroxitona-sete-letras.html)" infunde um olhar reflexivo sobre a saudade, e apesar do tom meditativo, aproxima--se de "[Conselho de vó](textos/conselho-de-vo.html)", já que similarmente enaltecem a potência reconstrutiva da saudade, proveniente da força de nossa ancestralidade. Em "[Lilás](textos/lilas.html)", vemos impressa a grandeza da saudade que de tão invasiva, é impossível de ser ignorada. "[Náufrago](textos/naufrago.html)" nos leva à uma viagem em alto mar, na qual as memórias dançam boas lembranças como uma alucinação em um eu-lírico sem rumo. Já em "[Baile](textos/baile.html)", o eu-lírico dança sozinho suas memórias sem a presença de seu estimado par. A saudade aparece amarga como um trago em "[Cigarros](textos/cigarros.html)", diferente de "[reconhecença](textos/reconhecenca.html)", que nos traz um depoimento de resignação dócil sobre as lembranças marcantes que geram saudade inevitavelmente, por seu valor inestimável. "[do que antes era algo belo](textos/do-que-antes.html)" retrata o lamento da perda e os resquícios de uma despedida não dita. "[Um dia](um-dia.html)" nos conta sobre as idas e vindas do percurso típico da saudade, como um caminho circular em direção ao almejado esquecimento que ainda escapa. "[A biblioteca](textos/biblioteca.html)" revela o espectro de uma vida eternizada nos livros e outros objetos da casa, como um oferecimento afetuoso. Oferecimento no qual também experienciamos em "[Dedicatórias](textos/dedicatorias.html)". Por fim, "[Como vai você?](textos/como-vai.html)" expressa o turbilhão de sentimentos gerados pela ausência e a batalha interna para seguir em frente.
 
-Nesta edição da Nossa Língua, pedimos para que vocês nos levassem nesse caminho regresso a fim de revivermos histórias juntes. O poema “[*revolve*](textos/revolve.html)” invoca o desejo lancinante provocado pela falta. “[Paroxítona, sete letras, três sílabas](textos/paroxitona-sete-letras.html)” infunde um olhar reflexivo sobre a saudade, e apesar do tom meditativo, aproxima–se de “[Conselho de vó](textos/conselho-de-vo.html)”, já que similarmente enaltecem a potência reconstrutiva da saudade, proveniente da força de nossa ancestralidade. Em “[Lilás](textos/lilas.html)”, vemos impressa a grandeza  da saudade que de tão invasiva, é impossível de ser ignorada. “[Náufrago](textos/naufrago.html)” nos leva à uma viagem em alto mar, na qual as memórias dançam boas lembranças como uma alucinação em um eu-lírico sem rumo. Já em “[Baile](textos/baile.html)”, o eu-lírico dança sozinho suas memórias sem a presença de seu estimado par. 
-A saudade aparece amarga como um trago em “[Cigarros](textos/cigarros.html)”, diferente de “[reconhecença](textos/reconhecenca.html)”, que nos traz um depoimento de resignação dócil sobre as lembranças marcantes que geram saudade inevitavelmente, por seu valor inestimável. “[do que antes era algo belo](textos/do-que-antes.html)” retrata o lamento da perda e os resquícios de uma despedida não dita. “[Um dia](um-dia.html)” nos conta sobre as idas e vindas do percurso típico da saudade, como um caminho circular em direção ao almejado esquecimento que ainda escapa. “[A biblioteca](textos/biblioteca.html)” revela o espectro de uma vida eternizada nos livros e outros objetos da casa, como um oferecimento afetuoso. Oferecimento no qual também experienciamos em “[Dedicatórias](textos/dedicatorias.html)”. Por fim, “[Como vai você?](textos/como-vai.html)” expressa o turbilhão de sentimentos gerados pela ausência e a batalha interna para seguir em frente. 
-
-Contamos também com as colunas: “[Túnel do tempo](textos/bichinho-virtual.html)” e “[Ângulo](textos/grilo.html)”. Na primeira, trazemos um convite à rememoração de produções culturais passadas  como  a literatura, música, moda, objetos, obras, programas de TV e qualquer coisa que você possa imaginar, desde que tenham ocorrido há, pelo menos, uma década. Em seu lançamento, falamos sobre o “bichinho virtual”. Já a coluna “Ângulo” é composta por textos que relatam desde impressões pessoais até análises críticas das referências culturais de vocês sobre as mais variadas produções como livros, filmes, eventos e manifestações  artísticas em geral. Neste mês, trazemos o relato sobre um show da banda O Grilo em “sábado, 11 de dezembro de 2022”.
+Contamos também com as colunas: "[Túnel do tempo](textos/bichinho-virtual.html)" e "[Ângulo](textos/grilo.html)". Na primeira, trazemos um convite à rememoração de produções culturais passadas como a literatura, música, moda, objetos, obras, programas de TV e qualquer coisa que você possa imaginar, desde que tenham ocorrido há, pelo menos, uma década. Em seu lançamento, falamos sobre o "bichinho virtual". Já a coluna "Ângulo" é composta por textos que relatam desde impressões pessoais até análises críticas das referências culturais de vocês sobre as mais variadas produções como livros, filmes, eventos e manifestações artísticas em geral. Neste mês, trazemos o relato sobre um show da banda O Grilo em "sábado, 11 de dezembro de 2022".
 
 ## Textos nesta edição
 
@@ -62,14 +60,15 @@ Para os textos serem publicados em nossa revista, seguimos alguns norteadores é
 
 ## Equipe editorial
 
-<p></p>
+<p>
 
-| Attílio Braghetto 
-| Cibele M Brotto 
+</p>
+
+| Cibele M Brotto - Editoração
+| Bruna Silva - Revisão
+| 
+| Colaboração:
+| Attílio Braghetto
 | Guilherme Faber
 | Lana Messias
 | Livia Bernardes
-| 
-| Revisão
-| Bruna Silva
-
