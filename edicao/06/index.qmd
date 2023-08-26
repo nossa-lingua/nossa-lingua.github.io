@@ -1,9 +1,9 @@
 ---
-title: "5<sup>a</sup> Edição"
-date: "2023-07-27"
+title: "6<sup>a</sup> Edição"
+date: "2023-08-26"
 image: "5ed.jpeg"
 description: |
-  Onomatopeia do prazer
+  Miar é narrar
 listing: 
   - id: edicao
     type: default
@@ -24,7 +24,7 @@ listing:
     fields: [title, author]
 ---
 
-## Onomatopeia do prazer
+## Miar é narrar
 
 ![](capa.jpeg){.imgpar width="60%"}Poucas situações nos fazem permanecer atentos como as narrativas. Atribuídas de efeitos especiais ou não, elas são capazes de captar os nossos sentidos apenas com palavras que criam um enredo próprio, sem precisar de adereços. Seu efeito seria atribuído à originalidade do tema abordado? Uma estrutura manjada por trás, como nos filmes de Hollywood? Ou, até mesmo, *storytelling*? Pra mim, não tem exemplo mais simples e banal de narrativa do que a fofoca. É, ela mesma. Tão criticada, mas tão apreciada. O mero ato de dizer para alguém que temos uma "fofoca", já cria um ar de suspense em relação àquela história. Que pode ser bem fraca, inclusive. Mas sempre cativa.
 
