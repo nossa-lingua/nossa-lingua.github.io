@@ -1,7 +1,7 @@
 ---
 title: "6<sup>a</sup> Edição"
 date: "2023-08-26"
-image: "5ed.jpeg"
+image: "6ed.jpeg"
 description: |
   Miar é narrar
 listing: 
@@ -9,6 +9,7 @@ listing:
     type: default
     contents:
       - textos/se.qmd
+      - textos/coracao-de-sereia.qmd
       - textos/tchau-tchau-passarinho.qmd
       - textos/mediacao.qmd
       - textos/mergulho.qmd
@@ -20,13 +21,14 @@ listing:
       - textos/lembrar-de-alguem.qmd
       - textos/eddie.qmd
       - textos/dia-12.qmd
+      - textos/identidade.qmd
     sort: "false"
     fields: [title, author]
 ---
 
 ## Miar é narrar
 
-![](capa.jpeg){.imgpar width="60%"}Poucas situações nos fazem permanecer atentos como as narrativas. Atribuídas de efeitos especiais ou não, elas são capazes de captar os nossos sentidos apenas com palavras que criam um enredo próprio, sem precisar de adereços. Seu efeito seria atribuído à originalidade do tema abordado? Uma estrutura manjada por trás, como nos filmes de Hollywood? Ou, até mesmo, *storytelling*? Pra mim, não tem exemplo mais simples e banal de narrativa do que a fofoca. É, ela mesma. Tão criticada, mas tão apreciada. O mero ato de dizer para alguém que temos uma "fofoca", já cria um ar de suspense em relação àquela história. Que pode ser bem fraca, inclusive. Mas sempre cativa.
+![](capa.jpg){.imgpar width="60%"}Poucas situações nos fazem permanecer atentos como as narrativas. Atribuídas de efeitos especiais ou não, elas são capazes de captar os nossos sentidos apenas com palavras que criam um enredo próprio, sem precisar de adereços. Seu efeito seria atribuído à originalidade do tema abordado? Uma estrutura manjada por trás, como nos filmes de Hollywood? Ou, até mesmo, *storytelling*? Pra mim, não tem exemplo mais simples e banal de narrativa do que a fofoca. É, ela mesma. Tão criticada, mas tão apreciada. O mero ato de dizer para alguém que temos uma "fofoca", já cria um ar de suspense em relação àquela história. Que pode ser bem fraca, inclusive. Mas sempre cativa.
 
 De qualquer forma, o mais interessante sobre a fofoca não termina aí, ela é um bom exemplo de narrativa porque nos mostra que não é necessário ser um Autor para contar boas histórias. Se você tem aquela pessoa que cê adora conversar porque ela sabe como te deixar siderada na mesa do bar ou pendurada nos áudios do zap, você sabe do que eu tô falando. A melhor parte sobre as narrativas é que elas são democráticas e de graça, no fim, pode-se obtê-las em qualquer lugar, praticamente. Uma personagem que esboça esse caráter de contadora de histórias, não-autora, é a Dona Preguiça, do *Catalendas (1999)*. Cativante e perspicaz, a Dona Preguiça é uma contadora de histórias nata. Narrando histórias folclóricas ou contos fantásticos, a personagem era capaz de prender a atenção lançando mão apenas da fala, mantendo durante todo o tempo a atenção de Preguinho, sempre ávido por novas histórias.
 
