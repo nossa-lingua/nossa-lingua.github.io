@@ -1,0 +1,22 @@
+---
+title: "Lembrar de alguém"
+author: 
+  - name: Guilherme Antonio
+---
+
+::: {#text-center}
+
+| 
+| quem passou por aqui 
+| mudou o tempo e o
+| espaço
+| 
+| Com o espaço
+| projetou
+| miragens
+| 
+| Com o tempo
+| fez o ontem parecer
+| quase
+
+:::

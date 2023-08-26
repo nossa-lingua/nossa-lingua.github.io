@@ -44,8 +44,12 @@ website:
 format:
   html:
     theme: 
-      - cosmo
-      - custom.scss
+      light:
+        - cosmo
+        - custom.scss
+      dark: 
+        - darkly
+        - custom.scss
     css: styles.css
     lang: pt
     toc: true
@@ -55,6 +59,5 @@ format:
     language:
       title-block-published: " "
       title-block-author-single: "POR"
-      
-editor: visual
+  
 
