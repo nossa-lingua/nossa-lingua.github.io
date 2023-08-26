@@ -39,10 +39,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -140,6 +142,9 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
  <span class="menu-text"></span></a>
   </li>  
 </ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -201,7 +206,7 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="miar-é-narrar">Miar é narrar</h2>
 <p><img src="capa.jpg" class="imgpar img-fluid" style="width:60.0%">Poucas situações nos fazem permanecer atentos como as narrativas. Atribuídas de efeitos especiais ou não, elas são capazes de captar os nossos sentidos apenas com palavras que criam um enredo próprio, sem precisar de adereços. Seu efeito seria atribuído à originalidade do tema abordado? Uma estrutura manjada por trás, como nos filmes de Hollywood? Ou, até mesmo, <em>storytelling</em>? Pra mim, não tem exemplo mais simples e banal de narrativa do que a fofoca. É, ela mesma. Tão criticada, mas tão apreciada. O mero ato de dizer para alguém que temos uma “fofoca”, já cria um ar de suspense em relação àquela história. Que pode ser bem fraca, inclusive. Mas sempre cativa.</p>
 <p>De qualquer forma, o mais interessante sobre a fofoca não termina aí, ela é um bom exemplo de narrativa porque nos mostra que não é necessário ser um Autor para contar boas histórias. Se você tem aquela pessoa que cê adora conversar porque ela sabe como te deixar siderada na mesa do bar ou pendurada nos áudios do zap, você sabe do que eu tô falando. A melhor parte sobre as narrativas é que elas são democráticas e de graça, no fim, pode-se obtê-las em qualquer lugar, praticamente. Uma personagem que esboça esse caráter de contadora de histórias, não-autora, é a Dona Preguiça, do <em>Catalendas (1999)</em>. Cativante e perspicaz, a Dona Preguiça é uma contadora de histórias nata. Narrando histórias folclóricas ou contos fantásticos, a personagem era capaz de prender a atenção lançando mão apenas da fala, mantendo durante todo o tempo a atenção de Preguinho, sempre ávido por novas histórias.</p>
-<p>Na Nossa Língua, a presença das narrativas é fundamental. A colaboração de todas as pessoas que enviam suas produções artísticas é o cerne da nossa existência. Lançamos o projeto [link YT] “mês das gatificações” para trazer uma perspectiva diferente sobre a apresentação das habilitações da Letras, com um intuito original, que não seria baseado somente na ementa dos cursos disponíveis, mas centrado nas experiências diversas de nossas professoras e professores. Acreditamos que ao compartilharem essa trajetória conosco, novas possibilidades de caminhos seriam imagináveis. Nossa intenção era inspirar os discentes de uma forma diferente, através de histórias. Afinal, o roteiro proposto nada mais é do que um relato pessoal sobre o percurso na Letras.</p>
+<p>Na Nossa Língua, a presença das narrativas é fundamental. A colaboração de todas as pessoas que enviam suas produções artísticas é o cerne da nossa existência. Lançamos o projeto <a href="https://www.youtube.com/@RevistaNossaLingua">“mês das gatificações”</a> para trazer uma perspectiva diferente sobre a apresentação das habilitações da Letras, com um intuito original, que não seria baseado somente na ementa dos cursos disponíveis, mas centrado nas experiências diversas de nossas professoras e professores. Acreditamos que ao compartilharem essa trajetória conosco, novas possibilidades de caminhos seriam imagináveis. Nossa intenção era inspirar os discentes de uma forma diferente, através de histórias. Afinal, o roteiro proposto nada mais é do que um relato pessoal sobre o percurso na Letras.</p>
 </section>
 <section id="agosto" class="level2">
 <h2 class="anchored" data-anchor-id="agosto">Agosto</h2>
@@ -542,6 +547,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
