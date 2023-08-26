@@ -1,5 +1,5 @@
 ---
-title: "Eddie"
+title: "-"
 author: 
   - name: Anônimo
 ---
@@ -14,7 +14,7 @@ author:
 | Gastava o dinheiro em todas de bar,
 | Era dela que vinha o sustento família,
 | Mas nem isso era suficiente,
-| Suficiente pra ela se revoltar…
+| Suficiente pra ela se revoltar...
 | "E é melhor nem ousar reclamar",
 | Era isso que a patroa dizia,
 | Você nada respondia,
@@ -39,4 +39,3 @@ author:
 | Copiar
 | Denunciar
 | Bem antes de eu te perder.
-

@@ -19,7 +19,7 @@ listing:
       - textos/na-hora-do-bandeco.qmd
       - textos/feitico.qmd
       - textos/lembrar-de-alguem.qmd
-      - textos/eddie.qmd
+      - textos/-.qmd
       - textos/dia-12.qmd
       - textos/identidade.qmd
     sort: "false"
