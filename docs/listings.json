@@ -60,9 +60,27 @@
     ]
   },
   {
+    "listing": "/edicao/06/index.html",
+    "items": [
+      "/edicao/06/textos/se.html",
+      "/edicao/06/textos/tchau-tchau-passarinho.html",
+      "/edicao/06/textos/mediacao.html",
+      "/edicao/06/textos/mergulho.html",
+      "/edicao/06/textos/relacoes-alcoolicas.html",
+      "/edicao/06/textos/diario-de-um-aluno.html",
+      "/edicao/06/textos/romaria-a-sao-paulo.html",
+      "/edicao/06/textos/na-hora-do-bandeco.html",
+      "/edicao/06/textos/feitico.html",
+      "/edicao/06/textos/lembrar-de-alguem.html",
+      "/edicao/06/textos/eddie.html",
+      "/edicao/06/textos/dia-12.html"
+    ]
+  },
+  {
     "listing": "/edicoes.html",
     "items": [
       "/edicao/05/index.html",
+      "/edicao/06/index.html",
       "/edicao/04/index.html",
       "/edicao/03/index.html",
       "/edicao/02/index.html",

@@ -1,0 +1,74 @@
+---
+title: "5<sup>a</sup> Edição"
+date: "2023-07-27"
+image: "5ed.jpeg"
+description: |
+  Onomatopeia do prazer
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/se.qmd
+      - textos/tchau-tchau-passarinho.qmd
+      - textos/mediacao.qmd
+      - textos/mergulho.qmd
+      - textos/relacoes-alcoolicas.qmd
+      - textos/diario-de-um-aluno.qmd
+      - textos/romaria-a-sao-paulo.qmd
+      - textos/na-hora-do-bandeco.qmd
+      - textos/feitico.qmd
+      - textos/lembrar-de-alguem.qmd
+      - textos/eddie.qmd
+      - textos/dia-12.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Onomatopeia do prazer
+
+![](capa.jpeg){.imgpar width="60%"}Poucas situações nos fazem permanecer atentos como as narrativas. Atribuídas de efeitos especiais ou não, elas são capazes de captar os nossos sentidos apenas com palavras que criam um enredo próprio, sem precisar de adereços. Seu efeito seria atribuído à originalidade do tema abordado? Uma estrutura manjada por trás, como nos filmes de Hollywood? Ou, até mesmo, *storytelling*? Pra mim, não tem exemplo mais simples e banal de narrativa do que a fofoca. É, ela mesma. Tão criticada, mas tão apreciada. O mero ato de dizer para alguém que temos uma "fofoca", já cria um ar de suspense em relação àquela história. Que pode ser bem fraca, inclusive. Mas sempre cativa.
+
+De qualquer forma, o mais interessante sobre a fofoca não termina aí, ela é um bom exemplo de narrativa porque nos mostra que não é necessário ser um Autor para contar boas histórias. Se você tem aquela pessoa que cê adora conversar porque ela sabe como te deixar siderada na mesa do bar ou pendurada nos áudios do zap, você sabe do que eu tô falando. A melhor parte sobre as narrativas é que elas são democráticas e de graça, no fim, pode-se obtê-las em qualquer lugar, praticamente. Uma personagem que esboça esse caráter de contadora de histórias, não-autora, é a Dona Preguiça, do *Catalendas (1999)*. Cativante e perspicaz, a Dona Preguiça é uma contadora de histórias nata. Narrando histórias folclóricas ou contos fantásticos, a personagem era capaz de prender a atenção lançando mão apenas da fala, mantendo durante todo o tempo a atenção de Preguinho, sempre ávido por novas histórias.
+
+Na Nossa Língua, a presença das narrativas é fundamental. A colaboração de todas as pessoas que enviam suas produções artísticas é o cerne da nossa existência. Lançamos o projeto \[link YT\] "mês das gatificações" para trazer uma perspectiva diferente sobre a apresentação das habilitações da Letras, com um intuito original, que não seria baseado somente na ementa dos cursos disponíveis, mas centrado nas experiências diversas de nossas professoras e professores. Acreditamos que ao compartilharem essa trajetória conosco, novas possibilidades de caminhos seriam imagináveis. Nossa intenção era inspirar os discentes de uma forma diferente, através de histórias. Afinal, o roteiro proposto nada mais é do que um relato pessoal sobre o percurso na Letras.
+
+## Agosto
+
+Através de nossas palavras, damos memórias a sonhos, voz à frustrações e potência para a expressão; mostramos que nossas histórias, por mais singelas que sejam, são a verdadeira herança cultural de nossa vivência.
+
+Nesse mês de agosto, lançamos esta edição especial para publicarmos todos os textos que nos foram enviados até esse momento, pois não guardamos os seus miados. Queremos celebrar todas as pessoas que escreveram para nós desde sempre ou pela primeira vez, sabendo a importância dessa contação gostosa e infinita.
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Cibele M Brotto - Editoração
+| Bruna Silva - Revisão
+| 
+| Colaboração:
+| Attílio Braghetto
+| Guilherme Faber
+| Livia Bernardes
