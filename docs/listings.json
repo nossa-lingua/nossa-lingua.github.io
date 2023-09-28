@@ -60,6 +60,20 @@
     ]
   },
   {
+    "listing": "/edicao/07/index.html",
+    "items": [
+      "/edicao/07/textos/o-que-te-revolta.html",
+      "/edicao/07/textos/o-poema.html",
+      "/edicao/07/textos/nois-contra-eles.html",
+      "/edicao/07/textos/hora-extra.html",
+      "/edicao/07/textos/o-shea-sibley.html",
+      "/edicao/07/textos/nos-por-noiz.html",
+      "/edicao/07/textos/--.html",
+      "/edicao/07/textos/cronica-de-uma-paulistana-falsa.html",
+      "/edicao/07/textos/tunel-do-tempo.html"
+    ]
+  },
+  {
     "listing": "/edicao/06/index.html",
     "items": [
       "/edicao/06/textos/se.html",
@@ -81,6 +95,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/07/index.html",
       "/edicao/06/index.html",
       "/edicao/05/index.html",
       "/edicao/04/index.html",
