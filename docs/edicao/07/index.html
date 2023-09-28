@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
+<meta name="description" content="Miar é narrar">
 
-<title>Nossa Língua - Mês das Gatificações</title>
+<title>Nossa Língua - 7a Edição</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -43,9 +45,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -65,6 +64,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-edicao'] = new List('listing-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-F1B8E57YRL"></script>
 
 <script type="text/javascript">
@@ -75,15 +103,16 @@ gtag('js', new Date());
 gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Nossa Língua - Mês das Gatificações">
-<meta property="og:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta property="og:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta property="og:title" content="Nossa Língua - 7a Edição">
+<meta property="og:description" content="Miar é narrar">
+<meta property="og:image" content="https://nossa-lingua.github.io/edicao/07/6ed.jpeg">
 <meta property="og:site-name" content="Nossa Língua">
-<meta name="twitter:title" content="Nossa Língua - Mês das Gatificações">
-<meta name="twitter:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta name="twitter:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta name="twitter:title" content="Nossa Língua - 7a Edição">
+<meta name="twitter:description" content="Miar é narrar">
+<meta name="twitter:image" content="https://nossa-lingua.github.io/edicao/07/6ed.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -125,10 +154,10 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Mês das Gatificações</h1>
+      <h1 class="title">7<sup>a</sup> Edição</h1>
                   <div>
         <div class="description">
-          <p>Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.</p>
+          <p>Miar é narrar</p>
         </div>
       </div>
                 </div>
@@ -141,7 +170,7 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
       <div>
       <div class="quarto-title-meta-heading"> </div>
       <div class="quarto-title-meta-contents">
-        <p class="date">agosto 2023</p>
+        <p class="date">setembro 2023</p>
       </div>
     </div>
     
@@ -152,7 +181,17 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta edição</h2>
+   
+  <ul>
+  <li><a href="#miar-é-narrar" id="toc-miar-é-narrar" class="nav-link active" data-scroll-target="#miar-é-narrar">Miar é narrar</a></li>
+  <li><a href="#setembro" id="toc-setembro" class="nav-link" data-scroll-target="#setembro">Setembro</a></li>
+  <li><a href="#textos-nesta-edição" id="toc-textos-nesta-edição" class="nav-link" data-scroll-target="#textos-nesta-edição">Textos nesta edição</a></li>
+  <li><a href="#fala-memo" id="toc-fala-memo" class="nav-link" data-scroll-target="#fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</a></li>
+  <li><a href="#equipe-editorial" id="toc-equipe-editorial" class="nav-link" data-scroll-target="#equipe-editorial">Equipe editorial</a></li>
+  </ul>
+</nav>
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -163,103 +202,234 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 
 
 
-<p><img src="capa.jpeg" class="nolightbox img-fluid" style="width:100.0%"></p>
-<p><strong>Certeza - corpo navegante.</strong></p>
-<p>Em momentos se configura ancorada, em outros corre na busca de um afastamento bruto. Ao se afastar, deixa-nos pleno velejar em mar aberto; sua falta nem sempre é desespero, às vezes nos dá a possibilidade de navegar por mares inteiros. Em contexto beletrista, nos deparamos com um problema:</p>
-<p><strong>Ser ou não ser? Eis a questão.</strong></p>
-<p>O fim do ano se aproxima e a necessidade de escolher uma habilitação fecha toda a área de navegação, nesse momento abrimos margem ao desespero e muitas vezes somos dominados pela insegurança. É válido reforçar que escolher uma direção não é o fim da jornada, e nela, você quem trilha o caminho. Mudar é sempre uma alternativa para encontrarmos a rota certa.</p>
-<p>Porém, como alunos, encontramos uma falta de atividades e informações acerca das Habilitações. Visando auxiliar todos vocês, calouros e veteranos que procuram uma nova direção, a revista criou uma série de conteúdos para guiá-los nesse momento tão empolgante.</p>
-<p>A ideia de fazer algo já existia, mas o que faríamos? Pensando que muitos alunos não conseguem participar presencialmente e que gostaríamos de registrar isso para ser revisitado, recortamos a ideia direcionando-a para gravações. Dezesseis habilitações, um professor para cada, apenas cinco membros… Tudo isso exigiu dedicação diária e noites quase sempre viradas nos últimos 3 meses, a equipe editorial foi à loucura; nós todos administramos o projeto junto a trabalho, graduação, freelas, vida pessoal e frente a diversos imprevistos… quase que o surto veio. No meio de diversos e-mails, edições e registros, a oportunidade de entrevistar e criar um espaço de diálogo com o corpo docente admirado se materializou como uma brisa.</p>
-<p><strong>Conseguimos conter a tempestade em alto mar, e, agora, temos o prazer de apreciar o arco-íris com vocês!</strong></p>
-<p>Durante todo o processo ideias foram se somando, o que eram vídeos se tornou um mês inteiro com várias frentes; tivemos auxílio de amigos queridos na função de entrevistadores - Gabriella Santos, Gabriela Menezes, Gabriel Grotto, Isabela Nigro, Sofia Leria e Sophia Leite - Foi divertidíssimo viver isso com vocês. Tivemos, também, ajuda com ideias e estruturas do nosso amor, Andy Felix. Nas aulas de alfabetigações contamos com um time maravilhoso, composto por Andy Felix, Cass Marks, Beatriz Tomas, Alisson , Matheus Morigoni, e os demais que ainda somarão o projeto.</p>
-<p>Depois de tantas correntezas vem terra firme, certezas: de que o mês vai começar, e de que vocês poderão contar com auxílio para escolher a habilitação que habita em você!</p>
-<div class="quarto-listing">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_0971 (1).jpg" class="lightbox" data-gallery="galeria" title="Fotos das gravações."><img src="galeria/DSC_0971 (1).jpg" class="img-fluid figure-img" style="width:100.0%"></a></p>
-<p></p><figcaption class="figure-caption">Fotos das gravações.</figcaption><p></p>
-</figure>
+<section id="miar-é-narrar" class="level2">
+<h2 class="anchored" data-anchor-id="miar-é-narrar">Miar é narrar</h2>
+<p><img src="capa.jpg" class="imgpar img-fluid" style="width:60.0%">A nossa língua é rica e nela encontramos diversas palavras para — tentar — expressar a gama infinita de fluidos oriundos do nosso espírito. Algumas singelas, outras versáteis, como a forma revolta. O caráter polivalente de revolta apura os usos e contextos, sem que a sua essência se perca, produzindo um instigante percurso. Seu fluir abre perspectivas de sentimento, ação e nomeação no mundo, dando vazão a expressões importantes. Se concebida como um sentimento, a revolta surge enquanto indignação provocada por uma situação tida como injusta por aquele que a sente. No entanto, ao observar o seu sentido de ação, ela se torna um combustível de insubmissão, fazendo com que nos posicionemos diante de uma circunstância. Assim, desvela-se um trajeto extraordinário catalisado por essa forma: da fagulha à compreensão e reação.</p>
+<p>Excepcional, sim, porque nem sempre evoluímos para uma atitude diante de uma inquietude, mesmo ela sendo legítima. E urgente. Como a greve por professores na USP.</p>
+<p>Apropriar-se do nosso sentimento de oposição, de cólera, significa criar uma via de transformação, afinal, toda revolta pressupõe cinesia, faz parte da sua natureza. E que assim seja.</p>
+</section>
+<section id="setembro" class="level2">
+<h2 class="anchored" data-anchor-id="setembro">Setembro</h2>
+<p>Para este mês, pedimos para que vocês nos relatassem sobre o sentimento e a ação, quando finalmente saímos do estado de tolerância e passamos ao ato.</p>
+<p>Em <a href="../../edicao/07/textos/o-que-te-revolta.html">“O QUE TE REVOLTA?”</a>, temos uma contextualização primaz da greve que hoje vivenciamos, evocando o sentimento de revolta e inflamando sua pujança. <a href="../../edicao/07/textos/o-poema.html">“O poema”</a> ao relatar o sentimento questionador e contrariado do eu-lírico em sua reflexão metafísica na busca – e entrega – do poema, inquieta quem o lê. <a href="../../edicao/07/textos/nois-contra-eles.html">“Nóis contra eles”</a> acidifica a temática com um diálogo sarcasticamente elaborado. <a href="../../edicao/07/textos/hora-extra.html">“Hora extra”</a> nos agracia com o gênero dramático e encena a passagem do sentimento à ação de revolta. Cheios de sonoridade, se por um lado <a href="../../edicao/07/textos/o-shea-sibley.html">“Rest in Power O’Shea Sibley”</a> precisa a distância material entre indivíduos de um mesmo grupo, por outro prisma, <a href="../../edicao/07/textos/nos-por-noiz.html">“Nós por Nóiz”</a>, de mesma autoria, destaca a irmandade diante da adversidade num canto unívoco. <a href="../../edicao/07/textos/--.html">“sem título”</a> discute impetuosamente a valência de sentimentos entendidos como negativos, tentando encontrar a forma expressiva ideal, para além da imobilidade e resignação. <a href="../../edicao/07/textos/cronica-de-uma-paulistana-falsa.html">“Crônica de uma paulistana falsa”</a> relembra a cada frase uma rotina insuportável que consome uma citadina estrangeira. E mais: na <a href="../../edicao/07/textos/tunel-do-tempo.html">coluna Túnel do Tempo</a>, com ‘’O que pode a literatura? Ou dois vinténs para a papisa Joana’’, encontramos a exploração de assuntos substanciais acerca da linguagem e literatura, ao mesmo tempo em que a equipe é convidada ao instigante desafio de responder à pergunta: “o que pode, afinal, a Literatura?”</p>
+</section>
+<section id="textos-nesta-edição" class="level2">
+<h2 class="anchored" data-anchor-id="textos-nesta-edição">Textos nesta edição</h2>
+<div id="listing-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1695867098382" data-listing-reading-time-sort="1.13">
+<div class="body">
+<a href="../../edicao/07/textos/o-que-te-revolta.html">
+<h3 class="no-anchor listing-title">
+O QUE TE REVOLTA?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/o-que-te-revolta.html">
+<div class="listing-author">
+Gabriella Menezes
+</div>
+</a>
 </div>
 </div>
-<div style="display: none;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/20230704_112754 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/20230704_112754 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1695867821292" data-listing-reading-time-sort="1.515">
+<div class="body">
+<a href="../../edicao/07/textos/o-poema.html">
+<h3 class="no-anchor listing-title">
+<i>o poema</i>
+</h3>
+<div class="listing-subtitle">
+
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1001.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1001.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1037-1 (2).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1037-1 (2).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="metadata">
+<a href="../../edicao/07/textos/o-poema.html">
+<div class="listing-author">
+Rafael Bonavina
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1664 (5).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1664 (5).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1690.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1690.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1694 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1694 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1697.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1697.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1713.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1713.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1717 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1717 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1726 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1726 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1764 (3).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1764 (3).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1775.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1775.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1850-1.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1850-1.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1901.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1901.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1695869389469" data-listing-reading-time-sort="3.86">
+<div class="body">
+<a href="../../edicao/07/textos/nois-contra-eles.html">
+<h3 class="no-anchor listing-title">
+Nóis contra eles
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/nois-contra-eles.html">
+<div class="listing-author">
+Gabriel Leal
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1695868165134" data-listing-reading-time-sort="2.025">
+<div class="body">
+<a href="../../edicao/07/textos/hora-extra.html">
+<h3 class="no-anchor listing-title">
+<strong>HORA EXTRA</strong>
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/hora-extra.html">
+<div class="listing-author">
+Dentinho
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1695868291486" data-listing-reading-time-sort="0.69">
+<div class="body">
+<a href="../../edicao/07/textos/o-shea-sibley.html">
+<h3 class="no-anchor listing-title">
+Rest in Power O’Shea Sibley
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/o-shea-sibley.html">
+<div class="listing-author">
+Lilian Barros
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1695868344476" data-listing-reading-time-sort="0.33">
+<div class="body">
+<a href="../../edicao/07/textos/nos-por-noiz.html">
+<h3 class="no-anchor listing-title">
+Nós por Nóiz
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/nos-por-noiz.html">
+<div class="listing-author">
+Lilian Barros
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1695868584824" data-listing-reading-time-sort="1.125">
+<div class="body">
+<a href="../../edicao/07/textos/--.html">
+<h3 class="no-anchor listing-title">
+&nbsp;
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/--.html">
+<div class="listing-author">
+Ela Morassi
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1695868720552" data-listing-reading-time-sort="1.125">
+<div class="body">
+<a href="../../edicao/07/textos/cronica-de-uma-paulistana-falsa.html">
+<h3 class="no-anchor listing-title">
+Crônica de uma paulistana falsa
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/cronica-de-uma-paulistana-falsa.html">
+<div class="listing-author">
+Mari Rodrigues
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1695869434852" data-listing-reading-time-sort="5.035">
+<div class="body">
+<a href="../../edicao/07/textos/tunel-do-tempo.html">
+<h3 class="no-anchor listing-title">
+coluna Túnel do Tempo
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/07/textos/tunel-do-tempo.html">
+<div class="listing-author">
+Gabriel Carra e Bruna Silva
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Nenhum item correspondente
+</div>
+</div>
+</section>
+<section id="fala-memo" class="level2">
+<h2 class="anchored" data-anchor-id="fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</h2>
+<p>Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!</p>
+<p>Então, pensa com carinho! Manda no nosso <a href="https://forms.gle/DLdK8XZ6FbcQp5bD9">forms</a> aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel… Bota pra circular as ideias! Não é tão difícil assim, vai.</p>
+<p>Vem que a gente tá te esperando, beletrista!</p>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Importante
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!</p>
+<p><strong>Proibido</strong> – Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.</p>
+<p><strong>Obrigatório</strong> – Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.</p>
+</div>
+</div>
+</section>
+<section id="equipe-editorial" class="level2">
+<h2 class="anchored" data-anchor-id="equipe-editorial">Equipe editorial</h2>
+<p>
+</p>
+<p>Cibele M Brotto - Editoração<br>
+Bruna Silva - Revisão<br>
+<br>
+Colaboração:<br>
+Attílio Braghetto<br>
+Guilherme Faber<br>
+Livia Bernardes</p>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -517,7 +687,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   document.getElementById('quarto-content').appendChild(div);
 </script>
 <script defer="" src="https://comento-oijbfqiwuq-rj.a.run.app/comentario.js"></script>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","loop":true,"selector":".lightbox","openEffect":"zoom"});</script>
 
 
 
