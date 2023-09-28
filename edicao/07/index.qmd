@@ -1,7 +1,7 @@
 ---
 title: "7<sup>a</sup> Edição"
 date: "2023-09-27"
-image: "6ed.jpeg"
+image: "7ed.jpeg"
 description: |
   Miar é narrar
 listing: 
@@ -23,7 +23,7 @@ listing:
 
 ## Miar é narrar
 
-![](capa.jpg){.imgpar width="60%"}A nossa língua é rica e nela encontramos diversas palavras para — tentar — expressar a gama infinita de fluidos oriundos do nosso espírito. Algumas singelas, outras versáteis, como a forma revolta. 
+![](capa.jpeg){.imgpar width="60%"}A nossa língua é rica e nela encontramos diversas palavras para — tentar — expressar a gama infinita de fluidos oriundos do nosso espírito. Algumas singelas, outras versáteis, como a forma revolta. 
 O caráter polivalente de revolta apura os usos e contextos, sem que a sua essência se perca, produzindo um instigante percurso. Seu fluir abre perspectivas de sentimento, ação e nomeação no mundo, dando vazão a expressões importantes. Se concebida como um sentimento, a revolta surge enquanto indignação provocada por uma situação tida como injusta por aquele que a sente. No entanto, ao observar o seu sentido de ação, ela se torna um combustível de insubmissão, fazendo com que nos posicionemos diante de uma circunstância. Assim, desvela-se um trajeto extraordinário catalisado por essa forma: da fagulha à compreensão e reação. 
 
 Excepcional, sim, porque nem sempre evoluímos para uma atitude diante de uma inquietude, mesmo ela sendo legítima. E urgente. Como a greve por professores na USP. 
