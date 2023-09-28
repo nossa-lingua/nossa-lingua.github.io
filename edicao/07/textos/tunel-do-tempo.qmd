@@ -1,5 +1,5 @@
 ---
-title: "coluna Túnel do Tempo"
+title: "Coluna Túnel do Tempo"
 author: 
   - name: Gabriel Carra e Bruna Silva
 ---

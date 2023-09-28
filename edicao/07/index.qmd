@@ -3,7 +3,7 @@ title: "7<sup>a</sup> Edição"
 date: "2023-09-27"
 image: "7ed.jpeg"
 description: |
-  Miar é narrar
+  Atenção: perturbação de sossego
 listing: 
   - id: edicao
     type: default
@@ -21,7 +21,7 @@ listing:
     fields: [title, author]
 ---
 
-## Miar é narrar
+## Atenção: perturbação de sossego
 
 ![](capa.jpeg){.imgpar width="60%"}A nossa língua é rica e nela encontramos diversas palavras para — tentar — expressar a gama infinita de fluidos oriundos do nosso espírito. Algumas singelas, outras versáteis, como a forma revolta. 
 O caráter polivalente de revolta apura os usos e contextos, sem que a sua essência se perca, produzindo um instigante percurso. Seu fluir abre perspectivas de sentimento, ação e nomeação no mundo, dando vazão a expressões importantes. Se concebida como um sentimento, a revolta surge enquanto indignação provocada por uma situação tida como injusta por aquele que a sente. No entanto, ao observar o seu sentido de ação, ela se torna um combustível de insubmissão, fazendo com que nos posicionemos diante de uma circunstância. Assim, desvela-se um trajeto extraordinário catalisado por essa forma: da fagulha à compreensão e reação. 
@@ -33,8 +33,8 @@ Apropriar-se do nosso sentimento de oposição, de cólera, significa criar uma 
 ## Setembro
 
 Para este mês, pedimos para que vocês nos relatassem sobre o sentimento e a ação, quando finalmente saímos do estado de tolerância e passamos ao ato. 
+Em [*O QUE TE REVOLTA?*](textos/o-que-te-revolta.qmd), temos uma contextualização primaz da greve que hoje vivenciamos, evocando o sentimento de revolta e inflamando sua pujança. [*O poema*](textos/o-poema.qmd) ao relatar o sentimento questionador e contrariado do eu-lírico em sua reflexão metafísica na busca – e entrega – do poema, inquieta quem o lê. [*Nóis contra eles*](textos/nois-contra-eles.qmd) acidifica a temática com um diálogo sarcasticamente elaborado. [*HORA EXTRA*](textos/hora-extra.qmd) nos agracia com o gênero dramático e encena a passagem do sentimento à ação de revolta. Repletos de sonoridade, se por um lado [*Rest in Power O’Shea Sibley*](textos/o-shea-sibley.qmd) questiona a distância material entre indivíduos de um mesmo grupo, por outro prisma, [*Nós por Nóiz*](textos/nos-por-noiz.qmd), de mesma autoria, destaca a irmandade diante da adversidade num canto unívoco. [‘’ ’’](textos/--.qmd) discute impetuosamente a valência de sentimentos entendidos como negativos, tentando encontrar a forma expressiva ideal, para além da imobilidade e resignação. [*Crônica de uma paulistana falsa*](textos/cronica-de-uma-paulistana-falsa.qmd) relembra a cada frase uma rotina insuportável que consome uma citadina estrangeira. E mais: na [*coluna Túnel do Tempo*](textos/tunel-do-tempo.qmd), com *O que pode a literatura? Ou dois vinténs para a papisa Joana*, encontramos a exploração de assuntos substanciais acerca da linguagem e literatura, ao mesmo tempo em que a equipe é convidada ao instigante desafio de responder à pergunta: "o que pode, afinal, a Literatura?".
 
-Em ["O QUE TE REVOLTA?"](textos/o-que-te-revolta.qmd), temos uma contextualização primaz da greve que hoje vivenciamos, evocando o sentimento de revolta e inflamando sua pujança. ["O poema"](textos/o-poema.qmd) ao relatar o sentimento questionador e contrariado do eu-lírico em sua reflexão metafísica na busca – e entrega – do poema, inquieta quem o lê. ["Nóis contra eles"](textos/nois-contra-eles.qmd) acidifica a temática com um diálogo sarcasticamente elaborado. ["Hora extra"](textos/hora-extra.qmd) nos agracia com o gênero dramático e encena a passagem do sentimento à ação de revolta. Cheios de sonoridade, se por um lado ["Rest in Power O’Shea Sibley"](textos/o-shea-sibley.qmd) precisa a distância material entre indivíduos de um mesmo grupo, por outro prisma, ["Nós por Nóiz"](textos/nos-por-noiz.qmd), de mesma autoria, destaca a irmandade diante da adversidade num canto unívoco. ["sem título"](textos/--.qmd) discute impetuosamente a valência de sentimentos entendidos como negativos, tentando encontrar a forma expressiva ideal, para além da imobilidade e resignação. ["Crônica de uma paulistana falsa"](textos/cronica-de-uma-paulistana-falsa.qmd) relembra a cada frase uma rotina insuportável que consome uma citadina estrangeira. E mais: na [coluna Túnel do Tempo](textos/tunel-do-tempo.qmd), com ‘’O que pode a literatura? Ou dois vinténs para a papisa Joana’’, encontramos a exploração de assuntos substanciais acerca da linguagem e literatura, ao mesmo tempo em que a equipe é convidada ao instigante desafio de responder à pergunta: "o que pode, afinal, a Literatura?"
 
 ## Textos nesta edição
 
