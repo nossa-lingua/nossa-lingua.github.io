@@ -1,5 +1,5 @@
 ---
-title: "Coluna Túnel do Tempo"
+title: "Coluna Túnel do Tempo: O que pode a Literatura?"
 author: 
   - name: Gabriel Carra e Bruna Silva
 ---
