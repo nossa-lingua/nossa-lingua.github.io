@@ -13,6 +13,8 @@ filters:
    - lightbox
 ---
 
+![](capa.jpeg)
+
 **Sobre a editora:**
 
 A Cai-Cai é uma editora independente de literatura de infância que nasceu do desejo de abraçar o mundo e suas boas histórias.
