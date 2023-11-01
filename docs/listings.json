@@ -74,6 +74,23 @@
     ]
   },
   {
+    "listing": "/edicao/08/index.html",
+    "items": [
+      "/edicao/08/textos/prusten.html",
+      "/edicao/08/textos/sexta-feira-13.html",
+      "/edicao/08/textos/o-gato.html",
+      "/edicao/08/textos/devir.html",
+      "/edicao/08/textos/paredes-de-papel.html",
+      "/edicao/08/textos/funeral.html",
+      "/edicao/08/textos/maria-augusta.html",
+      "/edicao/08/textos/medo.html",
+      "/edicao/08/textos/arranca-ossos.html",
+      "/edicao/08/textos/o-hereditario.html",
+      "/edicao/08/textos/--.html",
+      "/edicao/08/textos/---.html"
+    ]
+  },
+  {
     "listing": "/edicao/06/index.html",
     "items": [
       "/edicao/06/textos/se.html",
@@ -95,6 +112,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/08/index.html",
       "/edicao/07/index.html",
       "/edicao/06/index.html",
       "/edicao/05/index.html",

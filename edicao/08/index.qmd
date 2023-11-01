@@ -1,0 +1,70 @@
+---
+title: "8<sup>a</sup> Edição"
+date: "2023-10-31"
+image: "7ed.jpeg"
+description: |
+  Quem não tem medo é rei
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/prusten.qmd
+      - textos/sexta-feira-13.qmd
+      - textos/o-gato.qmd
+      - textos/devir.qmd
+      - textos/paredes-de-papel.qmd
+      - textos/pesadelo.qmd
+      - textos/funeral.qmd
+      - textos/maria-augusta.qmd
+      - textos/medo.qmd
+      - textos/arranca-ossos.qmd
+      - textos/o-hereditario.qmd
+      - textos/--.qmd
+      - textos/---.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Atenção: perturbação de sossego
+
+Esse a gente tem de monte. Ele entra e se espalha como onda sonora nos interstícios da nossa mente, poros e pelos, dissimulado, movendo-se  trivialmente no cotidiano. Em uma frequência alta e aguda, aguça temores ansiosos como o de perder o emprego; ser mal compreendido. Numa frequência baixa e grave, agrava pavores enfermos como os da solidão e, quem sabe, de o mundo acabar. E por aí vai. Ficaríamos aqui infinitamente explorando sua perversidade porque ele é soberano. Falo dele com humildade pois conheço seu poder sobre mim e o resto, sendo nós meros fantoches dos seus efeitos mórbidos, incrustados em nossos desvãos. Por esse motivo, o uso de máscaras é vital, um importante recurso ilusivo capaz de ludibriar os comichões provocados pelo medo, tornando possível a nossa presença no mundo. Sem esse recurso, nosso peito seria exposto demais, insuportavelmente suscetível a olhos estranhos – por isso é que se escondem zonas melindrosas. Afinal, o medo paralisa. Se mostrarmos o botão vermelho e ele for acionado ao bel-prazer alheio, imagine só, estaríamos lascados. É preciso controle e domínio sobre as pulsações indesejadas, um manejo efetivo da nossa insegurança para, enfim, chegarmos à nossa melhor versão. Geométrica. Simétrica. Estética. Só que sinto muito, por isso é que o medo dá de dez a zero. O corpo é vivo, cheio de microrganismos;  água, sangue, respiro… Essa imagem chapada não se sustenta, deteriora. A máscara cai pela vida do corpo, da fluidez da mente e da chama do espírito. As vísceras arrasam com o belo. Diante desse cenário horroroso resta apenas uma saída: ir com medo. Seguir viagem pela sombra, alerta aos ruídos mais ou menos malditos. Desconfortável, sei bem, mas o encontro com o real nunca se dá como num roteiro planejado, tem ponta solta. A coragem, antítese do medo, nasce na prática e acúmulo de experiência, desprezada, de cair e se levantar. Malquista porque dói, que seja dito. Co(m)tudo é natural perder ou se frustrar, o problema é que o medo toma conta justamente pela nossa presunção sem vergonha de querer ganhar sempre. Ninguém é rei diante da queda. E segue o baile.
+
+## Outubro 
+
+Nesta edição de outubro, pedimos que vocês, como o barqueiro Caronte, nos levassem pelas águas infernais do rio Aqueronte. Esqueçamos a bússola, pois não funcionará em terra firme. Nem mesmo o astrolábio orientará o céu de nossas estrelas. Navegaremos por 13 textos, neste dia 31, à nossa própria sorte. Em "Prusten", testemunhamos um pesadelo sobre o encontro surreal entre o humano e a animália. Em "Sexta-feira 13", desenrola-se em uma linguagem apuradíssima e nos enleia numa atmosfera sombria no clássico tema da metamorfose e "o gato", observamos através do olhar indiferente do felino o horror em sua volta dentro de um apartamento esquecido pelos deuses.. No poema.  "Devir", nem o poder de Deus é suficiente para animar as almas imersas em eterna melancolia. "Paredes de papel", nos conta a alucinação de uma personagem, soterrada em sua própria mente. Em "Pesadelos", adentramos o tormento noturno que desvela um trauma familiar desfigurado. O conto "Maria Augusta", relata a contingência da linha tênue entre sonho e realidade e "Funeral", com ritmo ágil, escancara a ilogicidade de uma psique doente. "Medo", nos revela a história de um homem condenado pela sua covardia. "Arranca ossos", nos traz por meio de uma linguagem contundente a estética dilacerante do corpo do trabalhador em agonia. "O hereditário", narra o roteiro de viagem de uma filha ao circular por uma cidade fantasmagórica em busca de sua mãe. "sem título1", singelo, mas pulsante, reflete o efeito transformador do medo e "sem título2", explora a angústia provocada pelo medo em tom resignado.
+
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Cibele M Brotto - Editoração
+| Bruna Silva - Revisão
+| 
+| Colaboração:
+| Attílio Braghetto
+| Guilherme Faber
+| Livia Bernardes
