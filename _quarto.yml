@@ -9,7 +9,7 @@ website:
     right:
       - sobre.qmd
       - icon: instagram
-        href: https://instagram.com/nossalingualetras
+        href: https://instagram.com/revistanossalingua
   twitter-card: true
   site-url: https://nossa-lingua.github.io
   open-graph: true
