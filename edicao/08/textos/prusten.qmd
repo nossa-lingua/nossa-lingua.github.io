@@ -4,7 +4,7 @@ author:
   - name: Cibele M Brotto
 ---
 
-<p style="text-align: right">
+<p style="text-align: right; font-size: 16px">
 "*Prusten*: tipo de comunicação exibida por alguns membros da família Felidae, descrita como uma vocalização curta, de baixa intensidade e não ameaçadora. É frequentemente usada entre dois felinos como uma forma de saudação."
 </p> 
 
@@ -32,6 +32,6 @@ Esquentava o corpo do homem como uma manta, esfregando…
 Acordou ofegante. O corpo rijo parecia não ter voltado daquele sonho ainda pulsante como a realidade. No pé da cama de colchão batido, a gata dormia tranquila. O mormaço tinha finalmente se rendido à brisa leve que entrava de mansinho pela janela. Olhou para o celular ao lado da cama, nenhuma mensagem. 
 
 
-A imagem do texto foi feita pela talentosíssima Nath Roman <a href="https://instagram.com/romantatuagens"><i class="bi bi-instagram"></i></a>
+\* A imagem do texto foi feita pela talentosíssima Nath Roman <a href="https://instagram.com/romantatuagens"><i class="bi bi-instagram"></i></a>
 
 <a href="https://instagram.com/pesseguinhaa"><i class="bi bi-instagram"></i></a>
