@@ -74,6 +74,17 @@
     ]
   },
   {
+    "listing": "/edicao/09/index.html",
+    "items": [
+      "/edicao/09/textos/ostras-mangas-pepecas.html",
+      "/edicao/09/textos/astros.html",
+      "/edicao/09/textos/michel-foucault-enigma.html",
+      "/edicao/09/textos/resenha-glicerideos.html",
+      "/edicao/09/textos/companion-of-disquiet.html",
+      "/edicao/09/textos/a-mosca.html"
+    ]
+  },
+  {
     "listing": "/edicao/08/index.html",
     "items": [
       "/edicao/08/textos/prusten.html",
@@ -112,6 +123,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/09/index.html",
       "/edicao/08/index.html",
       "/edicao/07/index.html",
       "/edicao/06/index.html",
