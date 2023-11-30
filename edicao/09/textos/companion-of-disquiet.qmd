@@ -1,7 +1,7 @@
 ---
 title: 'Companion of disquiet'
 author: 
-  - name: "Arhon"
+  - name: "Clara Maas"
 ---
 
 | There’s a parasite eating away at my skin. I haven’t given it a name yet. 
@@ -11,3 +11,5 @@ author:
 | It eats what I eat and that can’t be too reliable. I’ve been guilty of building a gluttonous monster once, can I be blamed for doing it twice? 
 | Perhaps if I keep on feeding it, abandoning me will no longer be an option. 
 | I used to be frightened by hate, but now devotion worries me more.
+
+<a href="https://instagram.com/clara_maas_"><i class="bi bi-instagram"></i></a>
