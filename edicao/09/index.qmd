@@ -1,6 +1,6 @@
 ---
 title: "9<sup>a</sup> Edição"
-date: "2023-10-31"
+date: "2023-11-30"
 image: "8ed.jpeg"
 description: |
   Sem nojinho, vai
