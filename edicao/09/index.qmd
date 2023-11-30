@@ -1,7 +1,7 @@
 ---
 title: "9<sup>a</sup> Edição"
 date: "2023-11-30"
-image: "8ed.jpeg"
+image: "9ed.jpeg"
 description: |
   Sem nojinho, vai
 listing: 
@@ -18,7 +18,7 @@ listing:
     fields: [title, author]
 ---
 
-## Quem não tem medo é rei
+## Sem nojinho, vai
 
 ![](capa.jpeg){.imgpar width="60%"}Nada pode ser mais perturbador do que algo nojento. Dá calafrios, nosso corpo reage imediatamente e a única opção é nos afastarmos dessa coisa, que pode ser suja, abjeta, ignóbil. O sentimento de repulsa se apresenta rápido, nem dá muito tempo de pensar sobre o encontro com o asqueroso. Sem mais delongas, nossa defesa é a primeira resposta.
 

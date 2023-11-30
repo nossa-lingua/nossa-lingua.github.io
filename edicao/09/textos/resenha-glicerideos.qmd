@@ -1,7 +1,7 @@
 ---
 title: 'Resenha: "Glicerídeos" de Junji Ito'
 author: 
-  - name: "Clara Maas"
+  - name: 'Vitor "Baratinha"'
 ---
 
 Glicerídeos é um conto que faz parte do compilado  “Contos Esmagadores”, lançado no Brasil em 2023 pela editora Pipoca e Nanquim.
@@ -24,4 +24,4 @@ Os quadros em que nos mostram as paredes, cobertores e a testa dos personagens, 
 
 A escrita de Ito, apesar de simples, abre espaço para o choque e apreciação do surrealismo das imagens e situações bizarras que são apresentadas. O uso criativo do sentimento de nojo e temática não convencional pode surpreender até aqueles que já estão acostumados com o gênero ou com outras obras do autor.
 
-<a href="https://instagram.com/clara_maas_"><i class="bi bi-instagram"></i></a>
+<a href="https://instagram.com/Obaratinha_"><i class="bi bi-instagram"></i></a>
