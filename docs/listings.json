@@ -60,6 +60,22 @@
     ]
   },
   {
+    "listing": "/edicao/10/index.html",
+    "items": [
+      "/edicao/10/textos/borbulhas.html",
+      "/edicao/10/textos/alien-do-passado.html",
+      "/edicao/10/textos/qual-a-chance.html",
+      "/edicao/10/textos/nao-e-pra-isso.html",
+      "/edicao/10/textos/futuro-do-preterito.html",
+      "/edicao/10/textos/daqui-a-dez-anos.html",
+      "/edicao/10/textos/o-problema-das-formigas.html",
+      "/edicao/10/textos/sol.html",
+      "/edicao/10/textos/promessas.html",
+      "/edicao/10/textos/09-06.html",
+      "/edicao/10/textos/e-uma-pena.html"
+    ]
+  },
+  {
     "listing": "/edicao/07/index.html",
     "items": [
       "/edicao/07/textos/o-que-te-revolta.html",
@@ -123,6 +139,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/10/index.html",
       "/edicao/09/index.html",
       "/edicao/08/index.html",
       "/edicao/07/index.html",

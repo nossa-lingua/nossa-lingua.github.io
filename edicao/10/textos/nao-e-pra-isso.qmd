@@ -1,0 +1,17 @@
+---
+title: '(não) é para isso que eu pago a internet'
+author: 
+  - name: "Lilian Barros"
+---
+
+Abro a rede social, a barra de notificação mostra que tenho dez marcações novas em comentários, vejo que todos foram feitos pela @: 
+
+::: {#text-center}
+| “quero muito”
+| “nunca quis tanto”
+| “acho q vc vai querer tbm”
+:::
+
+Coração dispara, a expectativa cresce, clico e de repente estou em um perfil de um booktuber famoso que fez parceria com aquela editora grande e estão sorteando quinze kits de livros incríveis e para concorrer só é preciso comentar qualquer coisa e marcar qualquer pessoa. 
+
+<a href="https://instagram.com/_barrosli"><i class="bi bi-instagram"></i></a>
