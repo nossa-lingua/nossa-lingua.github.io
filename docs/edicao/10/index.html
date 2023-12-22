@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
+<meta name="description" content="Fingir que não sente não vai te proteger">
 
-<title>Nossa Língua - Mês das Gatificações</title>
+<title>Nossa Língua - 10a Edição</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -43,9 +45,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -65,6 +64,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-edicao'] = new List('listing-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-F1B8E57YRL"></script>
 
 <script type="text/javascript">
@@ -75,15 +103,16 @@ gtag('js', new Date());
 gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Nossa Língua - Mês das Gatificações">
-<meta property="og:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta property="og:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta property="og:title" content="Nossa Língua - 10a Edição">
+<meta property="og:description" content="Fingir que não sente não vai te proteger">
+<meta property="og:image" content="https://nossa-lingua.github.io/edicao/10/10ed.jpeg">
 <meta property="og:site-name" content="Nossa Língua">
-<meta name="twitter:title" content="Nossa Língua - Mês das Gatificações">
-<meta name="twitter:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta name="twitter:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta name="twitter:title" content="Nossa Língua - 10a Edição">
+<meta name="twitter:description" content="Fingir que não sente não vai te proteger">
+<meta name="twitter:image" content="https://nossa-lingua.github.io/edicao/10/10ed.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -125,10 +154,10 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Mês das Gatificações</h1>
+      <h1 class="title">10<sup>a</sup> Edição</h1>
                   <div>
         <div class="description">
-          <p>Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.</p>
+          <p>Fingir que não sente não vai te proteger</p>
         </div>
       </div>
                 </div>
@@ -141,7 +170,7 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
       <div>
       <div class="quarto-title-meta-heading"> </div>
       <div class="quarto-title-meta-contents">
-        <p class="date">agosto 2023</p>
+        <p class="date">dezembro 2023</p>
       </div>
     </div>
     
@@ -152,7 +181,17 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta edição</h2>
+   
+  <ul>
+  <li><a href="#fingir-que-não-sente-não-vai-te-proteger" id="toc-fingir-que-não-sente-não-vai-te-proteger" class="nav-link active" data-scroll-target="#fingir-que-não-sente-não-vai-te-proteger">Fingir que não sente não vai te proteger</a></li>
+  <li><a href="#dezembro" id="toc-dezembro" class="nav-link" data-scroll-target="#dezembro">Dezembro</a></li>
+  <li><a href="#textos-nesta-edição" id="toc-textos-nesta-edição" class="nav-link" data-scroll-target="#textos-nesta-edição">Textos nesta edição</a></li>
+  <li><a href="#fala-memo" id="toc-fala-memo" class="nav-link" data-scroll-target="#fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</a></li>
+  <li><a href="#equipe-editorial" id="toc-equipe-editorial" class="nav-link" data-scroll-target="#equipe-editorial">Equipe editorial</a></li>
+  </ul>
+</nav>
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -163,103 +202,278 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 
 
 
-<p><img src="capa.jpeg" class="nolightbox img-fluid" style="width:100.0%"></p>
-<p><strong>Certeza - corpo navegante.</strong></p>
-<p>Em momentos se configura ancorada, em outros corre na busca de um afastamento bruto. Ao se afastar, deixa-nos pleno velejar em mar aberto; sua falta nem sempre é desespero, às vezes nos dá a possibilidade de navegar por mares inteiros. Em contexto beletrista, nos deparamos com um problema:</p>
-<p><strong>Ser ou não ser? Eis a questão.</strong></p>
-<p>O fim do ano se aproxima e a necessidade de escolher uma habilitação fecha toda a área de navegação, nesse momento abrimos margem ao desespero e muitas vezes somos dominados pela insegurança. É válido reforçar que escolher uma direção não é o fim da jornada, e nela, você quem trilha o caminho. Mudar é sempre uma alternativa para encontrarmos a rota certa.</p>
-<p>Porém, como alunos, encontramos uma falta de atividades e informações acerca das Habilitações. Visando auxiliar todos vocês, calouros e veteranos que procuram uma nova direção, a revista criou uma série de conteúdos para guiá-los nesse momento tão empolgante.</p>
-<p>A ideia de fazer algo já existia, mas o que faríamos? Pensando que muitos alunos não conseguem participar presencialmente e que gostaríamos de registrar isso para ser revisitado, recortamos a ideia direcionando-a para gravações. Dezesseis habilitações, um professor para cada, apenas cinco membros… Tudo isso exigiu dedicação diária e noites quase sempre viradas nos últimos 3 meses, a equipe editorial foi à loucura; nós todos administramos o projeto junto a trabalho, graduação, freelas, vida pessoal e frente a diversos imprevistos… quase que o surto veio. No meio de diversos e-mails, edições e registros, a oportunidade de entrevistar e criar um espaço de diálogo com o corpo docente admirado se materializou como uma brisa.</p>
-<p><strong>Conseguimos conter a tempestade em alto mar, e, agora, temos o prazer de apreciar o arco-íris com vocês!</strong></p>
-<p>Durante todo o processo ideias foram se somando, o que eram vídeos se tornou um mês inteiro com várias frentes; tivemos auxílio de amigos queridos na função de entrevistadores - Gabriella Santos, Gabriela Menezes, Gabriel Grotto, Isabela Nigro, Sofia Leria e Sophia Leite - Foi divertidíssimo viver isso com vocês. Tivemos, também, ajuda com ideias e estruturas do nosso amor, Andy Felix. Nas aulas de alfabetigações contamos com um time maravilhoso, composto por Andy Felix, Cass Marks, Beatriz Tomas, Alisson , Matheus Morigoni, e os demais que ainda somarão o projeto.</p>
-<p>Depois de tantas correntezas vem terra firme, certezas: de que o mês vai começar, e de que vocês poderão contar com auxílio para escolher a habilitação que habita em você!</p>
-<div class="quarto-listing">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_0971 (1).jpg" class="lightbox" title="Fotos das gravações." data-gallery="galeria"><img src="galeria/DSC_0971 (1).jpg" class="img-fluid figure-img" style="width:100.0%"></a></p>
-<p></p><figcaption class="figure-caption">Fotos das gravações.</figcaption><p></p>
-</figure>
+<section id="fingir-que-não-sente-não-vai-te-proteger" class="level2">
+<h2 class="anchored" data-anchor-id="fingir-que-não-sente-não-vai-te-proteger">Fingir que não sente não vai te proteger</h2>
+<p><img src="capa.jpeg" class="imgpar img-fluid" style="width:60.0%">Falar de expectativa tem sido difícil. Encorajar qualquer tipo de sentimento em relação ao desconhecido se tornou um equívoco na opinião de muita gente. No intuito de proteger a si e ao outro, as pessoas acreditam que para algo ser encarado de forma adequada é preciso desestimular qualquer inquietação em relação à coisa para sermos “racionais”. O significado de expectativa se trata de uma espera, mas o problema não é esperar, o engano é esperar por uma coisa específica. Em vez de nos preocuparmos com a espera, natural em qualquer empenho, deveríamos nos preocupar com a espera por algo específico das situações nas quais estamos envolvidos. A frustração é resultado de uma <em>espera particular</em> e não de uma espera confiante.</p>
+<p>Parece que, toda vez que alguém adverte que ter expectativas é ruim, ao mesmo tempo reforça que devemos afastar aquilo sobre o qual não temos controle, pois toda vez o conselho aparece diante de uma situação em que não sabemos o que vai dar. E eu até entendo essa preocupação: os dados, as estatísticas, os problemas estruturais preveem um bocado de coisas desse mundo. Mas nem todas. Sorte a nossa. Se fosse possível prever tudo, nada mais teria graça. Ninguém gosta de saber o ponto alto do filme antes de assistir. Ou pior, sem querer, me parece que tencionamos cada vez mais acreditar no destino. E, quem sabe, em um deus que o escreva - ele se chamaria algoritmo, no caso. Assim como na Bíblia está previsto o apocalipse, seríamos então cegamente religiosos sobre o nosso futuro?</p>
+<p>O destino é coisa previsível e fatal. Enlaçados em seu tear fatídico, a resignação diante o <em>karma</em> faz mais sentido, pois nada podemos mudar diante do trágico inevitável.</p>
+<p>Quem conhece o espiritismo sabe do paradoxo destino versus livre-arbítrio. Calibrar o limite entre um e outro é o eterno movimento em busca da temperança, assim como o equilibrista na corda-bamba: a tendência é permanecer no meio. A expectativa funciona como um motor para agirmos no mundo e se torna necessária para sonharmos e criarmos novas realidades. Sem ela não tem por que levantar da cama. Ultimamente a sensação é de que a cultura e as pessoas têm imaginado apenas futuros distópicos, negando o infinito de possibilidades de antemão. Tem gente que acredita que é mais fácil morar em Marte do que superar o capitalismo. Há quem acredite que é mais fácil morar em Marte do que superar o capitalismo, vai entender. Esse fatalismo seria produto da nossa razão ou da nossa desconexão com o que nos faz pulsar?</p>
+<p>Em vez de uma espera particular que fecha as possibilidades em um modelo único de satisfação, a esperança só pede um momento um pouco melhor que o anterior. Confiar nos sentimentos e explorar sua intensidade implica se deixar sentir, mas lidar com o nosso coração é uma prática, não precisa condenar seus anseios. Afinal, viver é lidar com os sentimentos.</p>
+<p>Desejar faz parte da nossa mentalidade na existência; certas coisas só podem ser feitas se forem concebidas na mais ardente vontade. Se apropriar dos nossos afetos nos transforma, para, quem sabe, sermos capazes de criar um novo paradigma para a nossa vida e para o mundo.</p>
+</section>
+<section id="dezembro" class="level2">
+<h2 class="anchored" data-anchor-id="dezembro">Dezembro</h2>
+<p>Para encerrar as nossas edições mensais de 2023 sobre sentimentos, eis a expectativa.</p>
+</section>
+<section id="textos-nesta-edição" class="level2">
+<h2 class="anchored" data-anchor-id="textos-nesta-edição">Textos nesta edição</h2>
+<div id="listing-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1703270671111" data-listing-reading-time-sort="4.215">
+<div class="body">
+<a href="../../edicao/10/textos/borbulhas.html">
+<h3 class="no-anchor listing-title">
+Borbulhas
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/borbulhas.html">
+<div class="listing-author">
+Rodrigo Adriano Machado
+</div>
+</a>
 </div>
 </div>
-<div style="display: none;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/20230704_112754 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/20230704_112754 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1703267646306" data-listing-reading-time-sort="0.525">
+<div class="body">
+<a href="../../edicao/10/textos/alien-do-passado.html">
+<h3 class="no-anchor listing-title">
+Alien do passado
+</h3>
+<div class="listing-subtitle">
+
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1001.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1001.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1037-1 (2).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1037-1 (2).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="metadata">
+<a href="../../edicao/10/textos/alien-do-passado.html">
+<div class="listing-author">
+Iohan V Silva
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1664 (5).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1664 (5).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1690.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1690.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1694 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1694 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1697.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1697.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1713.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1713.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1717 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1717 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1726 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1726 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1764 (3).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1764 (3).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1775.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1775.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1850-1.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1850-1.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1901.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1901.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1703267757599" data-listing-reading-time-sort="5.205">
+<div class="body">
+<a href="../../edicao/10/textos/qual-a-chance.html">
+<h3 class="no-anchor listing-title">
+Qual a chance
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/qual-a-chance.html">
+<div class="listing-author">
+Gabriel Leal
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1703267921615" data-listing-reading-time-sort="0.42">
+<div class="body">
+<a href="../../edicao/10/textos/nao-e-pra-isso.html">
+<h3 class="no-anchor listing-title">
+(não) é para isso que eu pago a internet
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/nao-e-pra-isso.html">
+<div class="listing-author">
+Lilian Barros
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1703268109661" data-listing-reading-time-sort="0.7">
+<div class="body">
+<a href="../../edicao/10/textos/futuro-do-preterito.html">
+<h3 class="no-anchor listing-title">
+Futuro do pretérito
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/futuro-do-preterito.html">
+<div class="listing-author">
+Gabriella Menezes Soares
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1703268160221" data-listing-reading-time-sort="0.71">
+<div class="body">
+<a href="../../edicao/10/textos/daqui-a-dez-anos.html">
+<h3 class="no-anchor listing-title">
+Daqui a dez anos
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/daqui-a-dez-anos.html">
+<div class="listing-author">
+Diego Rodrigues
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1703268231907" data-listing-reading-time-sort="2.24">
+<div class="body">
+<a href="../../edicao/10/textos/o-problema-das-formigas.html">
+<h3 class="no-anchor listing-title">
+O problema das formigas
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/o-problema-das-formigas.html">
+<div class="listing-author">
+Brunno R. Sousa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1703268350040" data-listing-reading-time-sort="0.905">
+<div class="body">
+<a href="../../edicao/10/textos/sol.html">
+<h3 class="no-anchor listing-title">
+Sol
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/sol.html">
+<div class="listing-author">
+Xico
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1703268444111" data-listing-reading-time-sort="1.125">
+<div class="body">
+<a href="../../edicao/10/textos/promessas.html">
+<h3 class="no-anchor listing-title">
+Promessas
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/promessas.html">
+<div class="listing-author">
+Sea Star
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-file-modified-sort="1703268700146" data-listing-reading-time-sort="3.01">
+<div class="body">
+<a href="../../edicao/10/textos/09-06.html">
+<h3 class="no-anchor listing-title">
+09.06
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/09-06.html">
+<div class="listing-author">
+Anônimo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-file-modified-sort="1703268849416" data-listing-reading-time-sort="1.08">
+<div class="body">
+<a href="../../edicao/10/textos/e-uma-pena.html">
+<h3 class="no-anchor listing-title">
+É uma pena
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/10/textos/e-uma-pena.html">
+<div class="listing-author">
+Giovanna Sabino
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Nenhum item correspondente
+</div>
+</div>
+</section>
+<section id="fala-memo" class="level2">
+<h2 class="anchored" data-anchor-id="fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</h2>
+<p>Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!</p>
+<p>Então, pensa com carinho! Manda no nosso <a href="https://forms.gle/DLdK8XZ6FbcQp5bD9">forms</a> aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel… Bota pra circular as ideias! Não é tão difícil assim, vai.</p>
+<p>Vem que a gente tá te esperando, beletrista!</p>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Importante
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!</p>
+<p><strong>Proibido</strong> – Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.</p>
+<p><strong>Obrigatório</strong> – Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.</p>
+</div>
+</div>
+</section>
+<section id="equipe-editorial" class="level2">
+<h2 class="anchored" data-anchor-id="equipe-editorial">Equipe editorial</h2>
+<p>
+</p>
+<p>Cibele M Brotto - Editoração<br>
+Alyson Freitas - Revisão<br>
+<br>
+Colaboração:<br>
+Attílio Braghetto<br>
+Bruna Silva<br>
+Cássia Marques<br>
+Frederico Nunes<br>
+Gabriela Menezes<br>
+Guilherme Faber<br>
+Livia Bernardes</p>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -517,7 +731,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   document.getElementById('quarto-content').appendChild(div);
 </script>
 <script defer="" src="https://comento-oijbfqiwuq-rj.a.run.app/comentario.js"></script>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":true,"openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});</script>
 
 
 
