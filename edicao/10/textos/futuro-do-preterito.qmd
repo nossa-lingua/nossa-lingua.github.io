@@ -1,7 +1,7 @@
 ---
 title: 'Futuro do pretérito'
 author: 
-  - name: "Gabriella Menezes Soares"
+  - name: "Anônimo"
 ---
 
 *Para falar de acontecimentos que poderiam ter acontecido no passado, mas que não se concretizaram, utiliza-se a forma composta do futuro do pretérito. O futuro do pretérito composto forma-se com o verbo auxiliar “ter” no futuro do pretérito, seguido do particípio passado do verbo principal.*
