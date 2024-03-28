@@ -137,4 +137,12 @@
   text-align: center!important;
 }
 
+.right p {
+  text-align: right;
+}
+
+.line-height p {
+  line-height: 1.7;
+}
+
 /* #e4e7ef */

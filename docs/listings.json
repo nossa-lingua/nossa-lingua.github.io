@@ -60,6 +60,17 @@
     ]
   },
   {
+    "listing": "/edicao/11/index.html",
+    "items": [
+      "/edicao/11/textos/impureza.html",
+      "/edicao/11/textos/hungry.html",
+      "/edicao/11/textos/tenho-fome-de.html",
+      "/edicao/11/textos/banquete-do-tempo.html",
+      "/edicao/11/textos/restaurante.html",
+      "/edicao/11/textos/a-boba.html"
+    ]
+  },
+  {
     "listing": "/edicao/10/index.html",
     "items": [
       "/edicao/10/textos/borbulhas.html",
@@ -137,8 +148,25 @@
     ]
   },
   {
+    "listing": "/todas-edicoes.html",
+    "items": [
+      "/edicao/11/index.html",
+      "/edicao/10/index.html",
+      "/edicao/09/index.html",
+      "/edicao/08/index.html",
+      "/edicao/07/index.html",
+      "/edicao/06/index.html",
+      "/edicao/05/index.html",
+      "/edicao/04/index.html",
+      "/edicao/03/index.html",
+      "/edicao/02/index.html",
+      "/edicao/01/index.html"
+    ]
+  },
+  {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/11/index.html",
       "/edicao/10/index.html",
       "/edicao/09/index.html",
       "/edicao/08/index.html",
