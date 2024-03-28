@@ -1,5 +1,5 @@
 ---
-title: "7<sup>a</sup> Edição"
+title: "7<sup>a</sup> Edição - Revolta"
 date: "2023-09-27"
 image: "7ed.jpeg"
 description: |

@@ -1,0 +1,24 @@
+---
+title: Edições
+listing:
+  - id: edicoes
+    contents: [edicao/*/index.qmd]
+    sort: 
+      - "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    image-align: left
+    date-format: "MMMM YYYY"
+    max-description-length: 100
+    image-height: 50vh
+    page-size: 6
+sidebar: false
+page-layout: full
+toc: false
+---
+
+:::{#edicoes}
+:::
+

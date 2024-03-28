@@ -9,7 +9,7 @@ description: "Revista da Letras USP"
 <div class="capa">
   <div class="topo">
   <h1 class= "titulo">Nossa Língua</h1>
-  <h3 class="subtitulo">Revista da Letras USP</h3>
+  <h3 class="subtitulo">Revista independente</h3>
   <hr>
   </div>
 
