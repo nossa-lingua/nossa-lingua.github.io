@@ -1,5 +1,5 @@
 ---
-title: "2<sup>a</sup> Edição"
+title: "2<sup>a</sup> Edição - Inspiração"
 date: "2023-04-17"
 image: "2ed.jpeg"
 description: |

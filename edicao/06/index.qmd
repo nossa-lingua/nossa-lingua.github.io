@@ -1,5 +1,5 @@
 ---
-title: "6<sup>a</sup> Edição"
+title: "6<sup>a</sup> Edição - Narrativas"
 date: "2023-08-26"
 image: "6ed.jpeg"
 description: |

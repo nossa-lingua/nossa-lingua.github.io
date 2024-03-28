@@ -1,5 +1,5 @@
 ---
-title: "9<sup>a</sup> Edição"
+title: "9<sup>a</sup> Edição - Nojo"
 date: "2023-11-30"
 image: "9ed.jpeg"
 description: |
