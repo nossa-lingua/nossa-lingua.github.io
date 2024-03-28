@@ -40,6 +40,112 @@ website:
                 - edicao/03/textos/como-vai.qmd
                 - edicao/03/textos/bichinho-virtual.qmd
                 - edicao/03/textos/grilo.qmd
+          - section: Edição 4
+            contents:
+                - edicao/04/textos/brasa.qmd
+                - edicao/04/textos/29-04-2022.qmd
+                - edicao/04/textos/ngiyakuthanda.qmd
+                - edicao/04/textos/os-astros-o-sol.qmd
+                - edicao/04/textos/nu-inacabado.qmd
+                - edicao/04/textos/desramo.qmd
+                - edicao/04/textos/sua-cidade.qmd
+                - edicao/04/textos/adagas.qmd
+                - edicao/04/textos/chama-fria.qmd
+                - edicao/04/textos/as-faces-do-amor.qmd
+                - edicao/04/textos/interludio.qmd
+                - edicao/04/textos/o-amor.qmd
+                - edicao/04/textos/retenha-me.qmd
+                - edicao/04/textos/sininho-de-belem.qmd
+                - edicao/04/textos/amor.qmd
+                - edicao/04/textos/ainda-sobre-voce.qmd
+                - edicao/04/textos/notas-sobre-o-amor.qmd
+                - edicao/04/textos/a-historia-de-quem-me-traiu.qmd
+                - edicao/04/textos/amar-verbo-proibido.qmd
+                - edicao/04/textos/o-sul-da-italia.qmd
+          - section: Edição 5
+            contents:
+                - edicao/05/textos/devasso.qmd
+                - edicao/05/textos/(;).qmd
+                - edicao/05/textos/nos.qmd
+                - edicao/05/textos/crisma.qmd
+                - edicao/05/textos/seu-rosto-uma-pintura.qmd
+                - edicao/05/textos/febre.qmd
+                - edicao/05/textos/canto-da-sereia.qmd
+                - edicao/05/textos/rapto-da-razao.qmd
+                - edicao/05/textos/meu-antinoo.qmd
+                - edicao/05/textos/barbie.qmd
+          - section: Edição 6
+            contents:
+                - edicao/06/textos/se.qmd
+                - edicao/06/textos/coracao-de-sereia.qmd
+                - edicao/06/textos/tchau-tchau-passarinho.qmd
+                - edicao/06/textos/mediacao.qmd
+                - edicao/06/textos/mergulho.qmd
+                - edicao/06/textos/relacoes-alcoolicas.qmd
+                - edicao/06/textos/diario-de-um-aluno.qmd
+                - edicao/06/textos/romaria-a-sao-paulo.qmd
+                - edicao/06/textos/na-hora-do-bandeco.qmd
+                - edicao/06/textos/feitico.qmd
+                - edicao/06/textos/lembrar-de-alguem.qmd
+                - edicao/06/textos/-.qmd
+                - edicao/06/textos/dia-12.qmd
+                - edicao/06/textos/identidade.qmd
+          - section: Edição 7
+            contents:
+              - edicao/07/textos/o-que-te-revolta.qmd
+              - edicao/07/textos/o-poema.qmd
+              - edicao/07/textos/nois-contra-eles.qmd
+              - edicao/07/textos/hora-extra.qmd
+              - edicao/07/textos/o-shea-sibley.qmd
+              - edicao/07/textos/nos-por-noiz.qmd
+              - edicao/07/textos/--.qmd
+              - edicao/07/textos/cronica-de-uma-paulistana-falsa.qmd
+              - edicao/07/textos/tunel-do-tempo.qmd
+          - section: Edição 8
+            contents:
+                - edicao/08/textos/prusten.qmd
+                - edicao/08/textos/sexta-feira-13.qmd
+                - edicao/08/textos/o-gato.qmd
+                - edicao/08/textos/devir.qmd
+                - edicao/08/textos/paredes-de-papel.qmd
+                - edicao/08/textos/pesadelo.qmd
+                - edicao/08/textos/funeral.qmd
+                - edicao/08/textos/maria-augusta.qmd
+                - edicao/08/textos/medo.qmd
+                - edicao/08/textos/arranca-ossos.qmd
+                - edicao/08/textos/o-hereditario.qmd
+                - edicao/08/textos/--.qmd
+                - edicao/08/textos/---.qmd
+          - section: Edição 9
+            contents:
+                - edicao/09/textos/ostras-mangas-pepecas.qmd
+                - edicao/09/textos/astros.qmd
+                - edicao/09/textos/michel-foucault-enigma.qmd
+                - edicao/09/textos/resenha-glicerideos.qmd
+                - edicao/09/textos/companion-of-disquiet.qmd
+                - edicao/09/textos/a-mosca.qmd
+          - section: Edição 10
+            contents:
+                - edicao/10/textos/borbulhas.qmd
+                - edicao/10/textos/alien-do-passado.qmd
+                - edicao/10/textos/qual-a-chance.qmd
+                - edicao/10/textos/nao-e-pra-isso.qmd
+                - edicao/10/textos/futuro-do-preterito.qmd
+                - edicao/10/textos/daqui-a-dez-anos.qmd
+                - edicao/10/textos/o-problema-das-formigas.qmd
+                - edicao/10/textos/sol.qmd
+                - edicao/10/textos/promessas.qmd
+                - edicao/10/textos/09-06.qmd
+                - edicao/10/textos/e-uma-pena.qmd
+          - section: Edição 11
+            contents:
+                - edicao/11/textos/impureza.qmd
+                - edicao/11/textos/hungry.qmd
+                - edicao/11/textos/tenho-fome-de.qmd
+                - edicao/11/textos/banquete-do-tempo.qmd
+                - edicao/11/textos/restaurante.qmd
+                - edicao/11/textos/a-boba.qmd
+              
 
 format:
   html:
