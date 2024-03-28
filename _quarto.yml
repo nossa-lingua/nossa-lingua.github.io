@@ -8,6 +8,7 @@ website:
   navbar:
     right:
       - sobre.qmd
+      - todas-edicoes.qmd
       - icon: instagram
         href: https://instagram.com/revistanossalingua
   twitter-card: true

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Nossa Língua – edicoes</title>
+<title>Nossa Língua - Edições</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,41 +74,13 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
+      page: 6,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-edicoes'] = new List('listing-edicoes', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-outros .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-outros'] = new List('listing-outros', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -134,6 +106,10 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Nossa Língua - Edições">
+<meta property="og:site-name" content="Nossa Língua">
+<meta name="twitter:title" content="Nossa Língua - Edições">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="floating nav-fixed">
@@ -157,7 +133,7 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
  <span class="menu-text">Institucional</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./todas-edicoes.html">
+    <a class="nav-link active" href="./todas-edicoes.html" aria-current="page">
  <span class="menu-text">Edições</span></a>
   </li>  
   <li class="nav-item compact">
@@ -183,11 +159,23 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Edições</h1>
+</div>
 
 
-<h2 class="anchored">
-Edições
-</h2>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
 <div id="listing-edicoes" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-date-sort="1711594800000" data-listing-file-modified-sort="1711645110183" data-listing-reading-time-sort="2.92">
@@ -269,7 +257,7 @@ novembro 2023
 <a href="./edicao/08/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./edicao/08/8ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
+<img src="./edicao/08/8ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -294,7 +282,7 @@ outubro 2023
 <a href="./edicao/07/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./edicao/07/7ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
+<img src="./edicao/07/7ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -319,7 +307,7 @@ setembro 2023
 <a href="./edicao/06/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./edicao/06/6ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
+<img src="./edicao/06/6ed.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -472,66 +460,6 @@ Nenhum item correspondente
 <nav id="edicoes-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
-</div>
-<h2 class="anchored">
-Projetos
-</h2>
-<div id="listing-outros" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1697425200000" data-listing-file-modified-sort="1697549126011" data-listing-reading-time-sort="5.12">
-<a href="./projeto/cai-cai/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projeto/cai-cai/capa.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cai-Cai
-</h5>
-<div class="card-text listing-description">
-<p>Entrevista sobre literatura infantil com a editora Cai-Cai</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-outubro 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1690858800000" data-listing-file-modified-sort="1693090213788" data-listing-reading-time-sort="2.12">
-<a href="./projeto/gatificacoes/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projeto/gatificacoes/gatif.jpeg" class="thumbnail-image card-img" style="height: 50vh;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mês das Gatificações
-</h5>
-<div class="card-text listing-description">
-<p>Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-agosto 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
 </div>
 
 
