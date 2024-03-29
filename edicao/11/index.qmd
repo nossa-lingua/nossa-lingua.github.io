@@ -22,7 +22,7 @@ listing:
 
 <!-- ![](capa.jpeg){.imgpar width="60%"} -->
 
-No cerne de nossa natureza, há aquela pulsão sutil – ou não – que nos impulsiona a desejar mais do que meramente necessitamos: de insosso já basta o cotidiano. No banquete protocolado da existência moral, existe essa fome da que transborda a necessidade e busca a demasia.
+No cerne de nossa natureza, há aquela pulsão sutil – ou não – que nos impulsiona a desejar mais do que meramente necessitamos: de insosso já basta o cotidiano. No banquete protocolado da existência moral, existe essa fome que transborda a necessidade e busca a demasia.
  
 Dizem-nos que o simples sacia, que o básico tem o necessário para nos nutrir e energizar. Desejamos mais chocolate, mesmo quando um pouco já basta. E não só: esperamos que ele venha em papel brilhoso, com forma e gosto específico que a gente jura que tem (e se pá um presentinho dentro). 
 
@@ -68,7 +68,7 @@ Para os textos serem publicados em nossa revista, seguimos alguns norteadores é
 </p>
 
 | Alyson Freitas - Revisão
-| Bruna Silva - Editoração
+| Bruna Silva - Revisão e Editoração
 | Cibele M Brotto - Editoração
 | 
 | Colaboração:
