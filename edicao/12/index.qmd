@@ -1,0 +1,74 @@
+---
+title: "12<sup>a</sup> Edição - FALSIDADE"
+date: "2024-04-25"
+image: "12ed.png"
+description: |
+  Falsear, um vetor de distâncias
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/chuva.qmd
+      - textos/isso-nao-e-autoficcao.qmd
+      - textos/transformacao-merecida.qmd
+      - textos/minitratado-sobre-falsidade.qmd
+      - textos/sangue-falso.qmd
+      - textos/bebida-salpicada-de-mentira.qmd
+      - textos/o-grande-ego.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Falsear, um vetor de distâncias
+
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+
+Malvista, porém rotineira, a falsidade está mais presente em nossas vidas do que gostaríamos.  Isso porque é feio ser falso, não pega bem. Contudo, somos falsos por querer, sem querer e até por necessidade. Afinal, dá pra ser sincero o tempo todo? Parece meme, mas dizer tudo o que pensamos sem atenuar um pouco a crueza dos nossos pensamentos nos faria francos demais e ser diretos e sinceros é visto, muitas vezes, como rispidez. Ou, como no linguajar popular, o temido *sincericídio*. Tá, mas então queremos que as pessoas sejam falsas com a gente? Às vezes, sim. Existe algo dentro da gente que repudia certas verdades, ou melhor, precisa de muita aprovação. Verdade e aprovação são coisas que não necessariamente andam juntas: se estão unidas, é o máximo, não existe melhor cenário; se há apenas a verdade, isso pode chatear, pois não atenderá a nossa expectativa de aceitação; mas somente a presença de aprovação é mero engano, uma mentira que a nossa vaidade quer. Essa breve reflexão não é para execrar a falsidade, é apenas para dizer que ela cumpre certo papel nas nossas relações, tanto para com as outras pessoas quanto para com nós mesmos.
+
+Suspeito, porém, se a necessidade de falsidade é algo trivial ou uma muleta para a nossa covardia de encarar certos problemas. Nesse sentido, ela pode vir a servir de uma forma um pouco menos banal e mais capciosa, contra nós. Se falsear intenções deve ser visto como algo bom, então a justificativa da sua utilidade se perderá em qualquer uso. Manipulativo, ludibriador, esquivo… A questão parece apontar para uma falta de implicação pessoal nos problemas que enfrentamos e não na sua atenuação. E, ao tentar resolver conflitos com esse artifício, agigantamos coisas pequenas e tardamos na resolução dos problemas que, no fim, estamos apenas postergando. A certa altura, uma pequena rusga se torna tão enorme e complexa que já montamos todo um exército de defesa contra outra pessoa ou contra o estranho percebido em nós. Talvez seja aí a gênese da fofoca, lugar em que nos escondemos atrás da falsidade…
+
+Falsear se mostra, portanto, um vetor de distâncias. Tanto em relação ao que nós sentimos, na perplexidade de encararmos o que pode existir dentro da gente, quanto em outra pessoa. E, pra curar essa mania pecaminosa não adianta placebo, só uma boa dose de sinceridade. O remédio é dialogar: falar com ternura verdades difíceis nos momentos complicados. Pode não parecer a melhor saída, mas fingir que algo incômodo não está acontecendo é pior. 
+
+Dialogar é uma arte, mas parece que estamos cada vez mais distantes e preguiçosos, nos eximindo de tal virtude. Embora possa parecer chocante, podemos falar qualquer coisa que sentimos para outra pessoa de uma maneira afetuosa. Seja no sentido de afeto amoroso e paciente ou firme e equilibrado. Para a nossa benesse, a linguagem nos presenteia com infinitas formas. Nos resta articular palavras que traduzam nossas verdades sem precisar dissimular o que pode nos unir em um contato autêntico.
+
+## Abril
+
+No mês do dia da mentira, convidamos vocês para falarem da falsidade, um pecado recém elencado por nossa equipe editorial, mas que sempre fez parte das mazelas humanas. [*Chuva*](textos/chuva.qmd), aborda o tema com uma construção imagética e campo semântico de clima interior e exterior;[*Isso não é uma autoficção*](textos/isso-nao-e-autoficcao.qmd), apresenta uma escrita brutalmente sincera e dilacerante ao inserir a imagem da ficção/fantasia para, em seguida, refutá-la; Em [*Transformação merecida*](textos/transformacao-merecida.qmd), identifica-se um diálogo interessantíssimo com uma visão bem posicionada e declarada com o que já conhecemos com o Kafka; Em [*Minitratado sobre falsidade: um ensaio mal elaborado*](textos/minitratado-sobre-falsidade.qmd), temos a tentativa de conceituar o pecado como se fosse uma conversa despreocupada em que cabe toda magnitude da matéria humana; No poema [*sangue falso*](textos/sangue-falso.qmd), a autora trabalha as ambiguidades entre a falsidade e a entrega recorrendo ao rubro;  [*bebida salpicada de mentira*](textos/bebida-salpicada-de-mentira.qmd), traz a denúncia da falsidade declamada com imagens que dialogam e se chocam entre si de maneira única; e, por fim, [*O Grande Ego*](textos/o-grande-ego.qmd), encena uma rotina meticulosa de um jardineiro que manipula e controla seu entorno por detrás de sorrisos gentis.
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Alyson Freitas - Revisão
+| Bruna Silva - Revisão e Editoração
+| Cibele M Brotto - Editoração
+| 
+| Colaboração:
+| Attílio Braghetto
+| Cássia Marques
+| Gabriela Menezes
+| Guilherme Faber
+| Livia Bernardes

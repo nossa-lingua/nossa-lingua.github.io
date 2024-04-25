@@ -148,8 +148,21 @@
     ]
   },
   {
+    "listing": "/edicao/12/index.html",
+    "items": [
+      "/edicao/12/textos/chuva.html",
+      "/edicao/12/textos/isso-nao-e-autoficcao.html",
+      "/edicao/12/textos/transformacao-merecida.html",
+      "/edicao/12/textos/minitratado-sobre-falsidade.html",
+      "/edicao/12/textos/sangue-falso.html",
+      "/edicao/12/textos/bebida-salpicada-de-mentira.html",
+      "/edicao/12/textos/o-grande-ego.html"
+    ]
+  },
+  {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/12/index.html",
       "/edicao/11/index.html",
       "/edicao/10/index.html",
       "/edicao/09/index.html",
@@ -166,6 +179,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/12/index.html",
       "/edicao/11/index.html",
       "/edicao/10/index.html",
       "/edicao/09/index.html",

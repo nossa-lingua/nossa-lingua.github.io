@@ -146,6 +146,15 @@ website:
                 - edicao/11/textos/banquete-do-tempo.qmd
                 - edicao/11/textos/restaurante.qmd
                 - edicao/11/textos/a-boba.qmd
+          - section: Edição 12
+            contents: 
+                - edicao/12/textos/chuva.qmd
+                - edicao/12/textos/isso-nao-e-autoficcao.qmd
+                - edicao/12/textos/transformacao-merecida.qmd
+                - edicao/12/textos/minitratado-sobre-falsidade.qmd
+                - edicao/12/textos/sangue-falso.qmd
+                - edicao/12/textos/bebida-salpicada-de-mentira.qmd
+                - edicao/12/textos/o-grande-ego.qmd
               
 
 format:

@@ -137,8 +137,12 @@
   text-align: center!important;
 }
 
-.right p {
+.right {
   text-align: right;
+}
+
+.right-push {
+  padding-left: 50%;
 }
 
 .line-height p {
