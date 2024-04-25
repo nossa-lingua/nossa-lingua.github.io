@@ -148,6 +148,17 @@
     ]
   },
   {
+    "listing": "/edicao/12/index.html",
+    "items": [
+      "/edicao/12/textos/chuva.html",
+      "/edicao/12/textos/isso-nao-e-autoficcao.html",
+      "/edicao/12/textos/transformacao-merecida.html",
+      "/edicao/12/textos/minitratado-sobre-falsidade.html",
+      "/edicao/12/textos/sangue-falso.html",
+      "/edicao/12/textos/bebida-salpicada-de-mentira.html"
+    ]
+  },
+  {
     "listing": "/todas-edicoes.html",
     "items": [
       "/edicao/12/index.html",
@@ -181,17 +192,6 @@
       "/edicao/01/index.html",
       "/projeto/cai-cai/index.html",
       "/projeto/gatificacoes/index.html"
-    ]
-  },
-  {
-    "listing": "/edicao/12/index.html",
-    "items": [
-      "/edicao/12/textos/chuva.html",
-      "/edicao/12/textos/isso-nao-e-autoficcao.html",
-      "/edicao/12/textos/transformacao-merecida.html",
-      "/edicao/12/textos/minitratado-sobre-falsidade.html",
-      "/edicao/12/textos/sangue-falso.html",
-      "/edicao/12/textos/bebida-salpicada-de-mentira.html"
     ]
   }
 ]
