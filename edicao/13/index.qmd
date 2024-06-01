@@ -1,0 +1,86 @@
+---
+title: "13<sup>a</sup> Edição - PREGUIÇA"
+date: "2024-05-31"
+image: "13ed.jpeg"
+description: |
+   Que seja dito: é proibido descansar.
+
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/nao-quero-fazer.qmd
+      - textos/se-me-canso-pingo.qmd
+      - textos/sombra-da-preguica.qmd
+      - textos/a-cegonha.qmd
+      - textos/a-preguica-entre.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Que seja dito: é proibido descansar
+
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+
+Na era do imperativo da produção, a preguiça é um dos pecados mais condenados no nosso purgatório, afinal ela é a mais poderosa de todos, se temos preguiça, nem cometemos os outros pecados. Nesses tempos implacáveis, em vez de se questionar a excessiva produtividade, assunto que ficou delegado à galera de humanas, na contrapartida, blogueiros/as fitness em nome da “saúde” propõem mais disciplina e empenho pessoal, pra não falar dos faria limers meritocráticos de plantão, dispostos a defender a chefia desde que o mundo é mundo. É foda ser lacaio. Mas, voltando à preguiça, de fato, esse sentimento sempre teve um teor pejorativo relacionado à falta de empenho; certo desleixo. O que não tem nada a ver com a rotina sobrecarregada da classe trabalhadora, mais ainda nesses tempos, tentando dar conta de organizar minimamente o tempo curto. Estatuto mais distante ainda comporta o ócio, injustamente associado à preguiça. Ócio é uma escolha pela ausência de ocupação, quando a gente se dá uma folga e deita na relva, observa as nuvens e contempla, podendo respirar sem um fim útil. Tem nada a ver preguiça com ócio. Mas não me espanta as duas estarem associadas na contemporaneidade. Que seja dito: é proibido descansar.
+
+Distinções semânticas feitas, podemos continuar sem pressa… Mas dizer que tudo tá muito rápido, insuportavelmente volátil e a nossa paciência bem curta é óbvio. A pressa de fumar um cigarro, a pressa na pausa do café, apressa com a velhinha atravessando a rua, apressa na mastigação do pf no almoço, apressa na rapidinha que pra ficar mais rápida nem precisa mais de outra pessoa, melhor o sexting logo que daí economiza o tempo e o deslocamento no espaço a segunda via do cartão da breja que não precisa tomar na mesa do bar e, FINALMENTE, a conversa/ barra discussão sobre um monte de coisas de que nem eu mesma sei se tenho tanta certeza mas aquece os ânimos pra um beijo nervoso que seria dado na esquina do lado ali da mesa do bar na volta pra casa meio constrangidos com o que falamos e depois, quem sabe, ficasse tudo bem porque eu pensaria 2x (não o modo rápido do YT) e chegaria à conclusão de que talvez a gente nem tava discordando tanto assim. Enfim, não podemos perder tempo. Mas, ao mesmo tempo, tudo é sobre o nosso tempo. 
+
+Um tempo de atenção sequestrada.
+
+Timidamente, nesse vendaval de afazeres e tempo livre culposo, um dispositivo se infiltra na rotina inflexível, nos mais íntimos instantes de vida. O celular. Nos elevadores, nas filas, na mesa do jantar, na mesa de bar, no banheiro ou depois de transar. O Brasil é um dos países que mais passa tempo no celular, seja nas redes sociais ou qualquer outra ferramenta que possa ser útil no aparelho, a dependência é inegável. Tantas horas imersos no interior desse âmbito cognitivo muda a nossa maneira de nos relacionarmos, pois, assim como no telefone, a nossa realidade se torna entrecortada, nossos dedos se mexem sozinhos e a distração resultante de uma navegação icônica e mecânica afeta a nossa capacidade sensitiva diante do mundo. Não damos folga para o celular, não optamos por isso. Se eu escolhesse não tocar no meu celular em média 200x no dia, talvez eu resolvesse um tique esquisito de não conseguir concentrar plenamente em alguma coisa por mais de 15min seguidos sem cortes, sem déficit de atenção, sem mania. A falta de foco atrapalha o aproveitamento de tudo, é a antítese de se estar presente. A rapidez nesses processos de navegação gera uma sobrecarga cognitiva que pressiona o corpo, causando um torpor covarde que nos afasta de estados ativos de consciência. A pouca relação entre todas as coisas no feed, que vai desde corpos sarados imbuídos com o falso discurso da saúde, receitas de bolo, memes, a crianças cruelmente mortas por bombas no meio de guerras, provoca uma sensação eternamente distraída do nosso eixo mental e do que realmente move a gente diante de um mundo em que existem muitas coisas que não conseguimos alcançar individualmente ou não sabemos como mudar. Preguiça é essa paralisia mental entre ser convocado pelo externo e, em vez de responder de alguma forma ou buscar as respostas, optamos por tardar aquilo que precisa de uma atitude; procrastinar uma decisão difícil sobre o que precisa ser feito. A linguagem tem poder porque é simbólica, as imagens e os discursos penetram e a realidade é brutal, mas deixar escorrer em preguiça a nossa atenção atrás de uma tela é a maior perda diária, seja para o mundo ou para nós mesmos.
+
+“Se você não se comprometer com nada, você se distrairá com tudo”.[^1]
+
+[^1]: O meditante: [https://www.instagram.com/p/CyPIYYqg1gS/?igsh=NHBlYjljdXJwcTlo](https://www.instagram.com/p/CyPIYYqg1gS/?igsh=NHBlYjljdXJwcTlo)
+
+A distração é sorrateira porque, ao mesmo tempo em que ela fragmenta a nossa percepção, oblitera qualquer rastro de significado, ficando impossível de se focar ou se comprometer com qualquer coisa porque nada fica saliente nos nossos sentidos. Tudo entra numa imensa massa amorfa sem definição, sem diferenciação de significado, numa morbidez que carece de palavras. Nesse moinho que é o mundo, nem se abster, nem ser passivo, mas vitalidade para encontrar sentidos.
+
+## Maio
+
+Neste mês de Maio, pedimos que vocês nos escrevessem sobre a preguiça, o pecado mais irritante porque perdemos a luta contra ele assim que nos acomete. Ataca como um parasita principalmente em dia frio, às 6h da manhã ou no domingo. Essa edição quase não sai. Em ["não quero fazer"](textos/nao-quero-fazer.qmd), a ilustradora explora a dinâmica mental entre as demandas e a preguiça que precipita nos piores momentos. ["Se me canso, pingo"](textos/se-me-canso-pingo.qmd), dispõe em estilo concreto versos que mimetizam a água/eu (corpo/mente/espírito), escorrendo por entre uma sensação mórbida bem preguiçosa como água que pinga. ["Sombra da preguiça"](textos/sombra-da-preguica.qmd) reflete de maneira profunda a presença da preguiça, explorando seus efeitos de "sonolência inebriante". No texto ["À cegonha"](textos/a-cegonha.qmd), em diálogo epistolar o narrador reclama sua completa estranheza ao jugo da produtividade nesse mundo em que foi deixado. Por fim, ["A preguiça entre o pecado e a virtude: diálogos entre Byung-Chul Han e Elise Loehnen numa perspectiva histórica"](textos/a-preguica-entre.qmd), articula de maneira inédita duas figuras contemporâneas de produção intelectual relevantes em uma abordagem sistematizada, propondo uma reflexão lúcida sobre a preguiça na atualidade. ▿
+
+Judys, artista visual e fotógrafa, assina a ilustra que exprime com cores intensas e traços acentuados nosso gato preguiçoso. Conheça seu trabalho: [@judysdn](https://www.instagram.com/judysdn) e [@ju_dysart](https://www.instagram.com/ju_dysart).
+
+---
+
+No Rio Grande do Sul, em meio à destruição causada pelas cheias, preguiça talvez seja o último sentimento que os sulistas, voluntários e agentes do Estado tenham direito de sentir nesse momento. Desejamos conforto às famílias que perderam seus familiares e animais e um plano governamental eficiente de reconstrução para que as pessoas possam restabelecer suas vidas. Esperamos que esse evento supere a solidariedade em curto prazo e construa para médio e longo prazo uma discussão para políticas efetivas perante à crise climática que enfrentamos hoje no mundo inteiro.
+
+[DOE](https://www.paraquemdoar.com.br/)
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Alyson Freitas - Revisão
+| Cibele M Brotto - Editoração
+| 
+| Colaboração:
+| Attílio Braghetto
+| Bruna Silva
+| Gabriela Menezes
+| Guilherme Faber
+| Livia Bernardes

@@ -155,6 +155,13 @@ website:
                 - edicao/12/textos/sangue-falso.qmd
                 - edicao/12/textos/bebida-salpicada-de-mentira.qmd
                 - edicao/12/textos/o-grande-ego.qmd
+          - section: Edição 13
+            contents:
+                - edicao/13/textos/nao-quero-fazer.qmd
+                - edicao/13/textos/se-me-canso-pingo.qmd
+                - edicao/13/textos/sombra-da-preguica.qmd
+                - edicao/13/textos/a-cegonha.qmd
+                - edicao/13/textos/a-preguica-entre.qmd
               
 
 format:

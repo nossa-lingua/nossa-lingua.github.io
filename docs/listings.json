@@ -160,8 +160,19 @@
     ]
   },
   {
+    "listing": "/edicao/13/index.html",
+    "items": [
+      "/edicao/13/textos/nao-quero-fazer.html",
+      "/edicao/13/textos/se-me-canso-pingo.html",
+      "/edicao/13/textos/sombra-da-preguica.html",
+      "/edicao/13/textos/a-cegonha.html",
+      "/edicao/13/textos/a-preguica-entre.html"
+    ]
+  },
+  {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/13/index.html",
       "/edicao/12/index.html",
       "/edicao/11/index.html",
       "/edicao/10/index.html",
@@ -179,6 +190,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/13/index.html",
       "/edicao/12/index.html",
       "/edicao/11/index.html",
       "/edicao/10/index.html",

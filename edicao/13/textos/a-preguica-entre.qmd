@@ -1,0 +1,44 @@
+---
+title: 'A preguiça entre o pecado e a virtude'
+subtitle: 'Diálogos entre Byung-Chul Han e Elise Loehnen numa perspectiva histórica.'
+author: 
+  - name: "Livia Marciano"
+---
+
+A geração Z nasceu e cresceu em meio ao caos da pós-modernidade, num limiar temporal meio esquisito da contemporaneidade; num maranhado social, econômico, político e cultural  em queas esferas se misturam e diluem-se nessa experiência histórica frenética, com eventos e acontecimentos acelerados, exponencial tecnológica. No contexto em que aprendemos a digerir o mundo em vídeos de até 30 segundos, a preguiça é o pecado mais condenável. Tudo é corrido e hiperestimulante. Como entender essa negação do descanso em uma sociedade cansada, impulsionada pela valorização do indivíduo a partir de sua produtividade? Nesse curto ensaio, proponho um diálogo, talvez inconclusivo, entre dois autores que li recentemente: a jornalista Elise Loehnen e o filósofo Byung-Chul Han.
+
+::: {#text-center}
+| *
+:::
+
+A primeira citada, Loehnen, em seu livro “Bem-comportadas”, aborda como a imposição dos pecados capitais colocou novos obstáculos para mulheres provarem seus valores socialmente. Se pudermos traçar uma genealogia desse argumento desde o século VI, é a mulher o centro e a encarnação dos demônios vitais, impassíveis de controle. Gregório I, papa que cristaliza as concepções do monge Evágrio [^2], concentra em Maria Madalena os desvios morais, como exemplo, apresentando-a como prostituta em suas pregações, logo, uma mulher pecadora em seu âmago. Conforme a jornalista: “ao condenar Maria, Gregório condenou todas as mulheres”. 
+
+É nos monastérios que o combate à acídia se intensifica a partir do século XVI, em um processo de estruturação de rotina, o tempo passa a ser regrado na vida religiosa. É importante esclarecermos que, até o momento, a prática do trabalho manual era rejeitada pela aristocracia - a classe ociosa -, sendo considerada indigna. Estes, se reservavam à atividade intelectual dignificada da política, economia e religião. De tal forma, a culpabilização da preguiça ficou restrita ao mundo monástico até a Reforma Protestante, em que,aliada ao emergente mercantilismo, espalhou de forma permanente pelo mundo cristão a condenação da inércia perante o trabalho.
+
+Ao pularmos temporalmente para o  princípio da modernidade, em um contexto de fim do Estado Absolutista e da transformação da produção do capital de servidão (estritamente conectada às relações sociais feudais) à força de trabalho[^3], renegamos o descanso para provar um valor individual na sociedade, de uma forma quase performática. Recortando a experiência histórica feminina, a figura da mãe injeta seu valor na sua hiperprodutividade no campo doméstico, sendo imputada à impossibilidade de descanso viabilizando, em contrapartida, a boa conduta da família, da casa e da sua capacidade reprodutiva capitalista. Loehnen em sua articulação, se cabe aqui uma crítica, falha na superficialidade ao tentar aprofundar histórica e culturalmente esse peso legado em especial às mulheres, não colocando, em muitas constatações, a análise de classe dentro do gênero. 
+
+A experiência histórica industrial norte-americana é marcada pelo utilitarismo anglo-saxão, uma corrida de acumulação de capital para estabelecimento de uma hegemonia que tenta não repetir os erros dos ciclos econômicos anteriores, ao mesmo tempo que constrói uma identidade bem delimitada: o ilusório sonho americano que se esgueira na sociedade desde as primeiras décadas do séc. XX e fornece sustentação ideológica para o funcionamento da produção. Isso posto, entendemos que tal experiência não se aplica à nossa relação de produtividade na América Latina ou no terceiro mundo, que em muitos casos encontramos uma estrutura colonial de produção inclinada a um percurso “mais lento” de adaptação até a modernização.
+
+Contudo, a constatação central no capítulo referido ainda merece destaque nesta exposição: pessoas marginalizadas estão mais sobrecarregadas e concomitantemente constroem uma cultura de medo da preguiça. O tempo produtivo determina nosso valor e, portanto, as revoluções industriais e o protestantismo, como doutrina ideológica, foram exímios em desencadear um fluxo ininterrupto de ação.
+
+Uma sociedade positivada[^4] renega tudo que seja negativo, e se tem algo que o protestantismo lutou contra foi, certamente, a falta de trabalho, colocando na preguiça a decadência do homem em nível espiritual e condenável. É no âmago da transição do XX para o XXI que o novo homem é mergulhado numa ordem de autoexploração, por meio  de uma liberdade paradoxal, concedida pelas coerções mentais do momento tardio da produção capitalista no ciclo norte-americano de acumulação. Se o paralelo é possível, a passagem da era imunológica, proposta por Byung-Chul Han, se localiza historicamente na crise da hegemonia econômica dos Estados Unidos (especificamente, na crise de 2008), terminando  finalmente no **longo século XX**.
+
+É nessa era neural vivida por nós que a preguiça, substituída pela procrastinação, mantém suas garras atrelada à quantidade produtiva como indivíduo. Apesar das discutidas diferenças, o termo se altera para adequar a um mundo da superprodução, contudo sua raiz permanece, minando a "vida contemplativa" e "apassivando" as reações negativas. 
+
+A hipertensão rápida e curta do mundo nos individualiza, quebra laços e comunidades pois corta com o pacto do diálogo. Se estamos esgotados para/com o mundo, não compartilhamos, não nos enxergamos pela potência negativa de construção e inquietação ou até mesmo de enxergar o outro por meio do seu cansaço: nos tornamos individualizados. Nas palavras do autor: “o excesso da elevação do desempenho leva a um infarto da alma.”
+
+Que a preguiça seja virtude para que possamos fluir entre nós e construir comunidades que subvertam a lógica - de longa duração - ainda mercantilista e de dominação ilusória do eu enquanto senhor. Mesmo que inconclusivo, fica o registro de um esforço de construção identitária sem a associação qualitativa da produção.
+
+[^2]: Evágrio do Ponto, um monge cristão do Baixo Egito, viveu no século IV e elaborou uma lista das principais doenças espirituais que se espalhou pelo oriente até chegar ao Papa Gregório (século VI), as ordenando e definindo como os vícios de conduta do homem.
+[^3]: ANDERSON, Perry. Linhagens do Estado Absolutista. São Paulo: Brasiliense, 1998. Para uma abordagem mais aprofundada sobre o tema numa ótica da história econômica, Giovanni Arrighi é autor de uma das obras que eu sempre retorno para pensar sobre as passagens de ciclos econômicos: “O longo século XX” (1996).
+[^4]: Han insere essa compulsividade da positividade num contexto de repressão a tudo que é entendido como negativo. O século passado teve como premissa uma identificação do “estranho”, em que éramos condicionados socialmente a reagir a tudo que era “estrangeiro”, na busca de  modificá-los e massificá-los em moldes hegemônicos. Com a globalização e a hipercomunicação das redes sociais, as barreiras cederam e agora lidamos com a saturação desse processo. Se o diálogo é quebrado entre o externo e interno, criamos identidades fragmentadas, contudo, se é identidade que nos costura à estrutura, fazendo o meio de campo entre os dois ambientes. Para Stuart Hall (2019), o excesso de produtividade nos valida e nos adequa (massifica) para o pertencimento em sociedade.
+
+**Bibliografia**
+
+| ANDERSON, Perry. **Linhagens do Estado Absolutista**. São Paulo: Brasiliense, 1998.
+| ARRIGHI, Giovanni. **O longo século XX**. Rio de Janeiro: Unesp, 1996.
+| HAN, Byung-Chul. Sociedade do cansaço. Petrópolis: Editora Vozes, 2015.
+| HALL, Stuart. **A identidade cultural na pós-modernidade**. 12. ed. Rio de Janeiro: Lamparina, 2019.
+| LOEHNEN, Elise. **Bem-comportadas**: os sete pecados capitais e o preço que as mulheres pagam para provar seu valor. Rio de Janeiro: Editora Sextante, 2024.
+
+<a href="https://instagram.com/liviamrcn"><i class="bi bi-instagram"></i></a>
