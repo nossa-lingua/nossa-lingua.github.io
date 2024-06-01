@@ -3,7 +3,7 @@ title: "13<sup>a</sup> Edição - PREGUIÇA"
 date: "2024-05-31"
 image: "13ed.jpeg"
 description: |
-   Que seja dito: é proibido descansar.
+   Que seja dito: é proibido descansar
 
 listing: 
   - id: edicao
