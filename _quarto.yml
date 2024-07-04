@@ -162,6 +162,15 @@ website:
                 - edicao/13/textos/sombra-da-preguica.qmd
                 - edicao/13/textos/a-cegonha.qmd
                 - edicao/13/textos/a-preguica-entre.qmd
+          - section: Edição 14
+            contents:
+                - edicao/14/textos/caos-e-cosmos.qmd
+                - edicao/14/textos/efeito-ipanema.qmd
+                - edicao/14/textos/pedaco-de-pecado.qmd
+                - edicao/14/textos/pele-e-carne.qmd
+                - edicao/14/textos/sede-noturna.qmd
+                - edicao/14/textos/gabriela.qmd
+                - edicao/14/textos/reflexao-sobre-luxuria.qmd
               
 
 format:

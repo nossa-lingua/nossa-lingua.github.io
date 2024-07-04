@@ -1,0 +1,78 @@
+---
+title: "14<sup>a</sup> Edição - LUXÚRIA"
+date: "2024-06-30"
+image: "14ed.jpeg"
+description: |
+   É uma questão de pique e apetite
+
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/caos-e-cosmos.qmd
+      - textos/efeito-ipanema.qmd
+      - textos/pedaco-de-pecado.qmd
+      - textos/pele-e-carne.qmd
+      - textos/sede-noturna.qmd
+      - textos/gabriela.qmd
+      - textos/reflexao-sobre-luxuria.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## É uma questão de pique e apetite
+
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+
+Dizem que sexo pode ser um santo remédio para tudo; se estamos tristes, ele pode animar; se a nossa autoestima está baixa, ele cura pelo desejo do outro; se estamos brigados com o nosso par, ele reconcilia as dores; se temos saudade, a masturbação encurta distâncias num autoprazer com o nosso corpo e imaginação; transar pra aplacar o tesão, enfim, várias são as maneiras de explorar esse campo de emoções infinitas do sexo.
+
+De natureza potente porque se constitui numa força que impulsiona tanto para o bem quanto para o mal, o sexo tem como maior característica o descontrole proporcionado pelo prazer desenfreado. Quem age em posse do tesão não pensa, está subjugado numa urgência que pode ser fatal. Mas, de fato, aquele que consegue se equilibrar em meio ao seu domínio é capaz de experienciar muito mais daquilo que outras poucas coisas têm de parecido em nossa existência. A entrega, a embriaguez nesse delírio fortalece a mais penada alma porque o sexo é generoso. Sob o seu domínio real, entre duas pessoas que vivenciam o seu verdadeiro poder, os polos entre dar e receber estão na mais perfeita harmonia, pairam em eterna justeza. Se impulsiona, pode ser criativo na medida em que a exploração dos corpos ali presentes abrem cada vez mais caminhos sensíveis inimagináveis, seja no corpo ou na alma. Como uma onda que cresce e quebra impetuosa abraçando tudo para se desenrolar envolvendo a orla, o sexo invade as praias sedentas do nosso sensível encharcando todo o litoral.
+
+*Na verdade, eu queria mesmo é tá sempre nesse estado de espírito ovulatório em que eu me sinto cheia de disposição mental e física, e consequentemente espiritual pra estar & existir de forma plena na minha vida. Parece uma droga que anima o meu ser e instiga o meu tesão. No fundo, é uma questão de pique e apetite.*
+
+Que transar é bom poucos discordam. No entanto há de se pensar no sexo como esporte, afinal, a luxúria é um pecado. Mas seria ele bem endereçado? Primeiro, não existe receita pra praticá-lo, cada um sabe da sua vontade. Mas é verdade também que querer usar do sexo pra tudo pode ser um tipo de fuga do que realmente precisamos encarar: às vezes um emprego ruim, um problema com alguém, alguma culpa… Ou, então, um desejo desenfreado de se provar o tempo todo - muito comum para narcisistas. Por um outro lado ainda, poderíamos pensar em aventuras sexuais pra aqueles que buscam novas experiências durante a vida por pura curiosidade. De qualquer forma, não há julgamentos para esse tipo de escolha pessoal, pois diz respeito ao íntimo de cada um. 
+
+A questão com a luxúria então parece ter mais a ver com uma certa opção por quantidade em detrimento da qualidade, porque não dá pra dizer que transar muito não diminui a nossa performance, porque diminui. Se sexo tem a ver com uma força quase física, de uma disposição corporal, com uma profundidade de sentidos, fica difícil defender que transar por transar, seja por ego, autoestima, uma frustração etc. é o mesmo que transar com uma vontade real de *transar* que só o sexo poderia satisfazer. Lembrar a semântica de transa pode ajudar, afinal, *trocar ideia*, chegar a um *entendimento* ou até mesmo uma *transação* são signos que coexistem em um mundo de relações em que precisamos de outra pessoa para transitar além do estado inicial em que estávamos, portanto alguma coisa que paira nesse sentido de ligação. Quem dera essa outra abordagem trouxesse uma concepção menos vulgar e trivial que acompanha o sexo, para a centralidade do corpo de um jeito não moralizante, trazendo à tona essa fina e misteriosa conexão.
+
+## Junho
+
+Neste mês dos namorados, nenhum outro pecado além da Luxúria poderia ser explorado. Sua força é tamanha que talvez seja o pecado mais poderoso em termos de energia impulsora. O fluxo de pensamento intenso e vivo em ["Caos e cosmos"](textos/caos-e-cosmos.qmd) nos eleva à cena mitológica inaugural da humanidade para depois atualizá-la no contemporâneo da cozinha da narradora de maneira extraordinária; Em ["Efeito Ipanema, Amor"](textos/efeito-ipanema.qmd), o eu-lírico parece derreter a oposição entre doce e salgado ao uni-las numa viagem sensorial pelo mar, o desejo e os corpos; No texto ["Pedaço de pecado"](textos/pedaco-de-pecado.qmd), entre o profano e o sagrado a luxúria aparece em seu estado mais febril; Em ["Pele e carne"](textos/pele-e-carne.qmd) a narradora com muita franqueza expõe os sentimentos ao se optar pelo desejo mesmo que em uma relação de prazer culposo; No poema ["Sede noturna"](textos/sede-noturna.qmd), tensionando figuras elevadas e baixas, na busca do prazer da alma o eu-lírico encontra também o desejo; Em ["Gabriela"](textos/gabriela.qmd) vemos a luxúria como uma espécie de fuga das dores. Por fim, ["Uma reflexão sobre a luxúria"](textos/reflexao-sobre-luxuria.qmd) de maneira provocativa dialoga com o leitor sobre o que é a luxúria afinal.
+
+Judys, artista visual e fotógrafa, assina a ilustra que exprime com cores intensas e traços acentuados nosso gato preguiçoso. Conheça seu trabalho: [@judysdn](https://www.instagram.com/judysdn) e [@ju_dysart](https://www.instagram.com/ju_dysart).
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Alyson Freitas - Revisão textual
+| Bruna Silva - Revisão literária
+| Cibele M Brotto - Editoração
+| 
+| Colaboração:
+| Attílio Braghetto
+| Gabriela Menezes
+| Guilherme Faber
+| Livia Bernardes

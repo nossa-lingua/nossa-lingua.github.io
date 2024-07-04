@@ -170,8 +170,21 @@
     ]
   },
   {
+    "listing": "/edicao/14/index.html",
+    "items": [
+      "/edicao/14/textos/caos-e-cosmos.html",
+      "/edicao/14/textos/efeito-ipanema.html",
+      "/edicao/14/textos/pedaco-de-pecado.html",
+      "/edicao/14/textos/pele-e-carne.html",
+      "/edicao/14/textos/sede-noturna.html",
+      "/edicao/14/textos/gabriela.html",
+      "/edicao/14/textos/reflexao-sobre-luxuria.html"
+    ]
+  },
+  {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/14/index.html",
       "/edicao/13/index.html",
       "/edicao/12/index.html",
       "/edicao/11/index.html",
@@ -190,6 +203,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/14/index.html",
       "/edicao/13/index.html",
       "/edicao/12/index.html",
       "/edicao/11/index.html",
