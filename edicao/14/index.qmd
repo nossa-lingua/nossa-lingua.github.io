@@ -15,7 +15,7 @@ listing:
       - textos/pele-e-carne.qmd
       - textos/sede-noturna.qmd
       - textos/gabriela.qmd
-      - textos/uma-reflexao-sobre-luxuria.qmd
+      - textos/reflexao-sobre-luxuria.qmd
     sort: "false"
     fields: [title, author]
 ---
@@ -39,12 +39,6 @@ A questão com a luxúria então parece ter mais a ver com uma certa opção por
 Neste mês dos namorados, nenhum outro pecado além da Luxúria poderia ser explorado. Sua força é tamanha que talvez seja o pecado mais poderoso em termos de energia impulsora. O fluxo de pensamento intenso e vivo em ["Caos e cosmos"](textos/caos-e-cosmos.qmd) nos eleva à cena mitológica inaugural da humanidade para depois atualizá-la no contemporâneo da cozinha da narradora de maneira extraordinária; Em ["Efeito Ipanema, Amor"](textos/efeito-ipanema.qmd), o eu-lírico parece derreter a oposição entre doce e salgado ao uni-las numa viagem sensorial pelo mar, o desejo e os corpos; No texto ["Pedaço de pecado"](textos/pedaco-de-pecado.qmd), entre o profano e o sagrado a luxúria aparece em seu estado mais febril; Em ["Pele e carne"](textos/pele-e-carne.qmd) a narradora com muita franqueza expõe os sentimentos ao se optar pelo desejo mesmo que em uma relação de prazer culposo; No poema ["Sede noturna"](textos/sede-noturna.qmd), tensionando figuras elevadas e baixas, na busca do prazer da alma o eu-lírico encontra também o desejo; Em ["Gabriela"](textos/gabriela.qmd) vemos a luxúria como uma espécie de fuga das dores. Por fim, ["Uma reflexão sobre a luxúria"](textos/reflexao-sobre-luxuria.qmd) de maneira provocativa dialoga com o leitor sobre o que é a luxúria afinal.
 
 Judys, artista visual e fotógrafa, assina a ilustra que exprime com cores intensas e traços acentuados nosso gato preguiçoso. Conheça seu trabalho: [@judysdn](https://www.instagram.com/judysdn) e [@ju_dysart](https://www.instagram.com/ju_dysart).
-
----
-
-No Rio Grande do Sul, em meio à destruição causada pelas cheias, preguiça talvez seja o último sentimento que os sulistas, voluntários e agentes do Estado tenham direito de sentir nesse momento. Desejamos conforto às famílias que perderam seus familiares e animais e um plano governamental eficiente de reconstrução para que as pessoas possam restabelecer suas vidas. Esperamos que esse evento supere a solidariedade em curto prazo e construa para médio e longo prazo uma discussão para políticas efetivas perante à crise climática que enfrentamos hoje no mundo inteiro.
-
-[DOE](https://www.paraquemdoar.com.br/)
 
 ## Textos nesta edição
 
@@ -73,12 +67,12 @@ Para os textos serem publicados em nossa revista, seguimos alguns norteadores é
 
 </p>
 
-| Alyson Freitas - Revisão
+| Alyson Freitas - Revisão textual
+| Bruna Silva - Revisão literária
 | Cibele M Brotto - Editoração
 | 
 | Colaboração:
 | Attílio Braghetto
-| Bruna Silva
 | Gabriela Menezes
 | Guilherme Faber
 | Livia Bernardes
