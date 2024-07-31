@@ -1,5 +1,5 @@
 ---
-title: "15<sup>a</sup> Edição - LUXÚRIA"
+title: "15<sup>a</sup> Edição - AVAREZA"
 date: "2024-07-31"
 image: "15ed.png"
 description: |
