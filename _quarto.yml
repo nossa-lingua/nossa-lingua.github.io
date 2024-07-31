@@ -27,6 +27,7 @@ website:
               - href: edicao/03/index.qmd
           - section: Edição 3
             contents:
+                - edicao/03/index.qmd
                 - edicao/03/textos/revolve.qmd
                 - edicao/03/textos/paroxitona-sete-letras.qmd
                 - edicao/03/textos/conselho-de-vo.qmd
@@ -43,6 +44,7 @@ website:
                 - edicao/03/textos/grilo.qmd
           - section: Edição 4
             contents:
+                - edicao/04/index.qmd
                 - edicao/04/textos/brasa.qmd
                 - edicao/04/textos/29-04-2022.qmd
                 - edicao/04/textos/ngiyakuthanda.qmd
@@ -65,6 +67,7 @@ website:
                 - edicao/04/textos/o-sul-da-italia.qmd
           - section: Edição 5
             contents:
+                - edicao/05/index.qmd
                 - edicao/05/textos/devasso.qmd
                 - edicao/05/textos/(;).qmd
                 - edicao/05/textos/nos.qmd
@@ -77,6 +80,7 @@ website:
                 - edicao/05/textos/barbie.qmd
           - section: Edição 6
             contents:
+                - edicao/06/index.qmd
                 - edicao/06/textos/se.qmd
                 - edicao/06/textos/coracao-de-sereia.qmd
                 - edicao/06/textos/tchau-tchau-passarinho.qmd
@@ -93,6 +97,7 @@ website:
                 - edicao/06/textos/identidade.qmd
           - section: Edição 7
             contents:
+              - edicao/07/index.qmd
               - edicao/07/textos/o-que-te-revolta.qmd
               - edicao/07/textos/o-poema.qmd
               - edicao/07/textos/nois-contra-eles.qmd
@@ -104,12 +109,12 @@ website:
               - edicao/07/textos/tunel-do-tempo.qmd
           - section: Edição 8
             contents:
+                - edicao/08/index.qmd
                 - edicao/08/textos/prusten.qmd
                 - edicao/08/textos/sexta-feira-13.qmd
                 - edicao/08/textos/o-gato.qmd
                 - edicao/08/textos/devir.qmd
                 - edicao/08/textos/paredes-de-papel.qmd
-                - edicao/08/textos/pesadelo.qmd
                 - edicao/08/textos/funeral.qmd
                 - edicao/08/textos/maria-augusta.qmd
                 - edicao/08/textos/medo.qmd
@@ -119,6 +124,7 @@ website:
                 - edicao/08/textos/---.qmd
           - section: Edição 9
             contents:
+                - edicao/09/index.qmd
                 - edicao/09/textos/ostras-mangas-pepecas.qmd
                 - edicao/09/textos/astros.qmd
                 - edicao/09/textos/michel-foucault-enigma.qmd
@@ -127,6 +133,7 @@ website:
                 - edicao/09/textos/a-mosca.qmd
           - section: Edição 10
             contents:
+                - edicao/10/index.qmd
                 - edicao/10/textos/borbulhas.qmd
                 - edicao/10/textos/alien-do-passado.qmd
                 - edicao/10/textos/qual-a-chance.qmd
@@ -140,6 +147,7 @@ website:
                 - edicao/10/textos/e-uma-pena.qmd
           - section: Edição 11
             contents:
+                - edicao/11/index.qmd
                 - edicao/11/textos/impureza.qmd
                 - edicao/11/textos/hungry.qmd
                 - edicao/11/textos/tenho-fome-de.qmd
@@ -148,6 +156,7 @@ website:
                 - edicao/11/textos/a-boba.qmd
           - section: Edição 12
             contents: 
+                - edicao/12/index.qmd
                 - edicao/12/textos/chuva.qmd
                 - edicao/12/textos/isso-nao-e-autoficcao.qmd
                 - edicao/12/textos/transformacao-merecida.qmd
@@ -157,6 +166,7 @@ website:
                 - edicao/12/textos/o-grande-ego.qmd
           - section: Edição 13
             contents:
+                - edicao/13/index.qmd
                 - edicao/13/textos/nao-quero-fazer.qmd
                 - edicao/13/textos/se-me-canso-pingo.qmd
                 - edicao/13/textos/sombra-da-preguica.qmd
@@ -164,6 +174,7 @@ website:
                 - edicao/13/textos/a-preguica-entre.qmd
           - section: Edição 14
             contents:
+                - edicao/14/index.qmd
                 - edicao/14/textos/caos-e-cosmos.qmd
                 - edicao/14/textos/efeito-ipanema.qmd
                 - edicao/14/textos/pedaco-de-pecado.qmd
@@ -171,6 +182,12 @@ website:
                 - edicao/14/textos/sede-noturna.qmd
                 - edicao/14/textos/gabriela.qmd
                 - edicao/14/textos/reflexao-sobre-luxuria.qmd
+          - section: Edição 15
+            contents:
+                - edicao/15/index.qmd
+                - edicao/15/textos/com-amor-a-burguesia.qmd
+                - edicao/15/textos/avessa-avareza.qmd
+                - edicao/15/textos/linha-ouro.qmd
               
 
 format:
