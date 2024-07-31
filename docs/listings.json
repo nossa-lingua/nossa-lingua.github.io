@@ -148,6 +148,14 @@
     ]
   },
   {
+    "listing": "/edicao/15/index.html",
+    "items": [
+      "/edicao/15/textos/com-amor-a-burguesia.html",
+      "/edicao/15/textos/avessa-avareza.html",
+      "/edicao/15/textos/linha-ouro.html"
+    ]
+  },
+  {
     "listing": "/edicao/12/index.html",
     "items": [
       "/edicao/12/textos/chuva.html",
@@ -184,6 +192,7 @@
   {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/15/index.html",
       "/edicao/14/index.html",
       "/edicao/13/index.html",
       "/edicao/12/index.html",
@@ -203,6 +212,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/15/index.html",
       "/edicao/14/index.html",
       "/edicao/13/index.html",
       "/edicao/12/index.html",
