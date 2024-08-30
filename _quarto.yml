@@ -188,6 +188,15 @@ website:
                 - edicao/15/textos/com-amor-a-burguesia.qmd
                 - edicao/15/textos/avessa-avareza.qmd
                 - edicao/15/textos/linha-ouro.qmd
+          - section: Edição 16
+            contents:
+                - edicao/16/index.html
+                - edicao/16/textos/endogeno.qmd
+                - edicao/16/textos/campanante.qmd
+                - edicao/16/textos/tia-auxiliadora-responde.qmd
+                - edicao/16/textos/presenca.qmd
+                - edicao/16/textos/indiferenca.qmd
+                - edicao/16/textos/tem-um-lugar-pra-mim.qmd
               
 
 format:
