@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
+<meta name="description" content="Impassíveis sim, covardes também">
 
-<title>Nossa Língua - Mês das Gatificações</title>
+<title>Nossa Língua - 16a Edição - INDIFERENÇA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -43,9 +45,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -65,6 +64,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-edicao'] = new List('listing-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-F1B8E57YRL"></script>
 
 <script type="text/javascript">
@@ -75,15 +103,16 @@ gtag('js', new Date());
 gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Nossa Língua - Mês das Gatificações">
-<meta property="og:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta property="og:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta property="og:title" content="Nossa Língua - 16a Edição - INDIFERENÇA">
+<meta property="og:description" content="Impassíveis sim, covardes também">
+<meta property="og:image" content="https://nossa-lingua.github.io/edicao/16/16ed.jpg">
 <meta property="og:site-name" content="Nossa Língua">
-<meta name="twitter:title" content="Nossa Língua - Mês das Gatificações">
-<meta name="twitter:description" content="Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.">
-<meta name="twitter:image" content="https://nossa-lingua.github.io/projeto/gatificacoes/gatif.jpeg">
+<meta name="twitter:title" content="Nossa Língua - 16a Edição - INDIFERENÇA">
+<meta name="twitter:description" content="Impassíveis sim, covardes também">
+<meta name="twitter:image" content="https://nossa-lingua.github.io/edicao/16/16ed.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -129,10 +158,10 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Mês das Gatificações</h1>
+      <h1 class="title">16<sup>a</sup> Edição - INDIFERENÇA</h1>
                   <div>
         <div class="description">
-          <p>Projeto sobre as habilitações oferecidas pelo curso de Letras da USP.</p>
+          <p>Impassíveis sim, covardes também</p>
         </div>
       </div>
                 </div>
@@ -145,7 +174,7 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
       <div>
       <div class="quarto-title-meta-heading"> </div>
       <div class="quarto-title-meta-contents">
-        <p class="date">agosto 2023</p>
+        <p class="date">agosto 2024</p>
       </div>
     </div>
     
@@ -156,7 +185,17 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta edição</h2>
+   
+  <ul>
+  <li><a href="#impassíveis-sim-covardes-também" id="toc-impassíveis-sim-covardes-também" class="nav-link active" data-scroll-target="#impassíveis-sim-covardes-também">Impassíveis sim, covardes também</a></li>
+  <li><a href="#agosto" id="toc-agosto" class="nav-link" data-scroll-target="#agosto">Agosto</a></li>
+  <li><a href="#textos-nesta-edição" id="toc-textos-nesta-edição" class="nav-link" data-scroll-target="#textos-nesta-edição">Textos nesta edição</a></li>
+  <li><a href="#fala-memo" id="toc-fala-memo" class="nav-link" data-scroll-target="#fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</a></li>
+  <li><a href="#equipe-editorial" id="toc-equipe-editorial" class="nav-link" data-scroll-target="#equipe-editorial">Equipe editorial</a></li>
+  </ul>
+</nav>
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -167,103 +206,180 @@ gtag('config', 'G-F1B8E57YRL', { 'anonymize_ip': true});
 
 
 
-<p><img src="capa.jpeg" class="nolightbox img-fluid" style="width:100.0%"></p>
-<p><strong>Certeza - corpo navegante.</strong></p>
-<p>Em momentos se configura ancorada, em outros corre na busca de um afastamento bruto. Ao se afastar, deixa-nos pleno velejar em mar aberto; sua falta nem sempre é desespero, às vezes nos dá a possibilidade de navegar por mares inteiros. Em contexto beletrista, nos deparamos com um problema:</p>
-<p><strong>Ser ou não ser? Eis a questão.</strong></p>
-<p>O fim do ano se aproxima e a necessidade de escolher uma habilitação fecha toda a área de navegação, nesse momento abrimos margem ao desespero e muitas vezes somos dominados pela insegurança. É válido reforçar que escolher uma direção não é o fim da jornada, e nela, você quem trilha o caminho. Mudar é sempre uma alternativa para encontrarmos a rota certa.</p>
-<p>Porém, como alunos, encontramos uma falta de atividades e informações acerca das Habilitações. Visando auxiliar todos vocês, calouros e veteranos que procuram uma nova direção, a revista criou uma série de conteúdos para guiá-los nesse momento tão empolgante.</p>
-<p>A ideia de fazer algo já existia, mas o que faríamos? Pensando que muitos alunos não conseguem participar presencialmente e que gostaríamos de registrar isso para ser revisitado, recortamos a ideia direcionando-a para gravações. Dezesseis habilitações, um professor para cada, apenas cinco membros… Tudo isso exigiu dedicação diária e noites quase sempre viradas nos últimos 3 meses, a equipe editorial foi à loucura; nós todos administramos o projeto junto a trabalho, graduação, freelas, vida pessoal e frente a diversos imprevistos… quase que o surto veio. No meio de diversos e-mails, edições e registros, a oportunidade de entrevistar e criar um espaço de diálogo com o corpo docente admirado se materializou como uma brisa.</p>
-<p><strong>Conseguimos conter a tempestade em alto mar, e, agora, temos o prazer de apreciar o arco-íris com vocês!</strong></p>
-<p>Durante todo o processo ideias foram se somando, o que eram vídeos se tornou um mês inteiro com várias frentes; tivemos auxílio de amigos queridos na função de entrevistadores - Gabriella Santos, Gabriela Menezes, Gabriel Grotto, Isabela Nigro, Sofia Leria e Sophia Leite - Foi divertidíssimo viver isso com vocês. Tivemos, também, ajuda com ideias e estruturas do nosso amor, Andy Felix. Nas aulas de alfabetigações contamos com um time maravilhoso, composto por Andy Felix, Cass Marks, Beatriz Tomas, Alisson , Matheus Morigoni, e os demais que ainda somarão o projeto.</p>
-<p>Depois de tantas correntezas vem terra firme, certezas: de que o mês vai começar, e de que vocês poderão contar com auxílio para escolher a habilitação que habita em você!</p>
-<div class="quarto-listing">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_0971 (1).jpg" class="lightbox" title="Fotos das gravações." data-gallery="galeria"><img src="galeria/DSC_0971 (1).jpg" class="img-fluid figure-img" style="width:100.0%"></a></p>
-<p></p><figcaption class="figure-caption">Fotos das gravações.</figcaption><p></p>
-</figure>
+<section id="impassíveis-sim-covardes-também" class="level2">
+<h2 class="anchored" data-anchor-id="impassíveis-sim-covardes-também">Impassíveis sim, covardes também</h2>
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+<p>Espontânea ou encenada, a indiferença nos protege da invasão exterior. Por supuesto, uma ferramenta de proteção diante de um mundo inteiro visto pela tela do celular nas suas mais encantadoras formas e perversos horrores.</p>
+<p>A indiferença é útil em blindar o nosso orgulho tão ínfimo perante o infinito do cosmos. O fascínio pelas coisas brilhantes e sedutoras, simétricas e valiosas que instigam o nosso mais íntimo querer a ambicionar uma espécie de completude junto a esse objeto, coisa, pessoa, sentimento, estética, perturba o nosso tênue equilíbrio. Custosa harmonia que dissolve em qualquer estalo de buzina de carro, e-mail perturbador, cobrança de taxa indevida, pessoa incômoda, as filas (do pão, do caixa, do bandejão, do trânsito, da lotérica (mas acho que lá jovem nem vai). Acontecimentos comezinhos que desgastam a boa vontade humana e corroem, pouco a pouco, um intuito simples de modesta paz na rotina. Mas lá vem outra vez, a vontade perniciosa de querer e não ter. A vontade perniciosa de querer e já admitir que não se pode ter. A vontade perniciosa de querer e tornar-se indiferente àquilo desejado e não tê-lo, refreando a nossa (suposta) impotência. Pronto, está resolvido. Entre o querer e a mera probabilidade de não poder ter é melhor ser indiferente de antemão. Assunto encerrado. Porém, embora resolvido e ponto final, o anseio ainda palpita por dentro, roubando o sono e azedando humores, revirando-se no estômago e na garganta provocando um refluxo insuportável, haja omeprazol! Para quem segue esse caminho da encruzilhada, habemos a indiferença fingida. Encontramos o exemplo mais batido no campo amoroso, que pra gente funciona igual placebo: engana só quem faz uso, mesmo.</p>
+<p>A harmonia segue seu curso, meio mutilada, um tanto capenga pela desistência do magnífico, mas decidida a deixar as águas rolarem o seu curso de apatia sob rédeas curtas. Mas a tela capta tudo com sua função escópica onipotente, onipresente &amp; onisciente. O brutal do mundo aparece na sua mais potente crueldade devastando pessoas e suas casinhas, a vida de uma criança, um cotidiano inteiro quebrado pela ação policial que impede o deslocamento normal de um bairro inteiro debaixo de uma bala que estoura o vidro da janela. Nesse mundo coberto de maldade, o inferno está logo ali. Pra alguns esse inferno é mais presente e a indiferença eutanasia a culpa que corrói os que não estão (ainda) naquela pequena esfera de acontecimentos atrozes, mas não nos enganemos, o inferno vem para todos quando apenas uma pequena parcela pode usufruir da tranquilidade do mundo e manter uma harmonia de verdade, uma tranquilidade imperturbável.</p>
+<p>Faz sentido a indiferença ser um pecado em uma sociedade que prefere lenificar as expectativas para não ferir o próprio ego e lidar com a possível derrota da tentativa. No fundo, se trata de mais uma armadilha de escape do mundo e de nós mesmos. Vemos o indizível acontecer, seja ele bom ou ruim, e seguimos impassíveis, indiferentes à vida.</p>
+</section>
+<section id="agosto" class="level2">
+<h2 class="anchored" data-anchor-id="agosto">Agosto</h2>
+<p>Neste mês de agosto, a indiferença era tudo o que não queríamos de vocês. No poema <a href="../../edicao/16/textos/endogeno.html"><em>Endógeno</em></a>, o eu-lírico risca nos versos a indiferença presente em seus sentimentos e o real indiferente a ele mesmo. No texto <a href="../../edicao/16/textos/campanante.html"><em>Campanante</em></a>, o autor nos leva numa jornada fascinante de atmosfera rica e contemplativa, explorando o sentimento de pertencimento. <a href="../../edicao/16/textos/tia-auxiliadora-responde.html"><em>Tia Auxiliadora Responde</em></a> evoca a nostalgia dos programas e colunas de respostas amorosas com uma apresentadora de postura enérgica, cheia de humor e sinceridade. No poema <a href="../../edicao/16/textos/presenca.html"><em>Presenças</em></a>, o diálogo com o tema da indiferença é sutil e eficaz, revelando um contraste entre o sublime e o desconhecido. Como numa conversa corriqueira, <a href="../../edicao/16/textos/indiferenca.html"><em>Indiferença</em></a>, em tom de sabedoria, traz um conselho acerca da oposição amor versus indiferença. <a href="../../edicao/16/textos/tem-um-lugar-pra-mim.html"><em>Tem lugar pra mim</em></a> explora o desconforto e a frustração que se transvestem, no final do dia, em indiferença.</p>
+<!-- Iara Crioula, artista plástica e grafiteira, assina a capa da edição de agosto com nosso gato avarento. Confira seu trabalho em [@iara_criou_la](https://www.instagram.com/iara_criou_la). -->
+</section>
+<section id="textos-nesta-edição" class="level2">
+<h2 class="anchored" data-anchor-id="textos-nesta-edição">Textos nesta edição</h2>
+<div id="listing-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1725058164676" data-listing-reading-time-sort="0.465">
+<div class="body">
+<a href="../../edicao/16/textos/endogeno.html">
+<h3 class="no-anchor listing-title">
+Endógeno
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/16/textos/endogeno.html">
+<div class="listing-author">
+Guilherme Faber
+</div>
+</a>
 </div>
 </div>
-<div style="display: none;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/20230704_112754 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/20230704_112754 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1725058320134" data-listing-reading-time-sort="0.975">
+<div class="body">
+<a href="../../edicao/16/textos/campanante.html">
+<h3 class="no-anchor listing-title">
+Campanante
+</h3>
+<div class="listing-subtitle">
+
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1001.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1001.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/DSC_1037-1 (2).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/DSC_1037-1 (2).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="metadata">
+<a href="../../edicao/16/textos/campanante.html">
+<div class="listing-author">
+Caio Aruanã Batista
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1664 (5).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1664 (5).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1690.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1690.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1694 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1694 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1697.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1697.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1713.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1713.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1717 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1717 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1726 (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1726 (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1764 (3).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1764 (3).jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1775.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1775.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1850-1.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1850-1.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/IMG_1901.jpg" class="lightbox" data-gallery="galeria"><img src="galeria/IMG_1901.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="lightbox" data-gallery="galeria"><img src="galeria/WhatsApp Image 2023-07-07 at 11.40.19 (3) (1).jpg" class="img-fluid figure-img"></a></p>
-</figure>
+</a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1725058417370" data-listing-reading-time-sort="3.615">
+<div class="body">
+<a href="../../edicao/16/textos/tia-auxiliadora-responde.html">
+<h3 class="no-anchor listing-title">
+Tia Auxiliadora Responde
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/16/textos/tia-auxiliadora-responde.html">
+<div class="listing-author">
+Anônimo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1725058491425" data-listing-reading-time-sort="0.59">
+<div class="body">
+<a href="../../edicao/16/textos/presenca.html">
+<h3 class="no-anchor listing-title">
+Presenças
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/16/textos/presenca.html">
+<div class="listing-author">
+Rafael Mendes
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1725058576582" data-listing-reading-time-sort="2.075">
+<div class="body">
+<a href="../../edicao/16/textos/indiferenca.html">
+<h3 class="no-anchor listing-title">
+Indiferença
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/16/textos/indiferenca.html">
+<div class="listing-author">
+Amanda Genevieve
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1725058729596" data-listing-reading-time-sort="3.345">
+<div class="body">
+<a href="../../edicao/16/textos/tem-um-lugar-pra-mim.html">
+<h3 class="no-anchor listing-title">
+Tem lugar para mim?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../edicao/16/textos/tem-um-lugar-pra-mim.html">
+<div class="listing-author">
+Paula S.
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Nenhum item correspondente
+</div>
+</div>
+</section>
+<section id="fala-memo" class="level2">
+<h2 class="anchored" data-anchor-id="fala-memo"><i class="bi bi-mic-fill"></i> Fala memo!</h2>
+<p>Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!</p>
+<p>Então, pensa com carinho! Manda no nosso <a href="https://forms.gle/DLdK8XZ6FbcQp5bD9">forms</a> aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel… Bota pra circular as ideias! Não é tão difícil assim, vai.</p>
+<p>Vem que a gente tá te esperando, beletrista!</p>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Importante
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!</p>
+<p><strong>Proibido</strong> – Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.</p>
+<p><strong>Obrigatório</strong> – Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.</p>
+</div>
+</div>
+</section>
+<section id="equipe-editorial" class="level2">
+<h2 class="anchored" data-anchor-id="equipe-editorial">Equipe editorial</h2>
+<p>
+</p>
+<p>Alyson Freitas - Revisão textual<br>
+Bruna Silva - Revisão literária<br>
+Cibele M Brotto - Editoração<br>
+<br>
+Colaboração:<br>
+Attílio Braghetto<br>
+Guilherme Faber<br>
+Livia Bernardes</p>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -521,7 +637,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   document.getElementById('quarto-content').appendChild(div);
 </script>
 <script defer="" src="https://comento-oijbfqiwuq-rj.a.run.app/comentario.js"></script>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":true,"openEffect":"zoom","closeEffect":"zoom","selector":".lightbox"});</script>
 
 
 
