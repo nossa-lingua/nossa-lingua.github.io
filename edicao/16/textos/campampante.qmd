@@ -1,5 +1,5 @@
 ---
-title: 'Campanante'
+title: 'Campampante'
 author: 
   - name: "Caio Aruanã Batista"
 ---

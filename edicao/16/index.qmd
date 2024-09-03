@@ -10,7 +10,7 @@ listing:
     type: default
     contents:
       - textos/endogeno.qmd
-      - textos/campanante.qmd
+      - textos/campampante.qmd
       - textos/tia-auxiliadora-responde.qmd
       - textos/presenca.qmd
       - textos/indiferenca.qmd
@@ -33,9 +33,10 @@ Faz sentido a indiferença ser um pecado em uma sociedade que prefere lenificar 
 
 ## Agosto
 
-Neste mês de agosto, a indiferença era tudo o que não queríamos de vocês. No poema [*Endógeno*](textos/endogeno.qmd), o eu-lírico risca nos versos a indiferença presente em seus sentimentos e o real indiferente a ele mesmo. No texto [*Campanante*](textos/campanante.qmd), o autor nos leva numa jornada fascinante de atmosfera rica e contemplativa, explorando o sentimento de pertencimento. [*Tia Auxiliadora Responde*](textos/tia-auxiliadora-responde.qmd) evoca a nostalgia dos programas e colunas de respostas amorosas com uma apresentadora de postura enérgica, cheia de humor e sinceridade. No poema [*Presenças*](textos/presenca.qmd), o diálogo com o tema da indiferença é sutil e eficaz, revelando um contraste entre o sublime e o desconhecido. Como numa conversa corriqueira, [*Indiferença*](textos/indiferenca.qmd), em tom de sabedoria, traz um conselho acerca da oposição amor versus indiferença. [*Tem lugar pra mim*](textos/tem-um-lugar-pra-mim.qmd) explora o desconforto e a frustração que se transvestem, no final do dia, em indiferença.
+Neste mês de agosto, a indiferença era tudo o que não queríamos de vocês. No poema [*Endógeno*](textos/endogeno.qmd), o eu-lírico risca nos versos a indiferença presente em seus sentimentos e o real indiferente a ele mesmo. No texto [*Campampante*](textos/campampante.qmd), o autor nos leva numa jornada fascinante de atmosfera rica e contemplativa, explorando o sentimento de pertencimento. [*Tia Auxiliadora Responde*](textos/tia-auxiliadora-responde.qmd) evoca a nostalgia dos programas e colunas de respostas amorosas com uma apresentadora de postura enérgica, cheia de humor e sinceridade. No poema [*Presenças*](textos/presenca.qmd), o diálogo com o tema da indiferença é sutil e eficaz, revelando um contraste entre o sublime e o desconhecido. Como numa conversa corriqueira, [*Indiferença*](textos/indiferenca.qmd), em tom de sabedoria, traz um conselho acerca da oposição amor versus indiferença. [*Tem lugar pra mim*](textos/tem-um-lugar-pra-mim.qmd) explora o desconforto e a frustração que se transvestem, no final do dia, em indiferença.
 
-<!-- Iara Crioula, artista plástica e grafiteira, assina a capa da edição de agosto com nosso gato avarento. Confira seu trabalho em [@iara_criou_la](https://www.instagram.com/iara_criou_la). -->
+Kaio Moreira, ilustrador e diretor de arte, assina a capa da edição de agosto com suas cores e traços únicos, dando vida ao nosso gato indiferente.
+Confira seu trabalho em: [@okaiomoreira](https://www.instagram.com/okaiomoreira)
 
 ## Textos nesta edição
 
