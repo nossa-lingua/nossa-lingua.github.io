@@ -1,0 +1,68 @@
+---
+title: "17<sup>a</sup> Edição - SOBERBA"
+date: "2024-09-26"
+image: "17ed.jpeg"
+description: |
+   Descendentes inconsoláveis de narciso
+
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/incolume-soberba.qmd
+      - textos/meditacao.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Descendentes inconsoláveis de narciso
+
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+
+O pecado do orgulho provocou a queda de Lúcifer e simboliza a primeira traição do mundo cristão.  A soberba é o pecado dos pecados. Manifestando-se por vários significantes, assim como seu portador mais famoso, a vaidade, ao mesmo tempo motor da insolência do anjo, inaugurou a rebeldia, sentimento presente em diversos momentos importantes para as criaturas terrenas, mas que configura um grande tabu em qualquer religião. Ambíguo por natureza, o pecado do orgulho ainda nos intriga devido ao perigo de sua potência: ele pode tanto ser vital, quanto voltar-se contra nós mesmos.
+
+Na origem dos pecados o orgulho foi condenado, mas houve a reabilitação do seu valor no mundo contemporâneo. Pensando no Ocidente, não é difícil imaginar diversos exemplos que incitam esse tipo de atitude buscando enaltecer o indivíduo diante de qualquer adversidade da vida adulta ou até mesmo como prerrogativa para que se mereça coisas boas. De fato, paira um discurso de que somos especiais. Pudera, basta testemunhar as inúmeras combinações de algoritmos comportamentais de compra cada vez mais precisos, endossando propagandas especializadíssimas. A vaidade na nossa cultura e no nosso sistema econômico representa um dos valores-chave para seu funcionamento; é necessário inflar o ego até que se acredite na excepcionalidade da compra. Ops, da nossa vida. E nessa superfície presunçosa que se reflete na selfie - o antigo espelho, agora com reflexo digital - diálogos se perdem entre ilhas vizinhas de línguas dessemelhantes. A troca inexiste pois não somos mais capazes de escutar ninguém pela incompreensão mútua dos códigos, nossos problemas são sempre maiores e entramos numa competição incessante de quem merece mais atenção. Dessa forma, nos afastamos cada vez mais e nos sentimos sozinhos em meio ao eco absoluto de nossa própria vontade, descendentes inconsoláveis de narciso. 
+
+Talvez a ambiguidade da vaidade se mostre justificada, pois a complexidade desse pecado é justamente sua existência na constituição do individual de todo ser. É necessário certo orgulho para constituir preferências e insubordinação para romper paradigmas. O ponto difícil encontra-se entre essa força que nos cunhou seres ímpares versus essa mesma força que tende à dominância da individualidade sobre os demais - no contemporâneo, encarada como dádiva. Nesse jogo paradoxal e contraditório, uma justa medida se torna indispensável; o problema é que todo pecado simboliza a perda do equilíbrio. Nesse sentido, a cada tentativa de conexão, ora pendemos para o nosso próprio lado, ora precisamos ceder e deixar que a humildade tome conta para que possamos nos reaproximar. Sobre essa busca de um certo equilíbrio - ou a eterna falta dele, pois somos meros equilibristas na corda bamba da vida -, um sinal do pecado é claro: a vaidade não suporta a tentativa entusiasmada porque ela não confirma a nossa excelência. 
+
+## Setembro
+
+Neste mês de Setembro, queríamos enaltecer o pecado da vaidade através dos textos de nossa edição. ["Incólume Soberba"](textos/incolume-soberba.qmd), desvela em uma (re) encenação bem arquitetada como esse pecado ainda circula entre nós. A metáfora dos manequins nos permite trocar diversas vezes os tipos das personagens, mas o tema da opressão salta na interpretação dos sentidos; No poema ["Meditação"](textos/meditacao.qmd), o eu-lírico reflete a vinda do amor para a cura da angustiante solidão. De modo autodeclarado "vaidoso", o eu-lírico mais parece humilde ao não se colocar como merecedor de tal graça e até utiliza de neologismos para dar conta de seu pedido aos deuses. 
+
+Kaio Moreira, ilustrador e diretor de arte, assina a ilustra da edição de setembro. Com suas cores e traços marcantes, Kaio deu vida ao nosso gato soberbo com seu olhar superior. Confira seu trabalho em: [@okaiomoreira](https://www.instagram.com/okaiomoreira)
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Alyson Freitas - Revisão textual
+| Bruna Silva - Revisão literária
+| Cibele M Brotto - Editoração
+| 
+| Colaboração:
+| Attílio Braghetto
+| Guilherme Faber
+| Livia Bernardes

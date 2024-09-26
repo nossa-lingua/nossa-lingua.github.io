@@ -197,6 +197,11 @@ website:
                 - edicao/16/textos/presenca.qmd
                 - edicao/16/textos/indiferenca.qmd
                 - edicao/16/textos/tem-um-lugar-pra-mim.qmd
+          - section: Edição 17
+            contents:
+                - edicao/17/index.qmd
+                - edicao/17/textos/incolume-soberba.qmd
+                - edicao/17/textos/meditacao.qmd
               
 
 format:
