@@ -1,7 +1,10 @@
 ---
-title: 'Pedaço de pecado'
-author: 
-  - name: "Morgana"
+title: Pedaço de pecado
+author:
+- name: Morgana
+categories:
+- POEMA
+
 ---
 
 | O doce calor do sol me amortece 

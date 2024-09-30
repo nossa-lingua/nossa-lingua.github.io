@@ -1,0 +1,17 @@
+---
+title: Textos
+listing:
+  - id: textos
+    contents: [edicao/*/*/*.qmd]
+    sort: 
+      - "date desc"
+    type: table
+    categories: true
+sidebar: false
+page-layout: full
+toc: false
+---
+
+:::{#textos}
+:::
+

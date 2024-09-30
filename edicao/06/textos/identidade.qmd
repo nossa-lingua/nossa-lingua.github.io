@@ -1,7 +1,10 @@
 ---
-title: "Identidade"
-author: 
-  - name: Otávio de Sousa
+title: Identidade
+author:
+- name: Otávio de Sousa
+categories:
+- POEMA
+
 ---
 
 | Eu não sou 

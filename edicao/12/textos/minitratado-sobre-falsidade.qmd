@@ -1,7 +1,10 @@
 ---
 title: 'Minitratado sobre falsidade: um ensaio mal elaborado'
-author: 
-  - name: "Anônimo"
+author:
+- name: Anônimo
+categories:
+- ENSAIO
+
 ---
 
 Vi por acaso uma chamada para esta revista. A temática da edição é falsidade e… O que há para se falar a respeito de *falsidade*?

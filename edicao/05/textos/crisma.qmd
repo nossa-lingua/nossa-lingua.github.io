@@ -1,7 +1,10 @@
 ---
-title: "crisma"
-author: 
-  - name: zulia
+title: crisma
+author:
+- name: zulia
+categories:
+- POEMA
+
 ---
 
 | se um toque fosse deus

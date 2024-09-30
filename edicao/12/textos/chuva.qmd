@@ -1,7 +1,10 @@
 ---
-title: 'Chuva'
-author: 
-  - name: "Iohan V. Silva"
+title: Chuva
+author:
+- name: Iohan V. Silva
+categories:
+- LÍRICO
+
 ---
 
 Ainda não entendo o que é familiaridade. Sei a definição, mas nunca experimentei de fato.

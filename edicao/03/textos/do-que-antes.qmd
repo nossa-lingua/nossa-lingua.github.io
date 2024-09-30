@@ -1,7 +1,10 @@
 ---
-title: "do que antes era algo belo"
-author: 
-  - name: Verônica Olmos
+title: do que antes era algo belo
+author:
+- name: Verônica Olmos
+categories:
+- LÍRICO
+
 ---
 
 quando se é jovem e não se sabe de nada há tempo de sobra para aprender a amar. com você aprendi a amar e amar as pequenas coisas da vida. quando éramos jovens e não tínhamos ninguém além de nós mesmos a vida nos aproximou e esse foi o início de tudo.

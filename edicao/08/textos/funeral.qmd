@@ -1,7 +1,10 @@
 ---
-title: "Funeral"
-author: 
-  - name: Alyson Freitas
+title: Funeral
+author:
+- name: Alyson Freitas
+categories:
+- CONTO
+
 ---
 
 Na adolescência, eu gostava de uma menina. Sempre que a gente marcava de sair, alguém da família dela morria. Sempre. A gente marcava, alguém morria do nada. 

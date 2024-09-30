@@ -1,7 +1,10 @@
 ---
-title: "Meu Antínoo"
-author: 
-  - name: Frans Amorim
+title: Meu Antínoo
+author:
+- name: Frans Amorim
+categories:
+- POEMA
+
 ---
 
 | Tristemente revejo-te

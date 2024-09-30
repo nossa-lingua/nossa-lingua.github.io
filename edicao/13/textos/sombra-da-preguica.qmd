@@ -1,7 +1,10 @@
 ---
-title: 'Sombra da preguiça'
-author: 
-  - name: "Caio Aruanã Batista"
+title: Sombra da preguiça
+author:
+- name: Caio Aruanã Batista
+categories:
+- LÍRICO
+
 ---
 
 A inação, chaga da preguiça corrosiva, atormenta a alma sem parar como um relógio incessante a tilintar. Escutam-se gritos, lamentos, risos e nada... Ignora-se a dor como uma brisa fria d'uma manhã cinzenta que, na mera esperança, tende a passar, mas nunca passa.

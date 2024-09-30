@@ -1,7 +1,10 @@
 ---
-title: "seu rosto é uma pintura"
-author: 
-  - name: Samira Clissa
+title: seu rosto é uma pintura
+author:
+- name: Samira Clissa
+categories:
+- LÍRICO
+
 ---
 
 Seu rosto é uma pintura, uma das mais belas obras-primas que eu já vi. Seus olhos são oceanos, e seriam o Pacífico, se não fosse pela intensidade com a qual eles me encaram, como se quisessem me despir por inteira. Seus cabelos são tão escuros como a noite de uma cidade pequena do interior, e sempre tão bagunçados, tornando sua cabeça um mar negro.

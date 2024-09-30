@@ -1,7 +1,10 @@
 ---
-title: 'Uma reflexão sobre a luxúria'
-author: 
-  - name: "Giovanna Sabino"
+title: Uma reflexão sobre a luxúria
+author:
+- name: Giovanna Sabino
+categories:
+- ENSAIO
+
 ---
 
 :::{.center-push}

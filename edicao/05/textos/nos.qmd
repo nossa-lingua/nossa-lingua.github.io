@@ -1,7 +1,10 @@
 ---
-title: "nós"
-author: 
-  - name: Vandoski & B.S.
+title: nós
+author:
+- name: Vandoski & B.S.
+categories:
+- LÍRICO
+
 ---
 
 <p style="text-align: center; text-style: bold;">**I**</p> 

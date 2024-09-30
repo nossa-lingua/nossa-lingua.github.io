@@ -1,8 +1,11 @@
 ---
-title: 'A preguiça entre o pecado e a virtude'
-subtitle: 'Diálogos entre Byung-Chul Han e Elise Loehnen numa perspectiva histórica.'
-author: 
-  - name: "Livia Marciano"
+title: A preguiça entre o pecado e a virtude
+subtitle: Diálogos entre Byung-Chul Han e Elise Loehnen numa perspectiva histórica.
+author:
+- name: Livia Marciano
+categories:
+- ENSAIO
+
 ---
 
 A geração Z nasceu e cresceu em meio ao caos da pós-modernidade, num limiar temporal meio esquisito da contemporaneidade; num maranhado social, econômico, político e cultural  em queas esferas se misturam e diluem-se nessa experiência histórica frenética, com eventos e acontecimentos acelerados, exponencial tecnológica. No contexto em que aprendemos a digerir o mundo em vídeos de até 30 segundos, a preguiça é o pecado mais condenável. Tudo é corrido e hiperestimulante. Como entender essa negação do descanso em uma sociedade cansada, impulsionada pela valorização do indivíduo a partir de sua produtividade? Nesse curto ensaio, proponho um diálogo, talvez inconclusivo, entre dois autores que li recentemente: a jornalista Elise Loehnen e o filósofo Byung-Chul Han.

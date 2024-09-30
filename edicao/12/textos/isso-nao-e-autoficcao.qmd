@@ -1,7 +1,10 @@
 ---
-title: 'Isso não é uma autoficção'
-author: 
-  - name: "Anônimo"
+title: Isso não é uma autoficção
+author:
+- name: Anônimo
+categories:
+- CARTA
+
 ---
 
 Querida,

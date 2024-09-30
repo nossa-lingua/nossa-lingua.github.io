@@ -1,7 +1,10 @@
 ---
-title: "Paroxítona, sete letras, três sílabas"
-author: 
-  - name: Felipe Teixeira Sabino
+title: Paroxítona, sete letras, três sílabas
+author:
+- name: Felipe Teixeira Sabino
+categories:
+- POEMA
+
 ---
 
 | Saudade.

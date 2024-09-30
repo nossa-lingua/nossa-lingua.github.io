@@ -1,7 +1,10 @@
 ---
-title: "Medo"
-author: 
-  - name: Bruna Castro
+title: Medo
+author:
+- name: Bruna Castro
+categories:
+- CONTO
+
 ---
 
 Vivia assim; sem muito ter. O que tinha era pouco e sua cela vivia cheia de outros, que, por outro lado, o tinham por inteiro. 

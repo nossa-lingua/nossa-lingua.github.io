@@ -1,7 +1,10 @@
 ---
-title: "Um dia"
-author: 
-  - name: Rayssa Santos Moreira
+title: Um dia
+author:
+- name: Rayssa Santos Moreira
+categories:
+- CONTO
+
 ---
 
 Qualquer dia eu vou lembrar de ti como um ardor na minha pele queimada pelo fogo. Vou olhar para trás e te ver perdido nos teus rumos que, em algum momento, se perderam de você. Em dias quaisquer, eu vou fechar os olhos e recordar cada sorriso que demos às escuras no quarto. À escura vida que nos encheu de esperança. Num dia comum, como hoje, eu vou sentir sua pele tocar a minha e me alegrar com a sua presença. 

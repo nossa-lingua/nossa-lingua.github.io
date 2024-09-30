@@ -1,7 +1,10 @@
 ---
-title: 'Alien do passado'
-author: 
-  - name: "Iohan V Silva"
+title: Alien do passado
+author:
+- name: Iohan V Silva
+categories:
+- LÍRICO
+
 ---
 
 Nós só buscamos sinais onde esperamos mensagens, não olhamos o que não nos atrai. Absorvemos e adentramos na mais profunda paranoia à menor das possibilidades. Buscamos padrões, referências, indiretas, subtextos, qualquer coisa que passe a mensagem “ainda existe”. Ignoramos qualquer coisa contrária e consideramos como ilusão o que não convém, só queremos existir. Enquanto não esquecer, a gente existe. Enquanto procurar, a gente espera. Enquanto lembrar, a gente persiste. Mas, a cada dia, as memórias ficam para trás e novos futuros se desenham. Quem sabe, um dia, a gente deixe de olhar para o céu e aprecie toda a vida na terra?

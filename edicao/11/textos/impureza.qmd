@@ -1,7 +1,10 @@
 ---
-title: 'Impureza'
-author: 
-  - name: "Livia Bernardes"
+title: Impureza
+author:
+- name: Livia Bernardes
+categories:
+- COLAGEM
+
 ---
 
 ![](images/Colagem_ Impureza - Livia Marciano.jpg)

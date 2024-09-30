@@ -1,7 +1,10 @@
 ---
-title: "a história de quem me traiu"
-author: 
-  - name: Anônimo
+title: a história de quem me traiu
+author:
+- name: Anônimo
+categories:
+- CONTO
+
 ---
 
 Sentada no banco da lanchonete Phillies, ao entardecer, encaro meu reflexo no vidro da janela. Pergunto-me se meus olhos castanhos ou se a minha pele pálida fazem com que eu pareça tola. Fiz-me de tal, mas eu sempre soube de todas as mentiras que ele carregava no paletó, sempre que chegava tarde em casa, com hálito de cerveja. Mas eu fiquei quieta, mesmo quando ele se deitava ao meu lado, com aquele perfume feminino de lavanda que eu desconhecia. Eu fiquei quieta, para não causar nenhum incômodo. Sempre que eu lhe perguntava, percebia os olhares nervosos enquanto ele insinuava minha paranoia.

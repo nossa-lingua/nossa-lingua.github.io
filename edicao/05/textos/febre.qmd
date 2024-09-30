@@ -1,7 +1,10 @@
 ---
-title: "febre"
-author: 
-  - name: Sea Stars
+title: febre
+author:
+- name: Sea Stars
+categories:
+- LÍRICO
+
 ---
 
 | A atmosfera do quarto ferve,

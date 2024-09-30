@@ -1,7 +1,10 @@
 ---
-title: "Crônica de uma paulistana falsa"
-author: 
-  - name: Mari Rodrigues
+title: Crônica de uma paulistana falsa
+author:
+- name: Mari Rodrigues
+categories:
+- CRÔNICA
+
 ---
 
 *[publicado originalmente em 18/02/2013]*

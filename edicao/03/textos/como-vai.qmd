@@ -1,7 +1,10 @@
 ---
 title: Como vai você?
-author: 
-  - name: Sara Bastos
+author:
+- name: Sara Bastos
+categories:
+- POEMA
+
 ---
 
 | Olá, como vai você?

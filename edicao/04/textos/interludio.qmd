@@ -1,7 +1,10 @@
 ---
-title: "[interlúdio.]"
-author: 
-  - name: Allie Santos
+title: '[interlúdio.]'
+author:
+- name: Allie Santos
+categories:
+- LÍRICO
+
 ---
 
 Foi no embalo das águas de março.

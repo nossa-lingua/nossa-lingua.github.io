@@ -1,7 +1,10 @@
 ---
-title: 'não quero fazer'
-author: 
-  - name: "Milena Figueiredo (miu)"
+title: não quero fazer
+author:
+- name: Milena Figueiredo (miu)
+categories:
+- HISTORIA EM QUADRINHOS
+
 ---
 
 ![](nao-quero-fazer.png)

@@ -1,7 +1,10 @@
 ---
-title: 'Se me canso, pingo'
-author: 
-  - name: "Guilherme Faber"
+title: Se me canso, pingo
+author:
+- name: Guilherme Faber
+categories:
+- POEMA
+
 ---
 
 | Se me canso, pingo

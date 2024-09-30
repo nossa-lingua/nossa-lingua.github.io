@@ -1,7 +1,10 @@
 ---
-title: 'Companion of disquiet'
-author: 
-  - name: "Clara Maas"
+title: Companion of disquiet
+author:
+- name: Clara Maas
+categories:
+- LÍRICO
+
 ---
 
 | There’s a parasite eating away at my skin. I haven’t given it a name yet. 

@@ -1,7 +1,10 @@
 ---
-title: "O hereditário"
-author: 
-  - name: Rodrigo Adriano Machado
+title: O hereditário
+author:
+- name: Rodrigo Adriano Machado
+categories:
+- CONTO
+
 ---
 
 Desconfio que você também concordaria com Martinha se percorresse à sua mente o seguinte pensamento: nada pior do que a impressão de estar penetrando em uma ilusão. Decorreu disso os repetitivos movimentos de sua perna direita, a maneira como apertou as mãos, assim que olhou pela janela do ônibus.

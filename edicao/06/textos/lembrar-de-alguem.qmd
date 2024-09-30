@@ -1,7 +1,10 @@
 ---
-title: "Lembrar de alguém"
-author: 
-  - name: Guilherme Antonio
+title: Lembrar de alguém
+author:
+- name: Guilherme Antonio
+categories:
+- POEMA
+
 ---
 
 ::: {#text-center}

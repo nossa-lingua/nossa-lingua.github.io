@@ -1,7 +1,10 @@
 ---
-title: "Rest in Power O’Shea Sibley"
-author: 
-  - name: Lilian Barros
+title: Rest in Power O’Shea Sibley
+author:
+- name: Lilian Barros
+categories:
+- POEMA
+
 ---
 
 | Tanque na reserva,

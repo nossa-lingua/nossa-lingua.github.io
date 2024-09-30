@@ -1,7 +1,10 @@
 ---
-title: 'Sede Noturna'
-author: 
-  - name: "Rafael Mendes de Barros"
+title: Sede Noturna
+author:
+- name: Rafael Mendes de Barros
+categories:
+- POEMA
+
 ---
 
 | Ó repleto amor que já me afigura,

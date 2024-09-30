@@ -1,7 +1,10 @@
 ---
-title: "Ângulo"
-author: 
-  - name: Tereza Lacerda
+title: Ângulo
+author:
+- name: Tereza Lacerda
+categories:
+- DIARIO
+
 ---
 
 ## sábado, 11 de dezembro de 2022

@@ -1,7 +1,10 @@
 ---
-title: "O amor"
-author: 
-  - name: Sea Stars
+title: O amor
+author:
+- name: Sea Stars
+categories:
+- CONTO
+
 ---
 
 O amor poderia ser descrito como algo sorrateiro, que pode aparecer a qualquer

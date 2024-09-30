@@ -1,7 +1,10 @@
 ---
-title: "O rapto da razão"
-author: 
-  - name: Frans Amorim
+title: O rapto da razão
+author:
+- name: Frans Amorim
+categories:
+- POEMA
+
 ---
 
 | Tempestuoso como os dilúvios de março

@@ -1,7 +1,10 @@
 ---
-title: "&nbsp;"
-author: 
-  - name: Ela Morassi
+title: '&nbsp;'
+author:
+- name: Ela Morassi
+categories:
+- POEMA
+
 ---
 
 | Queria mesmo era saber

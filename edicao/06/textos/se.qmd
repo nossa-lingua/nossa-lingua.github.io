@@ -1,7 +1,10 @@
 ---
-title: "Se"
-author: 
-  - name: Anônima
+title: Se
+author:
+- name: Anônima
+categories:
+- POEMA
+
 ---
 
 | Se 

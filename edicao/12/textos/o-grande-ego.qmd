@@ -1,7 +1,10 @@
 ---
-title: 'O Grande Ego'
-author: 
-  - name: "Diego Rodrigues"
+title: O Grande Ego
+author:
+- name: Diego Rodrigues
+categories:
+- CONTO
+
 ---
 
 Sábado, 7h.

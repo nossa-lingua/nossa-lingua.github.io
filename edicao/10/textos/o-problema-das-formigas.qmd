@@ -1,7 +1,10 @@
 ---
-title: 'O problema das formigas'
-author: 
-  - name: "Brunno R. Sousa"
+title: O problema das formigas
+author:
+- name: Brunno R. Sousa
+categories:
+- CONTO
+
 ---
 
 Sabe, ultimamente eu tenho tido um problema com formigas, eu tenho uma mesa relativamente grande, eu diria que até grande demais, e essas malditas criaturinhas conseguem aparecer e se enfiar em cada micro espaço existente dela, e isso tem me tirado do sério. Eu acredito ser uma pessoa paciente, no sentido de que, caso acontecesse só uma ou duas vezes, com uma ou duas formigas, eu estaria bem, porém não estou! Todos os dias, pelo menos algumas vezes, vejo elas fazendo um pequeno rebuliço em algum dos cantos daqui e fico sem saber o que fazer, vou matá-las? Não! Não causaram diretamente mal algum, mas também não posso deixá-las aqui me atrapalhando. Não consigo removê-las da mesa com delicadeza o suficiente que não as machuque, mas não suporto que simplesmente fiquem aqui. Acredito que seja culpa minha. 

@@ -1,7 +1,10 @@
 ---
-title: "O canto da sereia"
-author: 
-  - name: Artemísia Sales
+title: O canto da sereia
+author:
+- name: Artemísia Sales
+categories:
+- POEMA
+
 ---
 
 | No oceano profundo dos seus olhos, 

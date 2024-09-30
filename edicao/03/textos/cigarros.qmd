@@ -1,7 +1,10 @@
 ---
-title: "Cigarros"
-author: 
-  - name: Sea Stars
+title: Cigarros
+author:
+- name: Sea Stars
+categories:
+- CONTO
+
 ---
 
 **Eu fumava de três a cinco cigarros por dia.**

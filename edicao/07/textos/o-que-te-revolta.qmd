@@ -1,7 +1,10 @@
 ---
-title: "O QUE TE REVOLTA?"
-author: 
-  - name: Gabriella Menezes
+title: O QUE TE REVOLTA?
+author:
+- name: Gabriella Menezes
+categories:
+- LÍRICO
+
 ---
 
 | descaso

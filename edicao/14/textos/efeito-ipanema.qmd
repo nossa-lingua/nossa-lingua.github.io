@@ -1,7 +1,10 @@
 ---
-title: 'Efeito Ipanema, Amor'
-author: 
-  - name: "Monalisa de Bandana"
+title: Efeito Ipanema, Amor
+author:
+- name: Monalisa de Bandana
+categories:
+- POEMA
+
 ---
 
 | Seus olhos de jabuticaba 

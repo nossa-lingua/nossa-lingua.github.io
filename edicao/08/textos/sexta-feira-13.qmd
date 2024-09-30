@@ -1,7 +1,10 @@
 ---
-title: "Sexta-Feira 13"
-author: 
-  - name: Larissa Shiromoto
+title: Sexta-Feira 13
+author:
+- name: Larissa Shiromoto
+categories:
+- CONTO
+
 ---
 
 Sexta feira 13.

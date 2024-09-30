@@ -1,7 +1,10 @@
 ---
-title: 'Com amor, a burguesia!'
-author: 
-  - name: "Giovanna Sabino"
+title: Com amor, a burguesia!
+author:
+- name: Giovanna Sabino
+categories:
+- CARTA
+
 ---
 
 Você leu nas notícias, caro leitor ? Leu o que elas contaram no jornal de ontem?

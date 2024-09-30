@@ -1,7 +1,10 @@
 ---
-title: "Amar, verbo proibido: um pequeno comentário sobre Frederico Paciência"
-author: 
-  - name: Valentina Nicolino Pereira
+title: 'Amar, verbo proibido: um pequeno comentário sobre Frederico Paciência'
+author:
+- name: Valentina Nicolino Pereira
+categories:
+- RESENHA
+
 ---
 
 O amor, enquanto objetivo coletivo de uma sociedade, é fonte de debates, reflexões e entretenimento aos que se importam minimamente com ele. Nesse sentido, muitas obras se inspiram nos dilemas do sentimento em diversos aspectos — um objeto quase místico para a literatura é o amor proibido.

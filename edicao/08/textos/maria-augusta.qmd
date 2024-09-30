@@ -1,7 +1,10 @@
 ---
-title: "Maria Augusta"
-author: 
-  - name: Alyson Freitas
+title: Maria Augusta
+author:
+- name: Alyson Freitas
+categories:
+- CONTO
+
 ---
 
 Minha família e meus amigos mais próximos sabem que, com frequência, tenho sonhado com uma garotinha. Ela está sempre usando um vestidinho florido e às vezes um chapéu; tem cabelo curto e liso, pele bem clarinha e olhos castanhos.

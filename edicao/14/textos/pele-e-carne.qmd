@@ -1,7 +1,10 @@
 ---
-title: 'Pele e carne'
-author: 
-  - name: "Yasmin Ferraz"
+title: Pele e carne
+author:
+- name: Yasmin Ferraz
+categories:
+- LÍRICO
+
 ---
 
 | quando você tocou o meu corpo de um jeito diferente, com desejo me senti cheia de mim, transbordando em todos os sentidos

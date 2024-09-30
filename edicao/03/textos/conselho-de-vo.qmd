@@ -1,7 +1,10 @@
 ---
-title: "Conselho de vó"
-author: 
-  - name: Bruna Vitoria Raimunda Pinheiro
+title: Conselho de vó
+author:
+- name: Bruna Vitoria Raimunda Pinheiro
+categories:
+- POEMA
+
 ---
 
 | Tá doendo demais e o jeito que eu encontro de botar pra fora é esse

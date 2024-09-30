@@ -1,7 +1,10 @@
 ---
-title: "Nós por Nóiz"
-author: 
-  - name: Lilian Barros
+title: Nós por Nóiz
+author:
+- name: Lilian Barros
+categories:
+- POEMA
+
 ---
 
 | Nós.

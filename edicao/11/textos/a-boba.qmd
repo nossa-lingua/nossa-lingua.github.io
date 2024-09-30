@@ -1,7 +1,10 @@
 ---
-title: 'a Boba'
-author: 
-  - name: "Monalisa de Bandana"
+title: a Boba
+author:
+- name: Monalisa de Bandana
+categories:
+- LÍRICO
+
 ---
 
 

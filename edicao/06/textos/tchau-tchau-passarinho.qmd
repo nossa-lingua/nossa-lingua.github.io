@@ -1,7 +1,10 @@
 ---
-title: "Tchau tchau passarinho"
-author: 
-  - name: Larissa Sue Shiromoto
+title: Tchau tchau passarinho
+author:
+- name: Larissa Sue Shiromoto
+categories:
+- POEMA
+
 ---
 
 | Não chora meu passarinho

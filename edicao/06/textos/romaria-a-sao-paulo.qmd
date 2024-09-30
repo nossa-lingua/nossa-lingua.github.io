@@ -1,7 +1,10 @@
 ---
-title: "Romaria a São Paulo"
-author: 
-  - name: Isaac Retiro Libera Martins
+title: Romaria a São Paulo
+author:
+- name: Isaac Retiro Libera Martins
+categories:
+- POEMA
+
 ---
 
 | Era um sonho, era só 
