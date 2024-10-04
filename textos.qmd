@@ -7,6 +7,7 @@ listing:
       - "date desc"
     type: table
     categories: true
+    template: textos.ejs
 sidebar: false
 page-layout: full
 toc: false
