@@ -1,7 +1,10 @@
 ---
-title: "dia 12/6 - tia bia"
-author: 
-  - name: Gabriella Menezes Soares
+title: dia 12/6 - tia bia
+author:
+- name: Gabriella Menezes Soares
+categories:
+- LÍRICO
+
 ---
 
 | Eu amo o crepúsculo da USP.

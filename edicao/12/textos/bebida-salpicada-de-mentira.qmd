@@ -1,7 +1,10 @@
 ---
-title: 'bebida salpicada de mentira'
-author: 
-  - name: "M."
+title: bebida salpicada de mentira
+author:
+- name: M.
+categories:
+- POEMA
+
 ---
 
 | Abaixo os puristas!

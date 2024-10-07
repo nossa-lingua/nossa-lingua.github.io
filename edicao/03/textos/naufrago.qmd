@@ -1,7 +1,10 @@
 ---
-title: "Náufrago"
-author: 
-  - name: Lux
+title: Náufrago
+author:
+- name: Lux
+categories:
+- POEMA
+
 ---
 
 | Quando me deixastes

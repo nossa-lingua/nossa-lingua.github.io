@@ -1,7 +1,10 @@
 ---
-title: "HORA EXTRA"
-author: 
-  - name: Dentinho
+title: HORA EXTRA
+author:
+- name: Dentinho
+categories:
+- CONTO
+
 ---
 
 | — A gente tem que dar um jeito nessa brincadeira! — Disse um trabalhador. 

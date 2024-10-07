@@ -1,7 +1,10 @@
 ---
-title: "O mergulho"
-author: 
-  - name: Pedro Santos
+title: O mergulho
+author:
+- name: Pedro Santos
+categories:
+- CONTO
+
 ---
 
 Depois de muito matutar, Clara amontoou toda coragem que tinha e, finalmente, pulou na piscina. As pernas brancas se desfiguraram debaixo da água gelada, trêmulas, tortas em relação ao próprio corpo. O sol se refletia sobre a superfície, fragmentário, mil soizinhos que Clara quebrava com os dedos que deslizava, criando redemoinhos. 

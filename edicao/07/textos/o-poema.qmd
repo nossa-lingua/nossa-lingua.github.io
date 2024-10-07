@@ -1,7 +1,10 @@
 ---
-title: "o poema"
-author: 
-  - name: Rafael Bonavina
+title: o poema
+author:
+- name: Rafael Bonavina
+categories:
+- POEMA
+
 ---
 
 | queria escrever um poema

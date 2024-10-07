@@ -1,7 +1,10 @@
 ---
-title: "<i>Prusten</i>"
-author: 
-  - name: Cibele M Brotto
+title: <i>Prusten</i>
+author:
+- name: Cibele M Brotto
+categories:
+- CONTO
+
 ---
 
 <p style="text-align: right; font-size: 16px">

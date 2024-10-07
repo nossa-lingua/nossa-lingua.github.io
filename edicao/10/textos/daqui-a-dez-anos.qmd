@@ -1,7 +1,10 @@
 ---
-title: 'Daqui a dez anos'
-author: 
-  - name: "Diego Rodrigues"
+title: Daqui a dez anos
+author:
+- name: Diego Rodrigues
+categories:
+- LÍRICO
+
 ---
 
 Queria ter uma casa na montanha. Dessas de madeira e janelas grandes de vidro. Cercada de árvores e soprada pelos ventos, dia e noite. Simples, apenas com o necessário dentro.

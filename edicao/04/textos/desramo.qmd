@@ -1,7 +1,10 @@
 ---
-title: "desramo"
-author: 
-  - name: Bruna Silva
+title: desramo
+author:
+- name: Bruna Silva
+categories:
+- CONTO
+
 ---
 
 | De friezas e extravio de certezas meu caminho se traçou: cadeado nos desejos, âncora de conformismo no contento. 

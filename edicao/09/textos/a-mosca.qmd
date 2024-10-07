@@ -1,7 +1,10 @@
 ---
-title: 'A mosca'
-author: 
-  - name: "Arhon"
+title: A mosca
+author:
+- name: Arhon
+categories:
+- CONTO
+
 ---
 
 Eu sou. Quando se acorda, certo dia, bifásica, quase que inteiramente pertencente ao outro mundo — na dubiedade do véu que se fia perante o medo: do não se pertence, não se faz. Do que se queima, não obstante, fraco, no amanhecer da eternidade.

@@ -1,7 +1,10 @@
 ---
-title: '<b>h u n  g  r   y  .</b>'
-author: 
-  - name: "Lucas Boldo"
+title: <b>h u n  g  r   y  .</b>
+author:
+- name: Lucas Boldo
+categories:
+- LÍRICO
+
 ---
 
 :::{.right}

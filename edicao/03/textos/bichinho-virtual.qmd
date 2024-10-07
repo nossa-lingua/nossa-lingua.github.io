@@ -1,7 +1,10 @@
 ---
 title: Túnel do tempo
-author: 
-  - name: Cibele M Brotto
+author:
+- name: Cibele M Brotto
+categories:
+- ARTIGO DE OPINIAO
+
 ---
 
 ## Bichinho virtual

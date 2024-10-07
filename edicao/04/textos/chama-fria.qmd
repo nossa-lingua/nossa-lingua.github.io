@@ -1,7 +1,10 @@
 ---
-title: "Chama Fria"
-author: 
-  - name: Anônimo
+title: Chama Fria
+author:
+- name: Anônimo
+categories:
+- POEMA
+
 ---
 
 ![](chama-fria.jpeg)

@@ -1,7 +1,10 @@
 ---
-title: "Baile"
-author: 
-  - name: Laura Barros Faganello
+title: Baile
+author:
+- name: Laura Barros Faganello
+categories:
+- POEMA
+
 ---
 
 | Eu olho nos teus olhos

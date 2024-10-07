@@ -1,7 +1,10 @@
 ---
-title: 'É uma pena'
-author: 
-  - name: "Giovanna Sabino"
+title: É uma pena
+author:
+- name: Giovanna Sabino
+categories:
+- LÍRICO
+
 ---
 
 “É uma pena... É verdadeiramente uma pena...”

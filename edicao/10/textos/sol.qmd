@@ -1,7 +1,10 @@
 ---
-title: 'Sol'
-author: 
-  - name: "Xico"
+title: Sol
+author:
+- name: Xico
+categories:
+- POEMA
+
 ---
 
 | O que será que eu fiz de errado?

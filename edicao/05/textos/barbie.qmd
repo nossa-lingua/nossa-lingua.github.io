@@ -1,7 +1,10 @@
 ---
-title: 'Coluna Ângulo'
-author: 
-  - name: Cibele M Brotto
+title: Coluna Ângulo
+author:
+- name: Cibele M Brotto
+categories:
+- RESENHA
+
 ---
 
 ## Resenha do filme *"Barbie"*

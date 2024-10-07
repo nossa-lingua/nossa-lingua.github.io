@@ -1,7 +1,10 @@
 ---
-title: "Astros"
-author: 
-  - name: "Rodrigo Adriano Machado"
+title: Astros
+author:
+- name: Rodrigo Adriano Machado
+categories:
+- CONTO
+
 ---
 
 | Não sei se é pior não saber nada sobre Martinha ou estar apaixonada por outra mulher: Sônia. Fico pensando nas duas. Não deveríamos nos preocupar com ex, mas a carne é fraca quando envolve outras carnes boas. Falando nisso, estou com fome.

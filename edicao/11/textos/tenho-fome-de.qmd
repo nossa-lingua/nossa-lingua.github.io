@@ -1,7 +1,10 @@
 ---
-title: 'Tenho fome de…'
-author: 
-  - name: "Amanda Genevieve"
+title: Tenho fome de…
+author:
+- name: Amanda Genevieve
+categories:
+- LÍRICO
+
 ---
 
 Acho que a fome é um buraco que fica por um tempo no nosso interior, mostrando que estamos incompletos, que algo nos falta. 

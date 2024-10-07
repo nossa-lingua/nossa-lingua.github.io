@@ -1,7 +1,10 @@
 ---
-title: "Amor"
-author: 
-  - name: Xico
+title: Amor
+author:
+- name: Xico
+categories:
+- LÍRICO
+
 ---
 
 Quando o amor bate na porta, a cabeça gira em emoções, o suor frio da ternura incendeia o corpo em uma faísca de felicidade. Quando o amor quer a sua vez, não se medem os esforços, não se conta mais o tempo como antes, os segundos são eternos na saudade, e os anos voam nos minutos que se sente a presença. Quando se ama, se pensa em todos os outros amores, e em todas as outras histórias, e por fim conclui-se: um novo tempo está nascendo. Quando se ama, as flores têm mais cores, o corpo desafoga do cotidiano, as idas e vindas são anestesiadas pela química que se forma, e quando o horizonte se torna rosa e laranja com o início da noite, se pensa em todos os momentos que estão por vir com a pessoa amada. O frio noturno é menos intenso, e a chama do dia vem queimando no Leste.

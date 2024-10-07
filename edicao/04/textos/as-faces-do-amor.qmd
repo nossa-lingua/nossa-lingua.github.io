@@ -1,7 +1,10 @@
 ---
-title: "As faces do amor"
-author: 
-  - name: Ioná Vasconcellos
+title: As faces do amor
+author:
+- name: Ioná Vasconcellos
+categories:
+- ARTIGO DE OPINIAO
+
 ---
 
 As faces do amor

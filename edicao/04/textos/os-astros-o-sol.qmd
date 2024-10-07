@@ -1,7 +1,10 @@
 ---
-title: "Os astros, O sol"
-author: 
-  - name: Danielly Paulino
+title: Os astros, O sol
+author:
+- name: Danielly Paulino
+categories:
+- LÍRICO
+
 ---
 
 

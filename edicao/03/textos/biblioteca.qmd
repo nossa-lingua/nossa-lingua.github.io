@@ -1,7 +1,10 @@
 ---
-title: "A biblioteca"
-author: 
-  - name: Dereck Alexandre Ferreira Dourado
+title: A biblioteca
+author:
+- name: Dereck Alexandre Ferreira Dourado
+categories:
+- CONTO
+
 ---
 
 O fim da tarde chegou, e a chuva caía lá fora.

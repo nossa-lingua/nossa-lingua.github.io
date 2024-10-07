@@ -1,7 +1,10 @@
 ---
-title: "Arranca ossos"
-author: 
-  - name: Tiago Torres
+title: Arranca ossos
+author:
+- name: Tiago Torres
+categories:
+- POEMA
+
 ---
 
 | Do teor alcoólico da boca faminta 

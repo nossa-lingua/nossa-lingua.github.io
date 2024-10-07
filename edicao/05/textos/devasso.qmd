@@ -1,7 +1,10 @@
 ---
-title: "Devasso"
-author: 
-  - name: Otavio de Sousa
+title: Devasso
+author:
+- name: Otavio de Sousa
+categories:
+- POEMA
+
 ---
 
 | Tenho imaginado

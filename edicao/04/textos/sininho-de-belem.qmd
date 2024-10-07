@@ -1,7 +1,10 @@
 ---
-title: "Sininho de Belém"
-author: 
-  - name: Figo Maduro
+title: Sininho de Belém
+author:
+- name: Figo Maduro
+categories:
+- POEMA
+
 ---
 
 <p style="text-align: center; text-style: bold;">**i**</p>

@@ -1,7 +1,10 @@
 ---
 title: '09.06'
-author: 
-  - name: "Gabriella Menezes Soares"
+author:
+- name: Gabriella Menezes Soares
+categories:
+- LÍRICO
+
 ---
 
 Quase 4 da manhã – casa do ****** e da *****

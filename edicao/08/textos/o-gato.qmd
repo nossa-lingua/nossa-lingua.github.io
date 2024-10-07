@@ -1,7 +1,10 @@
 ---
-title: "o gato"
-author: 
-  - name: Larissa Shiromoto
+title: o gato
+author:
+- name: Larissa Shiromoto
+categories:
+- CONTO
+
 ---
 
 A tempestade seguia interminável. O clarão dos relâmpagos fazia arder os olhos do gato, que deitava todo enrolado numa almofada perto do sofá manchado. Quanto tempo havia se passado desde o primeiro rugido de trovão? O gato não sabia. Matava as horas ali,

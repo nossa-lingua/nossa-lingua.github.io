@@ -1,7 +1,10 @@
 ---
-title: "Relações alcoólicas"
-author: 
-  - name: Mariana Yumi Sadoyama
+title: Relações alcoólicas
+author:
+- name: Mariana Yumi Sadoyama
+categories:
+- CONTO
+
 ---
 
 Semana passada, visitei um antigo amigo, Arthur, advogado formado com carreira já traçada. Bom homem, ele. E como todo homem digno que se preze, apresentou-me sua adega de vinhos mais caros e difíceis de comprar.

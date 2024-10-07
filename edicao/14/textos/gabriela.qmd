@@ -1,7 +1,10 @@
 ---
-title: 'GABRIELA'
-author: 
-  - name: "Amanda Genevieve"
+title: GABRIELA
+author:
+- name: Amanda Genevieve
+categories:
+- CONTO
+
 ---
 
 Desde que o pai da minha amiga foi morar com outra família, Gabriela nunca mais foi a mesma. Não é que a tristeza tenha invadido todo o seu corpo, porque, desde o ocorrido, ela tem ficado cada vez mais bonita, mais deslumbrante;  observá-la passando em qualquer lugar é quase um espetáculo, uma performance, não dá vontade de tirar o olho dela nem por um minuto sequer.

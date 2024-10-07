@@ -1,7 +1,10 @@
 ---
-title: "Sua cidade"
-author: 
-  - name: Yasmin Ferraz Ribeiro
+title: Sua cidade
+author:
+- name: Yasmin Ferraz Ribeiro
+categories:
+- POEMA
+
 ---
 
 | lembro quando passeei por você

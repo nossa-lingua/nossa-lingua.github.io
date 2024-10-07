@@ -1,7 +1,10 @@
 ---
-title: 'Restaurante'
-author: 
-  - name: "Otávio de Sousa "
+title: Restaurante
+author:
+- name: 'Otávio de Sousa '
+categories:
+- POEMA
+
 ---
 
 | Em um bom restaurante 

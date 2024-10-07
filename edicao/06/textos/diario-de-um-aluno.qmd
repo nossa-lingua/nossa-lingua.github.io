@@ -1,7 +1,10 @@
 ---
-title: "Diário de um aluno USP"
-author: 
-  - name: Vinicius Torres Mendes
+title: Diário de um aluno USP
+author:
+- name: Vinicius Torres Mendes
+categories:
+- DIARIO
+
 ---
 
 Adentramos o campus da USP, um lugar que se ergue majestoso em meio às árvores e ao

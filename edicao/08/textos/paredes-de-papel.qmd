@@ -1,7 +1,10 @@
 ---
-title: "Paredes de papel"
-author: 
-  - name: Clara Maas
+title: Paredes de papel
+author:
+- name: Clara Maas
+categories:
+- CONTO
+
 ---
 
 Eu sempre achei esquisitas as paredes lá de casa. Elas pareciam tortas na diagonal, como se qualquer estrutura que tivesse tentado se manter ali não fosse suficiente, então elas tinham que pender pra um lado só.

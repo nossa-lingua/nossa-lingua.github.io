@@ -1,7 +1,10 @@
 ---
-title: "Mediação"
-author: 
-  - name: Verônica Olmos
+title: Mediação
+author:
+- name: Verônica Olmos
+categories:
+- POEMA
+
 ---
 
 | Abram os olhos, atentem-se aos detalhes, a

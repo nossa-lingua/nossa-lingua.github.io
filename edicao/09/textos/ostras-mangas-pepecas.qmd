@@ -1,7 +1,10 @@
 ---
-title: "Ostras, mangas e pepecas"
-author: 
-  - name: "Cibele M Brotto"
+title: Ostras, mangas e pepecas
+author:
+- name: Cibele M Brotto
+categories:
+- ARTIGO DE OPINIAO
+
 ---
 
 Nem todo mundo gosta de comer ostra. Mesmo que se coloque limão e sal, para alguns, é um alimento nojento. Eu, por outro lado, adoro comer ostras. Sua consistência é pegajosa, muito molinha e delicada. Para comer sua carne úmida e macia, é preciso encaixar a boca com delicadeza na valva e sugar o seu interior. Ela escorrega pela língua e garganta. Dá para mordiscar a sua carne, mas sem dilacerar a sua pele. Se lutarmos contra o corpo escorregadio, a experiência é empobrecida. No entanto, é comum os brasileiros torcerem o nariz para os frutos do mar. Chamam de iguaria, pensam que é uma comida excêntrica, têm nojo. E, assim, estabelecem uma distância pela via do estranho. Talvez o problema seja a falta de costume de se comer ostras. Aos que apresentei a subestimada, a experiência não foi ruim como imaginavam. 

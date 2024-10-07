@@ -1,7 +1,10 @@
 ---
-title: "&nbsp;"
-author: 
-  - name: Amanda Genevieve
+title: '&nbsp;'
+author:
+- name: Amanda Genevieve
+categories:
+- LÍRICO
+
 ---
 
 | Morro de medo de sentir medo

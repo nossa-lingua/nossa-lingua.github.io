@@ -1,7 +1,10 @@
 ---
-title: 'sangue falso'
-author: 
-  - name: "zulia"
+title: sangue falso
+author:
+- name: zulia
+categories:
+- POEMA
+
 ---
 
 | a melancolia

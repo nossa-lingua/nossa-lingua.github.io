@@ -1,7 +1,10 @@
 ---
-title: 'Transformação Merecida'
-author: 
-  - name: "Gustavo Henne"
+title: Transformação Merecida
+author:
+- name: Gustavo Henne
+categories:
+- CONTO
+
 ---
 
 Quando Gregório Souza acordou, certa manhã, de um sonho inquieto, ele se descobriu transformado em algo que para ele sempre foi inadmissível: um despossuído. Despossuído era a classe mais inferior. Inferior não somente em relação aos grandes, mas aos pequenos, aos pequeniníssimos. Alguns os chamavam de invisíveis, outros não os chamavam, pois não existiam na prática. Afinal, se não possuíam nada, nada eram.

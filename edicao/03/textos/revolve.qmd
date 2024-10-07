@@ -1,7 +1,10 @@
 ---
-title: "*revolve*"
-author: 
-  - name: Cibele M Brotto
+title: '*revolve*'
+author:
+- name: Cibele M Brotto
+categories:
+- POEMA
+
 ---
 
 | Tem um nó na garganta segurando

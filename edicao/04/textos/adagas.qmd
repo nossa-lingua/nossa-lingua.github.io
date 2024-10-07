@@ -1,7 +1,10 @@
 ---
-title: "Adagas"
-author: 
-  - name: Andre Felix de Oliveira
+title: Adagas
+author:
+- name: Andre Felix de Oliveira
+categories:
+- POEMA
+
 ---
 
 | Uma beleza impura.

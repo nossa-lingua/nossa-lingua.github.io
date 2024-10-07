@@ -1,7 +1,10 @@
 ---
-title: "ainda sobre você."
-author: 
-  - name: Allie Santos
+title: ainda sobre você.
+author:
+- name: Allie Santos
+categories:
+- LÍRICO
+
 ---
 
 Como um romper de minhas barreiras, soltando as águas de meus canteiros alagados e constituindo as várzeas de minhas emoções rasteiras, um intenso derramar de meus pesares sobre teus gestos lépidos.

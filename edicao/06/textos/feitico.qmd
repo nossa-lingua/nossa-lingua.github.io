@@ -1,7 +1,10 @@
 ---
-title: "Feitiço"
-author: 
-  - name: Guilherme Antonio
+title: Feitiço
+author:
+- name: Guilherme Antonio
+categories:
+- POEMA
+
 ---
 
 | quem dera pudesse

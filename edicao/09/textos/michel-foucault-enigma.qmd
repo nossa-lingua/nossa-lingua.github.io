@@ -1,7 +1,10 @@
 ---
-title: "Michel Foucault e o enigma nietzscheano"
-author: 
-  - name: "Rodrigo Adriano Machado"
+title: Michel Foucault e o enigma nietzscheano
+author:
+- name: Rodrigo Adriano Machado
+categories:
+- ENSAIO
+
 ---
 
 Parte 1

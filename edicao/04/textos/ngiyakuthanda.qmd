@@ -1,7 +1,10 @@
 ---
-title: "Ngiyakuthanda"
-author: 
-  - name: Figo Maduro
+title: Ngiyakuthanda
+author:
+- name: Figo Maduro
+categories:
+- LÍRICO
+
 ---
 
 ::: {#text-center}

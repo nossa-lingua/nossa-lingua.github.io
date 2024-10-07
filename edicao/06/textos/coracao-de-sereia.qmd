@@ -1,7 +1,10 @@
 ---
-title: "Coração de areia"
-author: 
-  - name: Matheus Quintana Sousa
+title: Coração de areia
+author:
+- name: Matheus Quintana Sousa
+categories:
+- CONTO
+
 ---
 
 "Na infância, eu não ia à praia para construir castelos de areia, porque sabia que quando eu tivesse que ir embora, teria que deixá-lo lá, ou o pior: alguém viria e o pisotearia sem o menor cuidado e, até mesmo, sem intenção. Eu ia à praia para entrar no mar, sentir as ondas, a maré, a areia sob meus pés. Desde criança, eu prefiro aproveitar meu tempo vivendo e sentindo do que construindo para abandonar ou ver desmoronar. Talvez, só não tenha aprendido que sentimentos também desmoronam, apesar de nunca serem completamente abandonados."

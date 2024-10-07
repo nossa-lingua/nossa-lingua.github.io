@@ -1,7 +1,10 @@
 ---
-title: "Lilás"
-author: 
-  - name: Nabê
+title: Lilás
+author:
+- name: Nabê
+categories:
+- LÍRICO
+
 ---
 
 Assim como o cafuné, a saudade só existe no português. Não sei se é fato, mas li um dia. "O amargor na lembrança doce". Como é manipuladora a saudade!

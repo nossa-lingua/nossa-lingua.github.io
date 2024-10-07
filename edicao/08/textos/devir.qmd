@@ -1,7 +1,10 @@
 ---
-title: "Devir"
-author: 
-  - name: Lauro Aryel Magalhães
+title: Devir
+author:
+- name: Lauro Aryel Magalhães
+categories:
+- POEMA
+
 ---
 
 | Da terra, plange a natureza.

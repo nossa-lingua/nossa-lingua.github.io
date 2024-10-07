@@ -1,7 +1,10 @@
 ---
 title: Dedicatórias
-author: 
-  - name: Lual
+author:
+- name: Lual
+categories:
+- CONTO
+
 ---
 
 <u>Dedicatórias</u>

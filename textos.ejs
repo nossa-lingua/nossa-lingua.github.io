@@ -1,0 +1,39 @@
+<% 
+  const groupedItems = items.reduce((acc, item) => {
+
+    if (!item.categories) {
+        return acc;
+    }
+
+    const category = item.categories[0];
+    if (!acc[category]) {
+      acc[category] = [];
+    }
+    acc[category].push(item);
+    return acc;
+  }, {}); 
+%>
+
+<ul>
+    <% for (let category in groupedItems) { %>
+      <h2><%= category %></h2>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <% groupedItems[category].slice(0, 3).forEach(item => { %>
+          <li style="padding-top: 3px;"><a href="<%- item.path %>"><%= item.title %></a> por <%= item.author %></li>
+        <% }); %>
+      </ul>
+
+      <% if (groupedItems[category].length > 3) { %>
+        <details>
+            <summary>Ver mais</summary>
+            <ul style="list-style-type: none; padding-left: 0;">
+                <% groupedItems[category].slice(3).forEach(item => { %>
+                    <li style="padding-top: 3px;"><a href="<%- item.path %>"><%= item.title %></a> por <%= item.author %></li>
+                <% }); %>
+            </ul>
+        </details>
+      <% } %>
+
+    <% } %>
+</ul>
+

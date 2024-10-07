@@ -1,7 +1,10 @@
 ---
-title: 'Qual a chance'
-author: 
-  - name: "Gabriel Leal"
+title: Qual a chance
+author:
+- name: Gabriel Leal
+categories:
+- CONTO
+
 ---
 
 — E aí, tava lá? Tava lá? TAVA?

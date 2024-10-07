@@ -1,7 +1,10 @@
 ---
-title: 'Promessas'
-author: 
-  - name: "Sea Star"
+title: Promessas
+author:
+- name: Sea Star
+categories:
+- LÍRICO
+
 ---
 
 Dizem que aqueles que juram costumam mentir, então, se você deseja acreditar na palavra de alguém, peça-lhe que prometa, pois, popularmente, promessas são dívidas perpétuas.

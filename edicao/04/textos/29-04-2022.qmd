@@ -1,7 +1,10 @@
 ---
-title: "29/04/2022"
-author: 
-  - name: Milena Miyazaki Grigoletto
+title: 29/04/2022
+author:
+- name: Milena Miyazaki Grigoletto
+categories:
+- POEMA
+
 ---
 
 | Afrodite acredita no Amor

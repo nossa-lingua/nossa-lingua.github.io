@@ -1,7 +1,10 @@
 ---
-title: "notas sobre o amor"
-author: 
-  - name: Letícia Montes
+title: notas sobre o amor
+author:
+- name: Letícia Montes
+categories:
+- POEMA
+
 ---
 
 | dizem que amar é doloroso 

@@ -1,7 +1,10 @@
 ---
-title: "reconhecença"
-author: 
-  - name: Letícia Montes
+title: reconhecença
+author:
+- name: Letícia Montes
+categories:
+- POEMA
+
 ---
 
 | todas essas histórias — 

@@ -1,7 +1,10 @@
 ---
-title: "Nu Inacabado, Oscar Pereira da Silva"
-author: 
-  - name: Pedro Santos
+title: Nu Inacabado, Oscar Pereira da Silva
+author:
+- name: Pedro Santos
+categories:
+- LÍRICO
+
 ---
 
 É lindo. Mesmo por trás do vidro. Cada traço no corpo violeta-rosado fala; o olhar branco na cara branca, como o inacabado esparso pela obra, quase que intencional, faltando — como a vida. O pensamento repassa em minha cabeça, duas ou três vezes e o amasso antes de você me perguntar: “Vamos?”. Te observo concentrado no quadro, eu nu e envergonhado. A Pinacoteca está cheia, é sábado e a entrada é gratuita. As pessoas andam pelo santuário de silêncio farfalhando e os celulares são tantos que é como se fossem câmeras antigas, clicando a cada foto tirada, à altura dos olhos. Descemos na estação da Luz, vindo da sua casa em Pinheiros. Eu nunca tinha parado lá, então fez questão de pegar o metrô no nosso caminho. Éramos ingleses perdidos sob os arcos férreos, nem mais parecíamos estar em São Paulo. Esqueço que o mundo é tão grande.

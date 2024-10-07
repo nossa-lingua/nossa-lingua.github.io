@@ -1,7 +1,10 @@
 ---
-title: 'Banquete do tempo'
-author: 
-  - name: "Henrique de Oliveira Calheiros"
+title: Banquete do tempo
+author:
+- name: Henrique de Oliveira Calheiros
+categories:
+- POEMA
+
 ---
 
 | Abro um círculo, abro a boca e devoro um relógio

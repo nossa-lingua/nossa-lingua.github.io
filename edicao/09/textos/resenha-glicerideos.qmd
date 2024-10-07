@@ -1,7 +1,10 @@
 ---
 title: 'Resenha: "Glicerídeos" de Junji Ito'
-author: 
-  - name: 'Vitor Baratinha'
+author:
+- name: Vitor Baratinha
+categories:
+- RESENHA
+
 ---
 
 Glicerídeos é um conto que faz parte do compilado  “Contos Esmagadores”, lançado no Brasil em 2023 pela editora Pipoca e Nanquim.

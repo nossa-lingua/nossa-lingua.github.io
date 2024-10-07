@@ -1,7 +1,10 @@
 ---
-title: 'Borbulhas'
-author: 
-  - name: "Rodrigo Adriano Machado"
+title: Borbulhas
+author:
+- name: Rodrigo Adriano Machado
+categories:
+- CONTO
+
 ---
 
 <p style="text-align:right; text-style:italic">

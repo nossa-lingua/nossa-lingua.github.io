@@ -1,7 +1,10 @@
 ---
-title: 'Avessa Avareza'
-author: 
-  - name: "Rafael Mendes de Barros"
+title: Avessa Avareza
+author:
+- name: Rafael Mendes de Barros
+categories:
+- POEMA
+
 ---
 
 | Vago dá-se aqui tal Destino ao aval,

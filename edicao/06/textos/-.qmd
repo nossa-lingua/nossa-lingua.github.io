@@ -1,7 +1,10 @@
 ---
-title: "-"
-author: 
-  - name: Anônimo
+title: '-'
+author:
+- name: Anônimo
+categories:
+- POEMA
+
 ---
 
 | Você tinha apenas doze,

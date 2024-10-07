@@ -1,7 +1,10 @@
 ---
-title: "Nóis contra eles"
-author: 
-  - name: Gabriel Leal
+title: Nóis contra eles
+author:
+- name: Gabriel Leal
+categories:
+- CONTO
+
 ---
 
 | — Essa porra desta obra é o mais completo absurdo!

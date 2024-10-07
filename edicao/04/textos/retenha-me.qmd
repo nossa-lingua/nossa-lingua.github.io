@@ -1,7 +1,10 @@
 ---
-title: "Sua cidade"
-author: 
-  - name: Marina Ferreira
+title: Sua cidade
+author:
+- name: Marina Ferreira
+categories:
+- POEMA
+
 ---
 
 | Retenha-me, peço, em plácido encanto 

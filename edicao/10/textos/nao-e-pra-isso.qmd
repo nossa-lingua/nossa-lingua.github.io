@@ -1,7 +1,10 @@
 ---
-title: '(não) é para isso que eu pago a internet'
-author: 
-  - name: "Lilian Barros"
+title: (não) é para isso que eu pago a internet
+author:
+- name: Lilian Barros
+categories:
+- CONTO
+
 ---
 
 Abro a rede social, a barra de notificação mostra que tenho dez marcações novas em comentários, vejo que todos foram feitos pela @: 

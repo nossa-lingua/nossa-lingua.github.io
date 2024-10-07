@@ -1,7 +1,10 @@
 ---
-title: 'Caos e cosmos'
-author: 
-  - name: "Ludmilla Rios"
+title: Caos e cosmos
+author:
+- name: Ludmilla Rios
+categories:
+- CONTO
+
 ---
 
 De certa feita havia céus e terra e era necessário fazer criaturas. O exagero das criaturas. Num grande caldeirão de dendê, nada frutado, oliveiro ou extravirgem, a quatro mãos se tirava o azeite borbulhante da superfície, se fazia uma dança, se beijava assombroso em cima da pia, se chupava, demoradamente, o dedo queimado da panela quente, na cozinha celestial, e assim nasceram as criaturas — das gotas pulando do dendê, do ar úmido expirado, dos olhos quase fechados, do susto. 

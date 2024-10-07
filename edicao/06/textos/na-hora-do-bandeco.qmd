@@ -1,7 +1,10 @@
 ---
-title: "Na Hora do Bandeco"
-author: 
-  - name: Isaac Retiro Libera Martins
+title: Na Hora do Bandeco
+author:
+- name: Isaac Retiro Libera Martins
+categories:
+- CRÔNICA
+
 ---
 
 > Senão chega a morte
