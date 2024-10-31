@@ -1,0 +1,70 @@
+---
+title: "18<sup>a</sup> Edição - IRA"
+date: "2024-09-26"
+image: "17ed.jpeg"
+description: |
+   Na força do ódio
+
+listing: 
+  - id: edicao
+    type: default
+    contents:
+      - textos/o-tal-retorno.qmd
+      - textos/origami.qmd
+      - textos/desproporcao.qmd
+      - textos/caspita.qmd
+    sort: "false"
+    fields: [title, author]
+---
+
+## Na força do ódio
+
+<!-- ![](capa.jpeg){.imgpar width="60%"} -->
+
+Pra quem acredita que sentir muita raiva só pode ser algo advindo da internet, é porque nunca dirigiu em São Paulo. Dentro daquele labirinto caótico vemos o verdadeiro pecado da Ira em plena força e atividade, pulsando nas rodas contra o asfalto. Ali, a Ira pode levar à morte, se não, a um osso quebrado, um roxo no olho ou até mesmo uma lembrança amarga durante dias de um xingamento pesado. O trânsito de SP ilustra bem esse pecado cheio de força e potencial coletivo destrutivo. Há quem defenda sua pulsão e se apoie nessa energia para realizar o que precisa ser feito, mas essa saída é mesmo eficaz?
+
+Realmente, dentre os pecados, a Ira parece ser o que mais impulsiona as pessoas. "Na força do ódio" se tornou uma frase muito popular para descrever uma atitude baseada na raiva para concluir determinada tarefa e não é à toa que a cultura transparece por meio  de expressões lacônicas hábitos coletivos comuns. Essa energia que aparece quando parecemos derrotados se torna muito conveniente em uma sociedade (ocidental, somente?) apática e cansada. Assim, se já não há vitalidade para viver, atividades e humores passivos se tornam rotineiros, afinal tudo é copioso e desinteressante em uma timeline infinita. Nessa lógica derrotista, quem cria conteúdo já entendeu que apenas uma boa dose de negatividade, indignação e conflito é capaz de gerar uma reação. Sem teoria da conspiração, headlines absurdos na caça pelos cliques em jornais tradicionais anteviram essa façanha, depois, como tudo no capitalismo contemporâneo, bastou ser multiplicado, copiado por qualquer um na internet. Com seu lugar ao sol, o ódio tem sido o conteúdo que mais engaja conteúdos nas redes. A excitação provocada por esse sentimento produz o pecado da Ira num movimento bastante simples e repetitivo: as pessoas veem um conteúdo chamativo odioso e são afetadas pela indignação que logo se transforma em raiva e Ira na maneira descontrolada que reagem na internet, com seus julgamentos desmedidos. Nesse púlpito não há ponderação, apenas sentenças. E, nesse circuito irascível, basta reagir de imediato, sem dar nem uma pequena pausa sequer para a reflexão e reproduzir a violência novamente. 
+
+Outra consequência dessa dinâmica se encontra na preferência do conteúdo  à informação, pois se torna necessário que qualquer mensagem seja elevada à potência negativa para que ganhe a devida atenção. Nosso olhar foi treinado para o que há de pior e o que apetece é um conteúdo autorreferente, direto e sem camadas. Quanto mais simples e revoltante, melhor a penetração cognitiva. É bater o olho e sentir com o estômago (já cheio de azia e úlceras). De fato, esse comportamento viciante faz pensar se o problema é o mundo ao nosso redor ou nós mesmos em relação a ele. Se apenas considerarmos que as outras pessoas são odiosas, não nos colocaremos na mesma posição - pois somos boas pessoas, somos do bem. Ou seja, essa lógica mais parece contribuir para que possamos julgar e nos colocarmos acima parecendo mais fácil odiar o outro do que olhar para si. Dessa forma, após essa descarga elétrica negativa, podemos voltar para o nosso corpo exausto de humor impassível.
+
+## Outubro
+
+Neste mês de horrores, seja na fantasia ou na política, pedimos para vocês descontarem a raiva, o ódio e a indignação no pecado da Ira. ["O tal retorno"](textos/o-tal-retorno.qmd) nos convida para uma reflexão indignada e necessária, mas em um nível mais profundo, é uma espécie de raiva pela dicotomia entre fé x ceticismo,  impasse que ilustra muito bem o estado “espiritual” das gerações modernas ocidentais; O poema ["Origami"](textos/origami.qmd) evoca a arte precisa e delicada para a metáfora da raiva implicada no texto de maneira sofisticada e sutil; ["Desproporção"](textos/desproporcao.qmd) trabalha a Ira por meio de um eu-lírico que reclama sem perder o controle diante de um Deus aparentemente injusto, de mão pesada e ["Caspita"](textos/caspita.qmd) transparece em caminho de frases sinuosos o exercício de colocar em palavras os nossos sentimentos; processo vital para quem escreve.  
+
+Kaio Moreira, ilustrador e diretor de arte, assina a ilustra da edição de setembro. Com suas cores e traços marcantes, Kaio deu vida ao nosso gato soberbo com seu olhar superior. Confira seu trabalho em: [@okaiomoreira](https://www.instagram.com/okaiomoreira)
+
+## Textos nesta edição
+
+::: {#edicao}
+:::
+
+## <i class="bi bi-mic-fill"></i> Fala memo!
+
+Eai, td certo? A Nossa Língua quer trocar ideia, mas pra esse papo acontecer cê precisa chegar junto também. Se a revista será feita das inúmeras vozes (dissonantes) da nossa querida Letras, sua presença é vital!
+
+Então, pensa com carinho! Manda no nosso [forms](https://forms.gle/DLdK8XZ6FbcQp5bD9) aquela rima guardada na gaveta, aquele texto top que cê quer ver o pessoal discutindo, uma análise de um filme mucho loco, um poema esquecido nas notas do cel... Bota pra circular as ideias! Não é tão difícil assim, vai.
+
+Vem que a gente tá te esperando, beletrista!
+
+::: callout-important
+Para os textos serem publicados em nossa revista, seguimos alguns norteadores éticos para que o respeito e a convivência sejam mantidos. Fora isso, todas as penas valem a pena, se acanha não!
+
+**Proibido** -- Violência ou ataque com base na raça, etnia, nacionalidade, sexo, gênero, identidade de gênero, orientação sexual, religião, deficiências ou doenças; Ataques individuais com constrangimento e degradação; Apologia a grupos de extrema direita política.
+
+**Obrigatório** -- Seguir os prazos sugeridos; e respeitar os pareceres da Equipe Editorial.
+:::
+
+## Equipe editorial
+
+<p>
+
+</p>
+
+| Alyson Freitas - Revisão textual
+| Bruna Silva - Revisão literária
+| Cibele M Brotto - Editoração
+| 
+| Colaboração:
+| Attílio Braghetto
+| Guilherme Faber
+| Livia Bernardes

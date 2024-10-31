@@ -203,6 +203,13 @@ website:
                 - edicao/17/index.qmd
                 - edicao/17/textos/incolume-soberba.qmd
                 - edicao/17/textos/meditacao.qmd
+          - section: Edição 18
+            contents:
+                - edicao/18/index.qmd
+                - edicao/18/textos/o-tal-retorno.qmd
+                - edicao/18/textos/origami.qmd
+                - edicao/18/textos/desproporcao.qmd
+                - edicao/18/textos/caspita.qmd
               
 
 format:
