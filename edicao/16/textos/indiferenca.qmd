@@ -2,6 +2,8 @@
 title: 'Indiferença'
 author: 
   - name: "Amanda Genevieve"
+categories:
+- CRÔNICA
 ---
 
 Era uma sexta-feira, saí do trabalho, passei em casa, me arrumei e fui em direção ao bar

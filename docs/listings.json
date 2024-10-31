@@ -136,7 +136,11 @@
       "/edicao/16/textos/tem-um-lugar-pra-mim.html",
       "/edicao/16/textos/tia-auxiliadora-responde.html",
       "/edicao/17/textos/incolume-soberba.html",
-      "/edicao/17/textos/meditacao.html"
+      "/edicao/17/textos/meditacao.html",
+      "/edicao/18/textos/caspita.html",
+      "/edicao/18/textos/desproporcao.html",
+      "/edicao/18/textos/o-tal-retorno.html",
+      "/edicao/18/textos/origami.html"
     ]
   },
   {
@@ -197,6 +201,15 @@
       "/edicao/05/textos/rapto-da-razao.html",
       "/edicao/05/textos/meu-antinoo.html",
       "/edicao/05/textos/barbie.html"
+    ]
+  },
+  {
+    "listing": "/edicao/18/index.html",
+    "items": [
+      "/edicao/18/textos/o-tal-retorno.html",
+      "/edicao/18/textos/origami.html",
+      "/edicao/18/textos/desproporcao.html",
+      "/edicao/18/textos/caspita.html"
     ]
   },
   {
@@ -350,6 +363,7 @@
   {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/18/index.html",
       "/edicao/17/index.html",
       "/edicao/16/index.html",
       "/edicao/15/index.html",
@@ -372,6 +386,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/18/index.html",
       "/edicao/17/index.html",
       "/edicao/16/index.html",
       "/edicao/15/index.html",

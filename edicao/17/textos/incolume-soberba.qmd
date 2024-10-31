@@ -2,6 +2,8 @@
 title: 'Incólume Soberba'
 author: 
   - name: "Caio Aruanã Batista"
+categories:
+- POEMA
 ---
 
 | Trapezistas da arrogância, 

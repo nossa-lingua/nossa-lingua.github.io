@@ -2,6 +2,8 @@
 title: 'Campampante'
 author: 
   - name: "Caio Aruanã Batista"
+categories:
+- CONTO
 ---
 
 Numa angulação, indiferente para a maioria, encontro o substrato da minha alma como que intocado pelos caminhos batidos das estradas esquecidas. Encontro, no recôndito mais inexplorado, a esperança da existência dum lugar cuja presença não se faça presente.

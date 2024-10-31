@@ -2,6 +2,8 @@
 title: 'Presenças'
 author: 
   - name: "Rafael Mendes"
+categories:
+- POEMA
 ---
 
 | Há, decerto, algumas que nos deformam

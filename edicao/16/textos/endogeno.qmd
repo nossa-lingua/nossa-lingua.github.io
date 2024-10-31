@@ -2,6 +2,8 @@
 title: 'Endógeno'
 author: 
   - name: "Guilherme Faber"
+categories:
+- POEMA
 ---
 
 | Indiferente como sempre estabelecido
