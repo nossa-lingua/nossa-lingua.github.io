@@ -2,6 +2,8 @@
 title: 'Tem lugar para mim?'
 author: 
   - name: "Paula S."
+categories:
+- CONTO
 ---
 
 Um elevador. Normal, comum, nada de especial, o único no prédio. Mas em sua porta fechada há faixas amarelas e pretas se cruzando, quase como uma cena de crime, e nas suas portas um aviso colado, o elevador se encontra quebrado, sem previsão de conserto.

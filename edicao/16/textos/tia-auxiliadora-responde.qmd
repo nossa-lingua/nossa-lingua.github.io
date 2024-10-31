@@ -2,6 +2,8 @@
 title: 'Tia Auxiliadora Responde'
 author: 
   - name: "Anônimo"
+categories:
+- CRÔNICA
 ---
 
 *“Querida Tia Auxiliadora, eu estou interessada em um cara do trabalho já tem uns meses, mas não sei mais o que fazer para que ele me chame para sair. Eu sempre puxo assunto, dou um jeito de ficar próxima e mais de uma vez comentei que estou solteira ou que me animo em sair depois do trabalho para comer ou beber uns drinks. Mas até agora nada, ele me responde sempre educado e sorrindo, mas fora isso nunca fala comigo. Por favor, me ajuda! A.: Trabalhadora Desesperada por Amor.”*
