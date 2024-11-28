@@ -140,7 +140,12 @@
       "/edicao/18/textos/caspita.html",
       "/edicao/18/textos/desproporcao.html",
       "/edicao/18/textos/o-tal-retorno.html",
-      "/edicao/18/textos/origami.html"
+      "/edicao/18/textos/origami.html",
+      "/edicao/19/textos/cartas-para-machado.html",
+      "/edicao/19/textos/copacabana.html",
+      "/edicao/19/textos/inveja-casas-vazias.html",
+      "/edicao/19/textos/merecimento.html",
+      "/edicao/19/textos/pleura-do-momento-presente.html"
     ]
   },
   {
@@ -258,6 +263,16 @@
     ]
   },
   {
+    "listing": "/edicao/19/index.html",
+    "items": [
+      "/edicao/19/textos/copacabana.html",
+      "/edicao/19/textos/merecimento.html",
+      "/edicao/19/textos/cartas-para-machado.html",
+      "/edicao/19/textos/pleura-do-momento-presente.html",
+      "/edicao/19/textos/inveja-casas-vazias.html"
+    ]
+  },
+  {
     "listing": "/edicao/07/index.html",
     "items": [
       "/edicao/07/textos/o-que-te-revolta.html",
@@ -363,6 +378,7 @@
   {
     "listing": "/todas-edicoes.html",
     "items": [
+      "/edicao/19/index.html",
       "/edicao/18/index.html",
       "/edicao/17/index.html",
       "/edicao/16/index.html",
@@ -386,6 +402,7 @@
   {
     "listing": "/edicoes.html",
     "items": [
+      "/edicao/19/index.html",
       "/edicao/18/index.html",
       "/edicao/17/index.html",
       "/edicao/16/index.html",
