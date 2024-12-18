@@ -220,6 +220,7 @@ website:
                 - edicao/19/textos/inveja-casas-vazias.qmd
           - section: Edição 20
             contents:
+                - edicao/20/index.qmd
                 - edicao/20/textos/exame-da-cnh.qmd
                 - edicao/20/textos/o-pacto.qmd
                 - edicao/20/textos/moralismo.qmd
